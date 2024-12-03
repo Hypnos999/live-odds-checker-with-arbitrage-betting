@@ -62,4 +62,5 @@ I uploaded both the files in the output folder and the script logs in files/logs
 
 
 ## Disclaimer
-Since i didn't implement a proxy you will be sending requests with your own IP, pay attention to not having the value of config.sleep_after_run set too low or running the scripts for too much time as websites could temporarily limit your IP (you can see that in the scrapers logs in files/logs/scrapers/, it will tell you that the response return a 403 code, look at eurobet.log for example)
+Since i didn't implement a proxy you will be sending requests with your own IP, pay attention to not having the value of config.sleep_after_run set too low or running the script for too long. 
+As websites could temporarily limit your IP (you can see that in the scrapers logs in files/logs/scrapers/, it will tell you that the response return a 403 code, look at eurobet.log for example)
