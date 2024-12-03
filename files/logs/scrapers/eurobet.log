@@ -1,0 +1,48 @@
+2024-12-03 21:40:58,508: 
+2024-12-03 21:40:58,508: Iteration n.0
+2024-12-03 21:40:58,740: Request, code 403
+Traceback (most recent call last):
+  File "/home/hypnos999/Desktop/live-odds-checker-with-arbitrage-betting/scripts/scraping/scraper.py", line 72, in scrape
+    raise Exception(f'Request, code {r.status_code}')
+Exception: Request, code 403
+2024-12-03 21:40:59,117: found n.0 events
+2024-12-03 21:41:04,133: 
+2024-12-03 21:41:04,133: Iteration n.1
+2024-12-03 21:41:04,261: Request, code 403
+Traceback (most recent call last):
+  File "/home/hypnos999/Desktop/live-odds-checker-with-arbitrage-betting/scripts/scraping/scraper.py", line 72, in scrape
+    raise Exception(f'Request, code {r.status_code}')
+Exception: Request, code 403
+2024-12-03 21:41:04,720: found n.0 events
+2024-12-03 21:41:09,736: 
+2024-12-03 21:41:09,736: Iteration n.2
+2024-12-03 21:41:09,861: Request, code 403
+Traceback (most recent call last):
+  File "/home/hypnos999/Desktop/live-odds-checker-with-arbitrage-betting/scripts/scraping/scraper.py", line 72, in scrape
+    raise Exception(f'Request, code {r.status_code}')
+Exception: Request, code 403
+2024-12-03 21:41:10,172: found n.0 events
+2024-12-03 21:41:15,188: 
+2024-12-03 21:41:15,188: Iteration n.3
+2024-12-03 21:41:15,335: Request, code 403
+Traceback (most recent call last):
+  File "/home/hypnos999/Desktop/live-odds-checker-with-arbitrage-betting/scripts/scraping/scraper.py", line 72, in scrape
+    raise Exception(f'Request, code {r.status_code}')
+Exception: Request, code 403
+2024-12-03 21:41:15,962: found n.0 events
+2024-12-03 21:41:20,981: 
+2024-12-03 21:41:20,981: Iteration n.4
+2024-12-03 21:41:21,147: Request, code 403
+Traceback (most recent call last):
+  File "/home/hypnos999/Desktop/live-odds-checker-with-arbitrage-betting/scripts/scraping/scraper.py", line 72, in scrape
+    raise Exception(f'Request, code {r.status_code}')
+Exception: Request, code 403
+2024-12-03 21:41:21,411: found n.0 events
+2024-12-03 21:41:26,427: 
+2024-12-03 21:41:26,427: Iteration n.5
+2024-12-03 21:41:26,552: Request, code 403
+Traceback (most recent call last):
+  File "/home/hypnos999/Desktop/live-odds-checker-with-arbitrage-betting/scripts/scraping/scraper.py", line 72, in scrape
+    raise Exception(f'Request, code {r.status_code}')
+Exception: Request, code 403
+2024-12-03 21:41:26,952: found n.0 events

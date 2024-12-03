@@ -49,7 +49,7 @@ The results of each iteration of this loop will be written in the output folder,
 4. info.json --> a dictionary where the key is events bet_radar_ids and the value is their info
 4. events_by_sport.json --> a dictionary where the key is the sport name and the value is a list of all the events for that sport
    
-
+I uploaded both the files in the output folder and the script logs in files/logs so that you can have a look at an example run.
 
 
 ## How to:
@@ -58,3 +58,8 @@ The results of each iteration of this loop will be written in the output folder,
 3. run pip install -r requirements.txt
 4. set script behavior by changing config.py
 5. run python main.py
+
+
+
+## Disclaimer
+Since i didn't implement a proxy you will be sending requests with your own IP, pay attention to not having the value of config.sleep_after_run set too low or running the scripts for too much time as websites could temporarily limit your IP (you can see that in the scrapers logs in files/logs/scrapers/, it will tell you that the response return a 403 code, look at eurobet.log for example)
