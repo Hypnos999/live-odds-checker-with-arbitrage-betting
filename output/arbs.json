@@ -1,0 +1,50 @@
+[
+  {
+    "bet_radar_id": "51549657",
+    "cycle": 0,
+    "probability": 0.9878048780487805,
+    "sportbooks": [
+      "sisal",
+      "better"
+    ],
+    "staus": true,
+    "score": 1.1219512195121952,
+    "info": {
+      "better": {
+        "sport": "basket",
+        "name": "panathinaikos - barcellona",
+        "minute": "3&deg; Q",
+        "score": "55-61"
+      },
+      "sisal": {
+        "sport": "basket",
+        "name": "Panathinaikos - Barcellona",
+        "start": "2024-12-03T19:15:00.000Z",
+        "period": "3\u00b0 Quarto",
+        "score": [
+          "55 - 63"
+        ]
+      }
+    },
+    "bets": [
+      {
+        "odd": 2.05,
+        "sportbook": "sisal",
+        "stake": 50,
+        "win": 102.49999999999999,
+        "bet_type": "T/T",
+        "outcome": "1",
+        "bet_radar_id": "51549657"
+      },
+      {
+        "odd": 2.0,
+        "sportbook": "better",
+        "stake": 50,
+        "win": 100.0,
+        "bet_type": "T/T",
+        "outcome": "2",
+        "bet_radar_id": "51549657"
+      }
+    ]
+  }
+]
