@@ -1,67 +1,172 @@
 {
+  "56067441": {
+    "T/T": {
+      "1": {
+        "allinbet": 5.25,
+        "sisal": 4.75,
+        "vincitu": 4.6
+      },
+      "2": {
+        "allinbet": 1.1,
+        "sisal": 1.15,
+        "vincitu": 1.15
+      }
+    },
+    "T/T SET": {
+      "1": {
+        "vincitu": 2.4
+      },
+      "2": {
+        "vincitu": 1.5
+      }
+    }
+  },
+  "56104791": {
+    "T/T": {
+      "1": {
+        "allinbet": 3.3,
+        "better": 3.05,
+        "sisal": 3.0,
+        "vincitu": 2.9
+      },
+      "2": {
+        "allinbet": 1.26,
+        "better": 1.3,
+        "sisal": 1.3,
+        "vincitu": 1.3
+      }
+    },
+    "T/T SET": {
+      "1": {
+        "vincitu": 1.8
+      },
+      "2": {
+        "vincitu": 1.75
+      }
+    }
+  },
+  "56104809": {
+    "T/T": {
+      "1": {
+        "allinbet": 1.22,
+        "better": 1.22
+      },
+      "2": {
+        "allinbet": 3.75,
+        "better": 3.6
+      }
+    }
+  },
+  "56104761": {
+    "T/T": {
+      "1": {
+        "allinbet": 1.62,
+        "better": 1.6,
+        "sisal": 1.7,
+        "vincitu": 1.57
+      },
+      "2": {
+        "allinbet": 2.05,
+        "better": 2.1,
+        "sisal": 1.9,
+        "vincitu": 2.05
+      }
+    },
+    "T/T SET": {
+      "1": {
+        "vincitu": 1.12
+      },
+      "2": {
+        "vincitu": 4.3
+      }
+    }
+  },
+  "56102951": {
+    "T/T": {
+      "1": {
+        "allinbet": 1.22,
+        "better": 1.22,
+        "sisal": 1.3,
+        "vincitu": 1.2
+      },
+      "2": {
+        "allinbet": 3.75,
+        "better": 3.55,
+        "sisal": 3.0,
+        "vincitu": 3.45
+      }
+    },
+    "T/T SET": {
+      "1": {
+        "vincitu": 1.32
+      },
+      "2": {
+        "vincitu": 2.75
+      }
+    }
+  },
   "54019487": {
     "GG/NG": {
       "GG": {
-        "allinbet": 1.9,
+        "allinbet": 2.0,
         "vincitu": 1.95
       },
       "NG": {
-        "allinbet": 1.78,
+        "allinbet": 1.66,
         "vincitu": 1.7
       }
     },
     "1X2": {
       "X": {
         "better": 14.5,
-        "sisal": 250.0,
+        "sisal": 300.0,
         "vincitu": 9.5
       },
       "2": {
         "better": 275.0,
-        "sisal": 300.0,
+        "sisal": 501.0,
         "vincitu": 65.0
       }
     },
     "DC": {
       "X2": {
         "better": 250.0,
-        "sisal": 57.69
+        "sisal": 65.23
       }
     }
   },
   "50850237": {
     "1X2": {
       "1": {
-        "allinbet": 3.5,
-        "sisal": 3.75
+        "allinbet": 3.75,
+        "sisal": 4.25
       },
       "X": {
-        "allinbet": 2.4,
-        "sisal": 2.25
+        "allinbet": 2.25,
+        "sisal": 2.1
       },
       "2": {
         "allinbet": 2.75,
         "sisal": 2.8
       }
     },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 4.25
+      },
+      "NG": {
+        "allinbet": 1.2
+      }
+    },
     "DC": {
       "1X": {
-        "allinbet": 1.39,
         "sisal": 1.38
       },
       "X2": {
-        "sisal": 1.23
+        "sisal": 1.18
       },
       "12": {
-        "sisal": 1.57
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 3.75
-      },
-      "NG": {
-        "allinbet": 1.26
+        "sisal": 1.65
       }
     }
   },
@@ -69,199 +174,63 @@
     "1X2": {
       "1": {
         "allinbet": 1.9,
-        "sisal": 2.05
-      },
-      "X": {
-        "allinbet": 3.5,
-        "sisal": 3.4
-      },
-      "2": {
-        "allinbet": 3.75,
-        "sisal": 3.5
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.26,
-        "sisal": 1.26
-      },
-      "X2": {
-        "sisal": 1.69
-      },
-      "12": {
-        "sisal": 1.27
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 1.22
-      },
-      "NG": {
-        "allinbet": 4.0
-      }
-    }
-  },
-  "51093489": {
-    "1X2": {
-      "1": {
-        "allinbet": 2.0,
         "sisal": 1.95
       },
       "X": {
-        "allinbet": 3.2,
-        "sisal": 2.75
+        "allinbet": 3.5,
+        "sisal": 3.25
       },
       "2": {
         "allinbet": 4.0,
+        "sisal": 4.0
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 1.22,
+        "sisal": 1.2
+      },
+      "X2": {
+        "sisal": 1.76
+      },
+      "12": {
+        "sisal": 1.29
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 1.28
+      },
+      "NG": {
+        "allinbet": 3.5
+      }
+    }
+  },
+  "51093471": {
+    "1X2": {
+      "1": {
+        "allinbet": 4.0,
         "sisal": 3.75
+      },
+      "X": {
+        "allinbet": 3.2,
+        "sisal": 2.8
+      },
+      "2": {
+        "allinbet": 2.0,
+        "sisal": 1.95
       }
     },
     "DC": {
       "1X": {
-        "allinbet": 1.1,
-        "sisal": 1.12
+        "allinbet": 1.54,
+        "sisal": 1.57
       },
       "X2": {
-        "sisal": 1.56
+        "sisal": 1.13
       },
       "12": {
         "sisal": 1.26
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 2.15
-      },
-      "NG": {
-        "allinbet": 1.58
-      }
-    }
-  },
-  "51093477": {
-    "1X2": {
-      "1": {
-        "allinbet": 1.03
-      },
-      "X": {
-        "allinbet": 15.0,
-        "sisal": 14.0
-      },
-      "2": {
-        "allinbet": 40.0,
-        "sisal": 50.0
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 2.05
-      },
-      "NG": {
-        "allinbet": 1.62
-      }
-    },
-    "DC": {
-      "X2": {
-        "sisal": 9.85
-      }
-    }
-  },
-  "51093487": {
-    "1X2": {
-      "1": {
-        "allinbet": 2.7,
-        "sisal": 2.75
-      },
-      "X": {
-        "allinbet": 2.6,
-        "sisal": 2.35
-      },
-      "2": {
-        "allinbet": 3.1,
-        "sisal": 3.0
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.2,
-        "sisal": 1.25
-      },
-      "X2": {
-        "sisal": 1.3
-      },
-      "12": {
-        "sisal": 1.41
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 2.9
-      },
-      "NG": {
-        "allinbet": 1.33
-      }
-    }
-  },
-  "51093475": {
-    "1X2": {
-      "1": {
-        "allinbet": 1.9,
-        "sisal": 1.8
-      },
-      "X": {
-        "allinbet": 3.1,
-        "sisal": 2.75
-      },
-      "2": {
-        "allinbet": 4.75,
-        "sisal": 4.5
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.05,
-        "sisal": 1.07
-      },
-      "X2": {
-        "sisal": 1.67
-      },
-      "12": {
-        "sisal": 1.26
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 2.6
-      },
-      "NG": {
-        "allinbet": 1.42
-      }
-    }
-  },
-  "51093469": {
-    "1X2": {
-      "1": {
-        "allinbet": 4.25,
-        "sisal": 4.25
-      },
-      "X": {
-        "allinbet": 3.4,
-        "sisal": 2.9
-      },
-      "2": {
-        "allinbet": 1.9,
-        "sisal": 1.8
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.62,
-        "sisal": 1.69
-      },
-      "X2": {
-        "sisal": 1.09
-      },
-      "12": {
-        "sisal": 1.24
       }
     },
     "GG/NG": {
@@ -280,7 +249,7 @@
         "sisal": 1.8
       },
       "X": {
-        "allinbet": 3.3,
+        "allinbet": 3.4,
         "sisal": 2.9
       },
       "2": {
@@ -301,19 +270,289 @@
       }
     }
   },
+  "51093469": {
+    "1X2": {
+      "1": {
+        "allinbet": 4.5,
+        "sisal": 4.0
+      },
+      "X": {
+        "allinbet": 3.4,
+        "sisal": 2.9
+      },
+      "2": {
+        "allinbet": 1.82,
+        "sisal": 1.85
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 1.66,
+        "sisal": 1.65
+      },
+      "X2": {
+        "sisal": 1.11
+      },
+      "12": {
+        "sisal": 1.24
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 1.36
+      },
+      "NG": {
+        "allinbet": 2.7
+      }
+    }
+  },
+  "51093487": {
+    "1X2": {
+      "1": {
+        "allinbet": 2.8,
+        "sisal": 2.9
+      },
+      "X": {
+        "allinbet": 2.5,
+        "sisal": 2.2
+      },
+      "2": {
+        "allinbet": 3.2,
+        "sisal": 3.0
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 1.2,
+        "sisal": 1.23
+      },
+      "X2": {
+        "sisal": 1.25
+      },
+      "12": {
+        "sisal": 1.45
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 3.1
+      },
+      "NG": {
+        "allinbet": 1.28
+      }
+    }
+  },
+  "51093477": {
+    "GG/NG": {
+      "GG": {
+        "allinbet": 2.2
+      },
+      "NG": {
+        "allinbet": 1.54
+      }
+    },
+    "1X2": {
+      "X": {
+        "sisal": 40.0
+      },
+      "2": {
+        "sisal": 100.0
+      }
+    },
+    "DC": {
+      "X2": {
+        "sisal": 22.22
+      }
+    }
+  },
+  "51093475": {
+    "1X2": {
+      "1": {
+        "allinbet": 2.1,
+        "sisal": 1.95
+      },
+      "X": {
+        "allinbet": 2.7,
+        "sisal": 2.5
+      },
+      "2": {
+        "allinbet": 4.5,
+        "sisal": 4.5
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 1.06,
+        "sisal": 1.08
+      },
+      "X2": {
+        "sisal": 1.58
+      },
+      "12": {
+        "sisal": 1.34
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 3.1
+      },
+      "NG": {
+        "allinbet": 1.28
+      }
+    }
+  },
   "51093485": {
     "1X2": {
       "1": {
         "allinbet": 1.42,
-        "sisal": 1.33
+        "sisal": 1.48
       },
       "X": {
         "allinbet": 3.5,
-        "sisal": 3.5
+        "sisal": 2.9
       },
       "2": {
-        "allinbet": 11.0,
-        "sisal": 11.0
+        "allinbet": 12.0,
+        "sisal": 8.5
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 4.25
+      },
+      "NG": {
+        "allinbet": 1.16
+      }
+    },
+    "DC": {
+      "X2": {
+        "sisal": 2.11
+      },
+      "12": {
+        "sisal": 1.24
+      }
+    }
+  },
+  "51093489": {
+    "1X2": {
+      "1": {
+        "allinbet": 2.05,
+        "sisal": 2.0
+      },
+      "X": {
+        "allinbet": 2.8,
+        "sisal": 2.5
+      },
+      "2": {
+        "allinbet": 4.5,
+        "sisal": 4.0
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 1.08,
+        "sisal": 1.09
+      },
+      "X2": {
+        "sisal": 1.51
+      },
+      "12": {
+        "sisal": 1.31
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 2.7
+      },
+      "NG": {
+        "allinbet": 1.36
+      }
+    }
+  },
+  "51093481": {
+    "1X2": {
+      "1": {
+        "allinbet": 1.5,
+        "sisal": 1.48
+      },
+      "X": {
+        "allinbet": 4.0,
+        "sisal": 3.4
+      },
+      "2": {
+        "allinbet": 6.0,
+        "sisal": 6.0
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 1.5
+      },
+      "NG": {
+        "allinbet": 2.3
+      }
+    },
+    "DC": {
+      "1X": {
+        "sisal": 1.02
+      },
+      "X2": {
+        "sisal": 2.12
+      },
+      "12": {
+        "sisal": 1.17
+      }
+    }
+  },
+  "51099135": {
+    "1X2": {
+      "1": {
+        "allinbet": 1.12,
+        "sisal": 1.11
+      },
+      "X": {
+        "allinbet": 7.0,
+        "sisal": 6.0
+      },
+      "2": {
+        "allinbet": 20.0,
+        "sisal": 18.0
+      }
+    },
+    "DC": {
+      "X2": {
+        "sisal": 4.3
+      },
+      "12": {
+        "sisal": 1.03
+      }
+    }
+  },
+  "51099137": {
+    "1X2": {
+      "1": {
+        "allinbet": 2.7,
+        "sisal": 2.6
+      },
+      "X": {
+        "allinbet": 2.3,
+        "sisal": 2.05
+      },
+      "2": {
+        "allinbet": 3.75,
+        "sisal": 3.75
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 1.12,
+        "sisal": 1.13
+      },
+      "X2": {
+        "sisal": 1.3
+      },
+      "12": {
+        "sisal": 1.51
       }
     },
     "GG/NG": {
@@ -323,25 +562,127 @@
       "NG": {
         "allinbet": 1.18
       }
+    }
+  },
+  "51099145": {
+    "GG/NG": {
+      "GG": {
+        "allinbet": 1.9
+      },
+      "NG": {
+        "allinbet": 1.74
+      }
+    },
+    "1X2": {
+      "X": {
+        "sisal": 75.0
+      },
+      "2": {
+        "sisal": 250.0
+      }
     },
     "DC": {
       "X2": {
-        "sisal": 2.58
-      },
-      "12": {
-        "sisal": 1.17
+        "sisal": 36.58
       }
     }
   },
-  "51093481": {
+  "51099151": {
     "1X2": {
       "1": {
-        "allinbet": 2.7,
-        "sisal": 2.7
+        "allinbet": 1.02
       },
       "X": {
-        "allinbet": 3.1,
-        "sisal": 2.6
+        "allinbet": 20.0,
+        "sisal": 17.0
+      },
+      "2": {
+        "allinbet": 50.0,
+        "sisal": 50.0
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 2.2
+      },
+      "NG": {
+        "allinbet": 1.54
+      }
+    },
+    "DC": {
+      "X2": {
+        "sisal": 11.25
+      }
+    }
+  },
+  "51099149": {
+    "GG/NG": {
+      "GG": {
+        "allinbet": 1.82
+      },
+      "NG": {
+        "allinbet": 1.82
+      }
+    },
+    "1X2": {
+      "X": {
+        "sisal": 75.0
+      },
+      "2": {
+        "sisal": 100.0
+      }
+    },
+    "DC": {
+      "X2": {
+        "sisal": 30.0
+      }
+    }
+  },
+  "51099155": {
+    "1X2": {
+      "1": {
+        "allinbet": 4.75,
+        "sisal": 4.5
+      },
+      "X": {
+        "allinbet": 3.2,
+        "sisal": 2.8
+      },
+      "2": {
+        "allinbet": 1.82,
+        "sisal": 1.8
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 1.66,
+        "sisal": 1.69
+      },
+      "X2": {
+        "sisal": 1.08
+      },
+      "12": {
+        "sisal": 1.26
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 1.42
+      },
+      "NG": {
+        "allinbet": 2.6
+      }
+    }
+  },
+  "51099143": {
+    "1X2": {
+      "1": {
+        "allinbet": 3.75,
+        "sisal": 3.6
+      },
+      "X": {
+        "allinbet": 2.4,
+        "sisal": 2.05
       },
       "2": {
         "allinbet": 2.6,
@@ -351,57 +692,21 @@
     "DC": {
       "1X": {
         "allinbet": 1.3,
-        "sisal": 1.3
-      },
-      "X2": {
         "sisal": 1.28
       },
-      "12": {
-        "sisal": 1.3
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 2.05
-      },
-      "NG": {
-        "allinbet": 1.62
-      }
-    }
-  },
-  "51093471": {
-    "1X2": {
-      "1": {
-        "allinbet": 4.0,
-        "sisal": 3.6
-      },
-      "X": {
-        "allinbet": 3.2,
-        "sisal": 2.9
-      },
-      "2": {
-        "allinbet": 2.0,
-        "sisal": 2.0
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.54,
-        "sisal": 1.58
-      },
       "X2": {
-        "sisal": 1.16
+        "sisal": 1.13
       },
       "12": {
-        "sisal": 1.26
+        "sisal": 1.48
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 1.36
+        "allinbet": 3.75
       },
       "NG": {
-        "allinbet": 2.7
+        "allinbet": 1.22
       }
     }
   },
@@ -417,7 +722,7 @@
       },
       "2": {
         "allinbet": 15.0,
-        "sisal": 13.0
+        "sisal": 12.0
       }
     },
     "GG/NG": {
@@ -430,187 +735,17 @@
     },
     "DC": {
       "X2": {
-        "sisal": 3.23
+        "sisal": 3.16
       },
       "12": {
-        "sisal": 1.1
-      }
-    }
-  },
-  "51099145": {
-    "GG/NG": {
-      "GG": {
-        "allinbet": 1.9
-      },
-      "NG": {
-        "allinbet": 1.74
-      }
-    },
-    "1X2": {
-      "X": {
-        "sisal": 100.0
-      },
-      "2": {
-        "sisal": 501.0
-      }
-    },
-    "DC": {
-      "X2": {
-        "sisal": 45.46
-      }
-    }
-  },
-  "51099155": {
-    "1X2": {
-      "1": {
-        "allinbet": 4.5,
-        "sisal": 4.5
-      },
-      "X": {
-        "allinbet": 3.2,
-        "sisal": 2.9
-      },
-      "2": {
-        "allinbet": 1.82,
-        "sisal": 1.75
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.62,
-        "sisal": 1.73
-      },
-      "X2": {
-        "sisal": 1.07
-      },
-      "12": {
-        "sisal": 1.24
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 1.42
-      },
-      "NG": {
-        "allinbet": 2.6
-      }
-    }
-  },
-  "51099137": {
-    "1X2": {
-      "1": {
-        "allinbet": 2.7,
-        "sisal": 2.5
-      },
-      "X": {
-        "allinbet": 2.3,
-        "sisal": 2.15
-      },
-      "2": {
-        "allinbet": 3.75,
-        "sisal": 3.75
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.12,
-        "sisal": 1.14
-      },
-      "X2": {
-        "sisal": 1.34
-      },
-      "12": {
-        "sisal": 1.47
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 3.75
-      },
-      "NG": {
-        "allinbet": 1.22
-      }
-    }
-  },
-  "51099151": {
-    "1X2": {
-      "1": {
-        "allinbet": 1.02
-      },
-      "X": {
-        "allinbet": 20.0,
-        "sisal": 16.0
-      },
-      "2": {
-        "allinbet": 50.0,
-        "sisal": 40.0
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 2.15
-      },
-      "NG": {
-        "allinbet": 1.58
-      }
-    },
-    "DC": {
-      "X2": {
-        "sisal": 10.25
-      }
-    }
-  },
-  "51099149": {
-    "GG/NG": {
-      "GG": {
-        "allinbet": 1.74
-      },
-      "NG": {
-        "allinbet": 1.9
-      }
-    },
-    "1X2": {
-      "X": {
-        "sisal": 90.0
-      },
-      "2": {
-        "sisal": 300.0
-      }
-    },
-    "DC": {
-      "X2": {
-        "sisal": 40.9
-      }
-    }
-  },
-  "51099135": {
-    "1X2": {
-      "1": {
-        "allinbet": 1.12,
-        "sisal": 1.11
-      },
-      "X": {
-        "allinbet": 7.0,
-        "sisal": 6.5
-      },
-      "2": {
-        "allinbet": 20.0,
-        "sisal": 18.0
-      }
-    },
-    "DC": {
-      "X2": {
-        "sisal": 4.55
-      },
-      "12": {
-        "sisal": 1.03
+        "sisal": 1.09
       }
     }
   },
   "51099157": {
     "1X2": {
       "1": {
-        "allinbet": 2.4,
+        "allinbet": 2.3,
         "sisal": 2.2
       },
       "X": {
@@ -624,7 +759,7 @@
     },
     "DC": {
       "1X": {
-        "allinbet": 1.1,
+        "allinbet": 1.08,
         "sisal": 1.11
       },
       "X2": {
@@ -636,46 +771,10 @@
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 3.4
+        "allinbet": 3.3
       },
       "NG": {
-        "allinbet": 1.24
-      }
-    }
-  },
-  "51099143": {
-    "1X2": {
-      "1": {
-        "allinbet": 3.5,
-        "sisal": 3.4
-      },
-      "X": {
-        "allinbet": 2.4,
-        "sisal": 2.15
-      },
-      "2": {
-        "allinbet": 2.6,
-        "sisal": 2.6
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.3,
-        "sisal": 1.29
-      },
-      "X2": {
-        "sisal": 1.16
-      },
-      "12": {
-        "sisal": 1.45
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 3.4
-      },
-      "NG": {
-        "allinbet": 1.24
+        "allinbet": 1.26
       }
     }
   },
@@ -683,9 +782,9 @@
     "1X2": {
       "1": {
         "allinbet": 6.0,
-        "better": 6.5,
-        "sisal": 6.5,
-        "vincitu": 6.5
+        "better": 7.5,
+        "sisal": 7.5,
+        "vincitu": 7.5
       },
       "X": {
         "allinbet": 3.5,
@@ -694,67 +793,20 @@
         "vincitu": 3.25
       },
       "2": {
-        "allinbet": 1.54,
-        "better": 1.55,
-        "sisal": 1.55,
-        "vincitu": 1.52
+        "allinbet": 1.5,
+        "better": 1.47,
+        "sisal": 1.47,
+        "vincitu": 1.47
       }
     },
     "DC": {
       "1X": {
-        "allinbet": 2.0,
-        "better": 2.15,
-        "sisal": 2.14
+        "allinbet": 2.2,
+        "better": 2.25,
+        "sisal": 2.24
       },
       "X2": {
-        "better": 1.05,
-        "sisal": 1.04
-      },
-      "12": {
-        "better": 1.25,
-        "sisal": 1.23
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 1.62,
-        "vincitu": 1.6
-      },
-      "NG": {
-        "allinbet": 2.05,
-        "vincitu": 2.1
-      }
-    }
-  },
-  "55973943": {
-    "1X2": {
-      "1": {
-        "allinbet": 11.0,
-        "better": 9.0,
-        "sisal": 11.0,
-        "vincitu": 9.0
-      },
-      "X": {
-        "allinbet": 3.5,
-        "better": 3.9,
-        "sisal": 3.75,
-        "vincitu": 3.65
-      },
-      "2": {
-        "allinbet": 1.42,
-        "better": 1.4,
-        "sisal": 1.38,
-        "vincitu": 1.37
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 2.6,
-        "better": 2.8,
-        "sisal": 2.72
-      },
-      "X2": {
-        "better": 1.04
+        "better": 1.02
       },
       "12": {
         "better": 1.22,
@@ -763,204 +815,245 @@
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 3.3,
-        "vincitu": 3.15
+        "allinbet": 1.78,
+        "vincitu": 1.7
       },
       "NG": {
-        "allinbet": 1.26,
-        "vincitu": 1.27
+        "allinbet": 1.86,
+        "vincitu": 1.9
+      }
+    }
+  },
+  "55973907": {
+    "GG/NG": {
+      "GG": {
+        "allinbet": 10.0,
+        "vincitu": 5.3
+      },
+      "NG": {
+        "allinbet": 1.01,
+        "vincitu": 1.05
+      }
+    },
+    "1X2": {
+      "1": {
+        "better": 65.0,
+        "sisal": 100.0,
+        "vincitu": 100.0
+      },
+      "X": {
+        "better": 8.0,
+        "sisal": 11.0,
+        "vincitu": 5.9
+      },
+      "2": {
+        "better": 1.04,
+        "sisal": 1.05,
+        "vincitu": 1.03
+      }
+    },
+    "DC": {
+      "1X": {
+        "better": 8.0,
+        "sisal": 9.01
+      },
+      "12": {
+        "better": 1.02,
+        "sisal": 1.02
       }
     }
   },
   "55973919": {
     "1X2": {
       "1": {
-        "allinbet": 20.0,
-        "better": 21.0,
-        "sisal": 24.0,
-        "vincitu": 17.5
+        "allinbet": 60.0,
+        "better": 110.0,
+        "sisal": 100.0,
+        "vincitu": 50.0
       },
       "X": {
-        "allinbet": 6.5,
-        "better": 6.75,
-        "sisal": 8.0,
-        "vincitu": 6.0
+        "allinbet": 15.0,
+        "better": 13.0,
+        "sisal": 22.0,
+        "vincitu": 9.5
       },
       "2": {
-        "allinbet": 1.13,
-        "better": 1.14,
-        "sisal": 1.11,
-        "vincitu": 1.12
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 5.5,
-        "better": 5.2,
-        "sisal": 5.66
-      },
-      "12": {
-        "better": 1.08,
-        "sisal": 1.04
+        "allinbet": 1.01,
+        "better": 1.01,
+        "vincitu": 1.01
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 2.0,
-        "vincitu": 2.0
+        "allinbet": 2.3,
+        "vincitu": 2.2
       },
       "NG": {
-        "allinbet": 1.66,
-        "vincitu": 1.65
+        "allinbet": 1.5,
+        "vincitu": 1.52
+      }
+    },
+    "DC": {
+      "1X": {
+        "better": 18.0,
+        "sisal": 15.27
       }
     }
   },
-  "55973907": {
+  "55973893": {
     "1X2": {
       "1": {
-        "allinbet": 50.0,
-        "better": 25.0,
-        "sisal": 30.0,
-        "vincitu": 28.0
+        "allinbet": 1.27,
+        "better": 1.27,
+        "sisal": 1.3,
+        "vincitu": 1.25
       },
       "X": {
-        "allinbet": 5.0,
-        "better": 4.95,
-        "sisal": 5.25,
-        "vincitu": 4.4
+        "allinbet": 4.75,
+        "better": 4.7,
+        "sisal": 4.25,
+        "vincitu": 4.35
       },
       "2": {
-        "allinbet": 1.17,
-        "better": 1.18,
-        "sisal": 1.18,
-        "vincitu": 1.15
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 3.75,
-        "vincitu": 3.25
-      },
-      "NG": {
-        "allinbet": 1.22,
-        "vincitu": 1.22
+        "allinbet": 15.0,
+        "better": 11.5,
+        "sisal": 13.0,
+        "vincitu": 12.0
       }
     },
     "DC": {
       "1X": {
-        "better": 4.3,
-        "sisal": 4.27
+        "allinbet": 1.02
+      },
+      "X2": {
+        "better": 3.5,
+        "sisal": 3.1
       },
       "12": {
-        "better": 1.14,
-        "sisal": 1.12
+        "better": 1.16,
+        "sisal": 1.16
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 1.95,
+        "vincitu": 1.9
+      },
+      "NG": {
+        "allinbet": 1.74,
+        "vincitu": 1.7
       }
     }
   },
   "55973941": {
     "1X2": {
       "1": {
-        "allinbet": 5.0,
-        "better": 4.65,
-        "sisal": 5.0,
-        "vincitu": 4.5
+        "allinbet": 4.5,
+        "better": 4.35,
+        "sisal": 4.0,
+        "vincitu": 4.25
       },
       "X": {
-        "allinbet": 3.5,
-        "better": 3.4,
-        "sisal": 3.4,
-        "vincitu": 3.25
+        "allinbet": 3.0,
+        "better": 3.15,
+        "sisal": 3.0,
+        "vincitu": 2.95
       },
       "2": {
-        "allinbet": 1.72,
-        "better": 1.75,
-        "sisal": 1.7,
-        "vincitu": 1.7
+        "allinbet": 1.9,
+        "better": 1.9,
+        "sisal": 2.0,
+        "vincitu": 1.85
       }
     },
     "DC": {
       "1X": {
-        "allinbet": 2.0,
-        "better": 2.0,
-        "sisal": 1.98
+        "allinbet": 1.82,
+        "better": 1.85,
+        "sisal": 1.68
       },
       "X2": {
-        "better": 1.18,
-        "sisal": 1.12
-      },
-      "12": {
-        "better": 1.27,
-        "sisal": 1.25
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 2.05,
-        "vincitu": 2.0
-      },
-      "NG": {
-        "allinbet": 1.66,
-        "vincitu": 1.65
-      }
-    }
-  },
-  "55217835": {
-    "1X2": {
-      "1": {
-        "allinbet": 4.0,
-        "better": 3.9,
-        "sisal": 4.0
-      },
-      "X": {
-        "allinbet": 2.6,
-        "better": 2.55,
-        "sisal": 2.45
-      },
-      "2": {
-        "allinbet": 2.4,
-        "better": 2.3,
-        "sisal": 2.35
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.36,
-        "better": 1.55,
-        "sisal": 1.49
-      },
-      "X2": {
-        "better": 1.22,
+        "better": 1.2,
         "sisal": 1.18
       },
       "12": {
-        "better": 1.47,
-        "sisal": 1.45
+        "better": 1.35,
+        "sisal": 1.31
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 2.9
+        "allinbet": 2.25,
+        "vincitu": 2.25
       },
       "NG": {
-        "allinbet": 1.33
+        "allinbet": 1.54,
+        "vincitu": 1.52
+      }
+    }
+  },
+  "55973943": {
+    "1X2": {
+      "1": {
+        "allinbet": 13.0,
+        "better": 9.0,
+        "sisal": 10.0,
+        "vincitu": 9.25
+      },
+      "X": {
+        "allinbet": 3.0,
+        "better": 3.4,
+        "sisal": 3.4,
+        "vincitu": 3.15
+      },
+      "2": {
+        "allinbet": 1.48,
+        "better": 1.47,
+        "sisal": 1.48,
+        "vincitu": 1.45
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 2.5,
+        "better": 2.5,
+        "sisal": 2.47
+      },
+      "X2": {
+        "better": 1.04,
+        "sisal": 1.02
+      },
+      "12": {
+        "better": 1.27,
+        "sisal": 1.27
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 4.25,
+        "vincitu": 3.75
+      },
+      "NG": {
+        "allinbet": 1.18,
+        "vincitu": 1.18
       }
     }
   },
   "55217843": {
     "1X2": {
       "1": {
-        "allinbet": 1.7,
-        "better": 1.75,
-        "sisal": 1.75
+        "allinbet": 1.78,
+        "better": 1.8,
+        "sisal": 1.8
       },
       "X": {
-        "allinbet": 2.8,
-        "better": 3.05,
-        "sisal": 2.9
+        "allinbet": 2.7,
+        "better": 2.95,
+        "sisal": 2.75
       },
       "2": {
-        "allinbet": 7.0,
-        "better": 5.7,
+        "allinbet": 6.0,
+        "better": 5.5,
         "sisal": 6.0
       }
     },
@@ -978,95 +1071,91 @@
         "sisal": 1.07
       },
       "X2": {
-        "better": 2.0,
-        "sisal": 1.91
+        "better": 1.95,
+        "sisal": 1.85
       },
       "12": {
-        "better": 1.35,
-        "sisal": 1.33
+        "better": 1.37,
+        "sisal": 1.36
       }
     }
   },
-  "55807961": {
+  "55217835": {
     "1X2": {
       "1": {
-        "allinbet": 15.0,
-        "better": 21.0,
-        "vincitu": 18.5
+        "allinbet": 3.5,
+        "better": 3.5,
+        "sisal": 3.75
       },
       "X": {
-        "allinbet": 9.0,
-        "better": 7.5,
-        "vincitu": 6.75
+        "allinbet": 2.5,
+        "better": 2.5,
+        "sisal": 2.25
       },
       "2": {
-        "allinbet": 1.08,
-        "better": 1.09,
-        "vincitu": 1.09
+        "allinbet": 2.6,
+        "better": 2.55,
+        "sisal": 2.6
       }
     },
     "DC": {
       "1X": {
-        "allinbet": 5.75,
-        "better": 5.4
+        "allinbet": 1.3,
+        "better": 1.47,
+        "sisal": 1.38
+      },
+      "X2": {
+        "better": 1.27,
+        "sisal": 1.19
       },
       "12": {
-        "better": 1.03
+        "better": 1.47,
+        "sisal": 1.51
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 1.45,
-        "vincitu": 1.45
+        "allinbet": 3.1
       },
       "NG": {
-        "allinbet": 2.4,
-        "vincitu": 2.4
+        "allinbet": 1.28
       }
     }
   },
   "54778619": {
     "1X2": {
       "1": {
-        "allinbet": 1.39,
-        "better": 1.37,
-        "sisal": 1.4,
-        "vincitu": 1.37
+        "allinbet": 2.6,
+        "better": 2.55,
+        "sisal": 2.6,
+        "vincitu": 2.5
       },
       "X": {
-        "allinbet": 4.0,
-        "better": 3.8,
-        "sisal": 3.95,
-        "vincitu": 3.7
+        "allinbet": 2.5,
+        "better": 2.35,
+        "sisal": 2.4,
+        "vincitu": 2.3
       },
       "2": {
-        "allinbet": 8.0,
-        "better": 8.25,
-        "sisal": 8.75,
-        "vincitu": 8.0
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 1.7,
-        "vincitu": 1.65
-      },
-      "NG": {
-        "allinbet": 1.95,
-        "vincitu": 2.0
+        "allinbet": 3.5,
+        "better": 3.45,
+        "sisal": 3.55,
+        "vincitu": 3.4
       }
     },
     "DC": {
+      "1X": {
+        "allinbet": 1.14,
+        "better": 1.22,
+        "sisal": 1.23
+      },
       "X2": {
-        "better": 2.55,
-        "sisal": 2.64
+        "better": 1.4,
+        "sisal": 1.41
       },
       "12": {
-        "better": 1.18,
-        "sisal": 1.19
-      },
-      "1X": {
-        "sisal": 1.02
+        "better": 1.47,
+        "sisal": 1.47
       }
     }
   },
@@ -1074,186 +1163,210 @@
     "1X2": {
       "1": {
         "allinbet": 1.04,
-        "vincitu": 1.02
+        "vincitu": 1.03
       },
       "X": {
         "allinbet": 12.0,
-        "vincitu": 8.0
+        "vincitu": 7.75
       },
       "2": {
-        "allinbet": 50.0,
-        "vincitu": 50.0
+        "allinbet": 40.0,
+        "vincitu": 45.0
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 3.4
+        "vincitu": 3.3
       },
       "NG": {
-        "vincitu": 1.22
+        "vincitu": 1.25
       }
     }
   },
-  "55130283": {
+  "55807961": {
     "1X2": {
       "1": {
-        "allinbet": 2.5,
-        "better": 2.5,
-        "sisal": 2.55,
-        "vincitu": 2.45
+        "allinbet": 8.0,
+        "better": 8.25,
+        "vincitu": 8.0
       },
       "X": {
-        "allinbet": 1.94,
-        "better": 1.9,
-        "sisal": 1.95,
-        "vincitu": 1.9
+        "allinbet": 4.25,
+        "better": 3.85,
+        "vincitu": 3.8
       },
       "2": {
-        "allinbet": 6.0,
-        "better": 5.4,
-        "sisal": 5.7,
-        "vincitu": 5.4
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 5.75,
-        "vincitu": 5.2
-      },
-      "NG": {
-        "allinbet": 1.08,
-        "vincitu": 1.09
+        "allinbet": 1.39,
+        "better": 1.37,
+        "vincitu": 1.37
       }
     },
     "DC": {
       "1X": {
-        "better": 1.08,
-        "sisal": 1.09
+        "allinbet": 2.5,
+        "better": 2.65
       },
       "X2": {
-        "better": 1.4,
-        "sisal": 1.43
+        "better": 1.01
       },
       "12": {
-        "better": 1.7,
-        "sisal": 1.73
+        "better": 1.18
       }
     }
   },
   "55130281": {
     "1X2": {
       "1": {
-        "allinbet": 1.9,
-        "better": 1.8,
-        "sisal": 1.85,
-        "vincitu": 1.8
+        "allinbet": 1.08,
+        "better": 1.07,
+        "sisal": 1.09,
+        "vincitu": 1.07
       },
       "X": {
-        "allinbet": 2.4,
-        "better": 2.35,
-        "sisal": 2.4,
-        "vincitu": 2.3
+        "allinbet": 8.0,
+        "better": 6.25,
+        "sisal": 7.0,
+        "vincitu": 5.8
       },
       "2": {
-        "allinbet": 7.0,
-        "better": 8.0,
-        "sisal": 8.25,
-        "vincitu": 7.75
+        "allinbet": 40.0,
+        "better": 55.0,
+        "sisal": 60.0,
+        "vincitu": 45.0
       }
     },
     "DC": {
-      "1X": {
-        "better": 1.02,
-        "sisal": 1.03
-      },
       "X2": {
-        "better": 1.8,
-        "sisal": 1.82
+        "better": 5.5,
+        "sisal": 5.89
       },
       "12": {
-        "better": 1.47,
-        "sisal": 1.48
+        "better": 1.05,
+        "sisal": 1.05
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 4.9
+        "vincitu": 3.75
       },
       "NG": {
-        "vincitu": 1.1
+        "vincitu": 1.18
+      }
+    }
+  },
+  "55130283": {
+    "1X2": {
+      "1": {
+        "allinbet": 9.0,
+        "better": 8.0,
+        "sisal": 8.75,
+        "vincitu": 8.0
+      },
+      "X": {
+        "allinbet": 3.0,
+        "better": 3.05,
+        "sisal": 3.15,
+        "vincitu": 3.0
+      },
+      "2": {
+        "allinbet": 1.5,
+        "better": 1.52,
+        "sisal": 1.55,
+        "vincitu": 1.5
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 2.1,
+        "better": 2.15,
+        "sisal": 2.26
+      },
+      "X2": {
+        "better": 1.01,
+        "sisal": 1.02
+      },
+      "12": {
+        "better": 1.27,
+        "sisal": 1.29
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 1.95,
+        "vincitu": 1.9
+      },
+      "NG": {
+        "allinbet": 1.7,
+        "vincitu": 1.7
       }
     }
   },
   "52666249": {
     "1X2": {
       "1": {
-        "allinbet": 25.0,
-        "better": 80.0,
-        "sisal": 50.0,
-        "vincitu": 45.0
+        "allinbet": 30.0,
+        "better": 200.0,
+        "sisal": 85.0,
+        "vincitu": 65.0
       },
       "X": {
-        "allinbet": 12.0,
-        "better": 12.5,
+        "allinbet": 20.0,
+        "better": 20.0,
         "sisal": 8.75,
-        "vincitu": 7.75
+        "vincitu": 7.25
       },
       "2": {
-        "allinbet": 1.04,
-        "better": 1.02,
-        "sisal": 1.02,
-        "vincitu": 1.02
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 8.0,
-        "better": 9.75,
-        "sisal": 6.93
+        "allinbet": 1.01
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 2.6,
-        "vincitu": 2.3
+        "allinbet": 4.0,
+        "vincitu": 3.1
       },
       "NG": {
-        "allinbet": 1.42,
-        "vincitu": 1.45
+        "allinbet": 1.18,
+        "vincitu": 1.22
+      }
+    },
+    "DC": {
+      "1X": {
+        "better": 14.5,
+        "sisal": 7.35
       }
     }
   },
   "55451847": {
     "1X2": {
       "1": {
-        "allinbet": 8.0,
-        "better": 6.75,
-        "sisal": 7.0
+        "allinbet": 9.0,
+        "better": 7.5,
+        "sisal": 7.75
       },
       "X": {
         "allinbet": 3.0,
-        "better": 3.1,
-        "sisal": 3.05
+        "better": 3.05,
+        "sisal": 3.0
       },
       "2": {
         "allinbet": 1.58,
-        "better": 1.6,
-        "sisal": 1.57
+        "better": 1.57,
+        "sisal": 1.55
       }
     },
     "DC": {
       "1X": {
         "allinbet": 1.95,
-        "better": 2.2,
-        "sisal": 2.08
+        "better": 2.25,
+        "sisal": 2.11
       },
       "X2": {
-        "better": 1.08,
-        "sisal": 1.02
+        "better": 1.06,
+        "sisal": 1.01
       },
       "12": {
         "better": 1.32,
-        "sisal": 1.26
+        "sisal": 1.27
       }
     }
   },
@@ -1261,150 +1374,47 @@
     "1X2": {
       "1": {
         "allinbet": 2.3,
-        "sisal": 2.15
+        "sisal": 2.25
       },
       "X": {
-        "allinbet": 3.0,
-        "sisal": 2.8
+        "allinbet": 2.7,
+        "sisal": 2.5
       },
       "2": {
-        "allinbet": 3.2,
-        "sisal": 3.25
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.18,
-        "sisal": 1.2
-      },
-      "X2": {
-        "sisal": 1.48
-      },
-      "12": {
-        "sisal": 1.27
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 2.2
-      },
-      "NG": {
-        "allinbet": 1.54
-      }
-    }
-  },
-  "55527875": {
-    "1X2": {
-      "1": {
-        "allinbet": 1.1,
-        "better": 1.1,
-        "sisal": 1.06,
-        "vincitu": 1.1
-      },
-      "X": {
-        "allinbet": 7.0,
-        "better": 5.6,
-        "sisal": 7.0,
-        "vincitu": 5.2
-      },
-      "2": {
-        "allinbet": 30.0,
-        "better": 35.0,
-        "sisal": 36.0,
-        "vincitu": 33.0
-      }
-    },
-    "DC": {
-      "X2": {
-        "better": 4.85,
-        "sisal": 5.53
-      },
-      "12": {
-        "better": 1.07,
-        "sisal": 1.01
-      }
-    }
-  },
-  "50943055": {
-    "1X2": {
-      "1": {
         "allinbet": 3.5,
-        "sisal": 3.5
-      },
-      "X": {
-        "allinbet": 2.75,
-        "sisal": 2.45
-      },
-      "2": {
-        "allinbet": 2.3,
-        "sisal": 2.3
+        "sisal": 3.4
       }
     },
     "DC": {
       "1X": {
-        "allinbet": 1.54,
-        "sisal": 1.42
-      },
-      "X2": {
+        "allinbet": 1.12,
         "sisal": 1.17
       },
-      "12": {
-        "sisal": 1.36
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "allinbet": 2.9
-      },
-      "NG": {
-        "allinbet": 1.33
-      }
-    }
-  },
-  "50943057": {
-    "1X2": {
-      "1": {
-        "allinbet": 1.27,
-        "sisal": 1.2
-      },
-      "X": {
-        "allinbet": 5.0,
-        "sisal": 4.75
-      },
-      "2": {
-        "allinbet": 9.0,
-        "sisal": 11.0
-      }
-    },
-    "DC": {
-      "1X": {
-        "allinbet": 1.03
-      },
       "X2": {
-        "sisal": 3.21
+        "sisal": 1.42
       },
       "12": {
-        "sisal": 1.07
+        "sisal": 1.33
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 1.78
+        "allinbet": 2.7
       },
       "NG": {
-        "allinbet": 1.9
+        "allinbet": 1.36
       }
     }
   },
   "50943059": {
     "1X2": {
       "1": {
-        "allinbet": 2.35,
-        "sisal": 2.25
+        "allinbet": 2.4,
+        "sisal": 2.4
       },
       "X": {
         "allinbet": 2.1,
-        "sisal": 2.0
+        "sisal": 1.9
       },
       "2": {
         "allinbet": 5.5,
@@ -1417,18 +1427,89 @@
         "sisal": 1.04
       },
       "X2": {
-        "sisal": 1.42
+        "sisal": 1.37
       },
       "12": {
-        "sisal": 1.55
+        "sisal": 1.62
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 5.5
+        "allinbet": 5.75
       },
       "NG": {
-        "allinbet": 1.1
+        "allinbet": 1.08
+      }
+    }
+  },
+  "50943055": {
+    "1X2": {
+      "1": {
+        "allinbet": 3.5,
+        "sisal": 3.5
+      },
+      "X": {
+        "allinbet": 2.6,
+        "sisal": 2.25
+      },
+      "2": {
+        "allinbet": 2.4,
+        "sisal": 2.5
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 1.5,
+        "sisal": 1.35
+      },
+      "X2": {
+        "sisal": 1.17
+      },
+      "12": {
+        "sisal": 1.43
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 3.2
+      },
+      "NG": {
+        "allinbet": 1.3
+      }
+    }
+  },
+  "50943057": {
+    "1X2": {
+      "1": {
+        "allinbet": 1.25,
+        "sisal": 1.22
+      },
+      "X": {
+        "allinbet": 5.0,
+        "sisal": 4.5
+      },
+      "2": {
+        "allinbet": 10.0,
+        "sisal": 11.0
+      }
+    },
+    "DC": {
+      "1X": {
+        "allinbet": 1.03
+      },
+      "X2": {
+        "sisal": 3.09
+      },
+      "12": {
+        "sisal": 1.08
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "allinbet": 1.9
+      },
+      "NG": {
+        "allinbet": 1.78
       }
     }
   },
@@ -1441,72 +1522,68 @@
       },
       "X": {
         "allinbet": 9.0,
-        "better": 7.5,
-        "sisal": 7.5
+        "better": 7.25,
+        "sisal": 7.25
       },
       "2": {
         "allinbet": 20.0,
-        "better": 40.0,
-        "sisal": 35.0
+        "better": 45.0,
+        "sisal": 40.0
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 2.9
+        "allinbet": 3.3
       },
       "NG": {
-        "allinbet": 1.33
+        "allinbet": 1.26
       }
     },
     "DC": {
       "X2": {
         "better": 6.75,
-        "sisal": 5.81
+        "sisal": 5.78
       },
       "12": {
         "better": 1.03,
-        "sisal": 1.01
+        "sisal": 1.02
       }
     }
   },
   "55264977": {
     "1X2": {
       "1": {
-        "allinbet": 8.0,
-        "better": 7.25,
-        "sisal": 8.0
+        "allinbet": 20.0,
+        "better": 23.0,
+        "sisal": 19.0
       },
       "X": {
-        "allinbet": 4.0,
-        "better": 4.25,
-        "sisal": 4.5
+        "allinbet": 8.0,
+        "better": 8.0,
+        "sisal": 10.0
       },
       "2": {
-        "allinbet": 1.39,
-        "better": 1.37,
-        "sisal": 1.28
+        "allinbet": 1.1,
+        "better": 1.08,
+        "sisal": 1.04
       }
     },
     "DC": {
       "1X": {
-        "allinbet": 2.4,
-        "better": 2.65,
-        "sisal": 2.79
-      },
-      "X2": {
-        "better": 1.04
+        "allinbet": 6.0,
+        "better": 5.9,
+        "sisal": 6.14
       },
       "12": {
-        "better": 1.15,
-        "sisal": 1.09
+        "better": 1.02
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 1.42
+        "allinbet": 1.54
       },
       "NG": {
-        "allinbet": 2.6
+        "allinbet": 2.2
       }
     }
   },
@@ -1514,11 +1591,11 @@
     "1X2": {
       "1": {
         "allinbet": 2.6,
-        "sisal": 2.45
+        "sisal": 2.6
       },
       "X": {
         "allinbet": 2.7,
-        "sisal": 2.6
+        "sisal": 2.45
       },
       "2": {
         "allinbet": 3.1,
@@ -1531,10 +1608,10 @@
         "sisal": 1.24
       },
       "X2": {
-        "sisal": 1.41
+        "sisal": 1.36
       },
       "12": {
-        "sisal": 1.36
+        "sisal": 1.41
       }
     }
   },
@@ -1546,28 +1623,28 @@
       },
       "X": {
         "allinbet": 7.0,
-        "sisal": 7.5
+        "sisal": 8.0
       },
       "2": {
         "allinbet": 1.14,
-        "sisal": 1.11
+        "sisal": 1.09
       }
     },
     "DC": {
       "1X": {
         "allinbet": 4.5,
-        "sisal": 5.1
+        "sisal": 5.32
       },
       "12": {
-        "sisal": 1.03
+        "sisal": 1.02
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 1.45
+        "allinbet": 1.5
       },
       "NG": {
-        "allinbet": 2.4
+        "allinbet": 2.3
       }
     }
   },
@@ -1575,186 +1652,68 @@
     "1X2": {
       "1": {
         "allinbet": 2.7,
-        "sisal": 2.8
+        "sisal": 2.9
       },
       "X": {
-        "allinbet": 2.5,
-        "sisal": 2.2
+        "allinbet": 2.4,
+        "sisal": 2.15
       },
       "2": {
-        "allinbet": 3.2,
-        "sisal": 3.25
+        "allinbet": 3.4,
+        "sisal": 3.4
       }
     },
     "DC": {
       "1X": {
-        "allinbet": 1.18,
+        "allinbet": 1.16,
         "sisal": 1.21
       },
       "X2": {
         "sisal": 1.29
       },
       "12": {
-        "sisal": 1.48
+        "sisal": 1.54
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 3.4
+        "allinbet": 3.75
       },
       "NG": {
-        "allinbet": 1.24
+        "allinbet": 1.22
       }
     }
   },
   "53632115": {
     "1X2": {
       "1": {
-        "allinbet": 25.0,
-        "sisal": 13.0
+        "allinbet": 50.0,
+        "sisal": 22.0
       },
       "X": {
-        "allinbet": 4.0,
-        "sisal": 4.0
+        "allinbet": 4.75,
+        "sisal": 4.75
       },
       "2": {
-        "allinbet": 1.24,
-        "sisal": 1.25
+        "allinbet": 1.16,
+        "sisal": 1.16
       }
     },
     "DC": {
       "1X": {
-        "allinbet": 3.2,
-        "sisal": 2.96
+        "allinbet": 4.0,
+        "sisal": 3.75
       },
       "12": {
-        "sisal": 1.12
+        "sisal": 1.08
       }
     },
     "GG/NG": {
       "GG": {
-        "allinbet": 3.1
+        "allinbet": 4.25
       },
       "NG": {
-        "allinbet": 1.28
-      }
-    }
-  },
-  "56043639": {
-    "T/T": {
-      "1": {
-        "allinbet": 9.0,
-        "vincitu": 7.75
-      },
-      "2": {
-        "allinbet": 1.03,
-        "vincitu": 1.04
-      }
-    }
-  },
-  "56067441": {
-    "T/T": {
-      "1": {
-        "allinbet": 9.0,
-        "sisal": 7.0,
-        "vincitu": 7.0
-      },
-      "2": {
-        "allinbet": 1.02,
-        "sisal": 1.07,
-        "vincitu": 1.06
-      }
-    },
-    "T/T SET": {
-      "1": {
-        "vincitu": 3.95
-      },
-      "2": {
-        "vincitu": 1.2
-      }
-    }
-  },
-  "56104791": {
-    "T/T": {
-      "1": {
-        "allinbet": 2.9,
-        "better": 2.8,
-        "sisal": 2.8,
-        "vincitu": 2.65
-      },
-      "2": {
-        "allinbet": 1.33,
-        "better": 1.37,
-        "sisal": 1.33,
-        "vincitu": 1.35
-      }
-    },
-    "T/T SET": {
-      "1": {
-        "vincitu": 1.75
-      },
-      "2": {
-        "vincitu": 1.85
-      }
-    }
-  },
-  "56104809": {
-    "T/T": {
-      "1": {
-        "allinbet": 1.16,
-        "better": 1.16
-      },
-      "2": {
-        "allinbet": 4.25,
-        "better": 4.2
-      }
-    }
-  },
-  "56104761": {
-    "T/T": {
-      "1": {
-        "allinbet": 2.05,
-        "better": 2.05,
-        "sisal": 2.1,
-        "vincitu": 2.0
-      },
-      "2": {
-        "allinbet": 1.62,
-        "better": 1.65,
-        "sisal": 1.6,
-        "vincitu": 1.6
-      }
-    },
-    "T/T SET": {
-      "1": {
-        "vincitu": 1.42
-      },
-      "2": {
-        "vincitu": 2.4
-      }
-    }
-  },
-  "56102951": {
-    "T/T": {
-      "1": {
-        "allinbet": 1.54,
-        "better": 1.55,
-        "sisal": 1.65,
-        "vincitu": 1.52
-      },
-      "2": {
-        "allinbet": 2.2,
-        "better": 2.2,
-        "sisal": 2.0,
-        "vincitu": 2.15
-      }
-    },
-    "T/T SET": {
-      "1": {
-        "vincitu": 1.5
-      },
-      "2": {
-        "vincitu": 2.2
+        "allinbet": 1.16
       }
     }
   },
@@ -1762,15 +1721,15 @@
     "1X2": {
       "1": {
         "better": 3.75,
-        "vincitu": 3.67
+        "vincitu": 3.74
       },
       "X": {
-        "better": 2.4,
-        "vincitu": 2.34
+        "better": 2.3,
+        "vincitu": 2.24
       },
       "2": {
-        "better": 2.6,
-        "vincitu": 2.63
+        "better": 2.75,
+        "vincitu": 2.73
       }
     },
     "DC": {
@@ -1786,22 +1745,22 @@
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 3.57
+        "vincitu": 3.84
       },
       "NG": {
-        "vincitu": 1.25
+        "vincitu": 1.22
       }
     }
   },
   "11140362": {
     "1X2": {
       "1": {
-        "better": 1.8,
-        "vincitu": 1.8
+        "better": 1.85,
+        "vincitu": 1.86
       },
       "X": {
-        "better": 3.75,
-        "vincitu": 3.61
+        "better": 3.5,
+        "vincitu": 3.4
       },
       "2": {
         "better": 4.25,
@@ -1813,18 +1772,18 @@
         "better": 1.22
       },
       "X2": {
-        "better": 2.0
+        "better": 1.95
       },
       "12": {
-        "better": 1.2
+        "better": 1.22
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 1.22
+        "vincitu": 1.27
       },
       "NG": {
-        "vincitu": 3.84
+        "vincitu": 3.42
       }
     }
   },
@@ -1854,11 +1813,8 @@
   },
   "11320746": {
     "1X2": {
-      "1": {
-        "better": 1.02
-      },
       "X": {
-        "better": 10.0
+        "better": 12.0
       },
       "2": {
         "better": 50.0
@@ -1870,38 +1826,99 @@
       }
     }
   },
-  "11178576": {
+  "11658662": {
     "1X2": {
       "1": {
-        "better": 3.35,
-        "vincitu": 3.42
+        "better": 2.15,
+        "sisal": 2.1,
+        "vincitu": 2.13
       },
       "X": {
-        "better": 2.6,
-        "vincitu": 2.7
+        "better": 3.0,
+        "sisal": 2.87,
+        "vincitu": 2.94
       },
       "2": {
-        "better": 2.35,
-        "vincitu": 2.4
+        "better": 3.35,
+        "sisal": 3.25,
+        "vincitu": 3.3
       }
     },
     "DC": {
       "1X": {
-        "better": 1.5
+        "better": 1.25,
+        "sisal": 1.19
+      },
+      "X2": {
+        "better": 1.6,
+        "sisal": 1.5
+      },
+      "12": {
+        "better": 1.3,
+        "sisal": 1.25
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "vincitu": 2.16
+      },
+      "NG": {
+        "vincitu": 1.57
+      }
+    }
+  },
+  "55527875": {
+    "1X2": {
+      "X": {
+        "better": 8.75,
+        "sisal": 40.0,
+        "vincitu": 7.0
+      },
+      "2": {
+        "better": 50.0,
+        "sisal": 500.0,
+        "vincitu": 100.0
+      }
+    },
+    "DC": {
+      "X2": {
+        "better": 7.5,
+        "sisal": 27.02
+      }
+    }
+  },
+  "11178576": {
+    "1X2": {
+      "1": {
+        "better": 3.5,
+        "vincitu": 3.52
+      },
+      "X": {
+        "better": 2.5,
+        "vincitu": 2.57
+      },
+      "2": {
+        "better": 2.4,
+        "vincitu": 2.46
+      }
+    },
+    "DC": {
+      "1X": {
+        "better": 1.45
       },
       "X2": {
         "better": 1.25
       },
       "12": {
-        "better": 1.37
+        "better": 1.4
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 2.66
+        "vincitu": 2.95
       },
       "NG": {
-        "vincitu": 1.42
+        "vincitu": 1.35
       }
     }
   },
@@ -1909,20 +1926,20 @@
     "1X2": {
       "1": {
         "better": 1.25,
-        "vincitu": 1.27
+        "vincitu": 1.25
       },
       "X": {
         "better": 4.75,
-        "vincitu": 4.84
+        "vincitu": 4.87
       },
       "2": {
         "better": 12.0,
-        "vincitu": 12.0
+        "vincitu": 13.0
       }
     },
     "DC": {
       "1X": {
-        "better": 1.03
+        "better": 1.02
       },
       "X2": {
         "better": 3.0
@@ -1933,26 +1950,26 @@
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 1.77
+        "vincitu": 1.88
       },
       "NG": {
-        "vincitu": 1.94
+        "vincitu": 1.82
       }
     }
   },
   "11178578": {
     "1X2": {
       "1": {
-        "better": 2.3,
-        "vincitu": 2.35
+        "better": 2.4,
+        "vincitu": 2.49
       },
       "X": {
-        "better": 2.1,
-        "vincitu": 2.13
+        "better": 2.0,
+        "vincitu": 2.05
       },
       "2": {
         "better": 5.25,
-        "vincitu": 5.4
+        "vincitu": 5.28
       }
     },
     "DC": {
@@ -1960,34 +1977,34 @@
         "better": 1.13
       },
       "X2": {
-        "better": 1.5
+        "better": 1.4
       },
       "12": {
-        "better": 1.55
+        "better": 1.65
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 4.93
+        "vincitu": 5.34
       },
       "NG": {
-        "vincitu": 1.14
+        "vincitu": 1.12
       }
     }
   },
   "11168820": {
     "1X2": {
       "1": {
-        "better": 4.5,
-        "vincitu": 4.48
+        "better": 4.25,
+        "vincitu": 4.46
       },
       "X": {
         "better": 3.0,
-        "vincitu": 3.21
+        "vincitu": 3.19
       },
       "2": {
-        "better": 1.85,
-        "vincitu": 1.83
+        "better": 1.9,
+        "vincitu": 1.84
       }
     },
     "DC": {
@@ -2014,15 +2031,15 @@
     "1X2": {
       "1": {
         "better": 4.0,
-        "vincitu": 4.07
+        "vincitu": 4.15
       },
       "X": {
         "better": 3.0,
-        "vincitu": 3.03
+        "vincitu": 3.02
       },
       "2": {
         "better": 1.95,
-        "vincitu": 1.98
+        "vincitu": 1.97
       }
     },
     "DC": {
@@ -2030,7 +2047,7 @@
         "better": 1.8
       },
       "X2": {
-        "better": 1.22
+        "better": 1.2
       },
       "12": {
         "better": 1.22
@@ -2038,10 +2055,10 @@
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 1.37
+        "vincitu": 1.4
       },
       "NG": {
-        "vincitu": 2.86
+        "vincitu": 2.73
       }
     }
   },
@@ -2053,46 +2070,104 @@
       },
       "X": {
         "better": 3.0,
-        "vincitu": 3.2
+        "vincitu": 3.17
       },
       "2": {
         "better": 4.5,
-        "vincitu": 4.65
+        "vincitu": 4.7
       }
     },
     "DC": {
       "1X": {
-        "better": 1.18
+        "better": 1.17
       },
       "X2": {
         "better": 1.95
       },
       "12": {
-        "better": 1.27
+        "better": 1.3
       }
     }
   },
   "11168823": {
     "1X2": {
       "1": {
-        "better": 1.85,
-        "vincitu": 1.88
+        "better": 2.05,
+        "vincitu": 2.08
       },
       "X": {
-        "better": 2.85,
-        "vincitu": 2.87
+        "better": 2.5,
+        "vincitu": 2.56
       },
       "2": {
         "better": 4.75,
-        "vincitu": 4.98
+        "vincitu": 4.78
       }
     },
     "DC": {
       "1X": {
-        "better": 1.15
+        "better": 1.17
       },
       "X2": {
-        "better": 1.85
+        "better": 1.7
+      },
+      "12": {
+        "better": 1.33
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "vincitu": 3.1
+      },
+      "NG": {
+        "vincitu": 1.32
+      }
+    }
+  },
+  "11168824": {
+    "1X2": {
+      "X": {
+        "better": 40.0
+      },
+      "2": {
+        "better": 100.0
+      }
+    },
+    "DC": {
+      "X2": {
+        "better": 30.0
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "vincitu": 2.3
+      },
+      "NG": {
+        "vincitu": 1.55
+      }
+    }
+  },
+  "11168830": {
+    "1X2": {
+      "1": {
+        "better": 2.1,
+        "vincitu": 2.13
+      },
+      "X": {
+        "better": 2.75,
+        "vincitu": 2.69
+      },
+      "2": {
+        "better": 4.0,
+        "vincitu": 4.18
+      }
+    },
+    "DC": {
+      "1X": {
+        "better": 1.2
+      },
+      "X2": {
+        "better": 1.7
       },
       "12": {
         "better": 1.27
@@ -2107,110 +2182,50 @@
       }
     }
   },
-  "11168824": {
-    "1X2": {
-      "X": {
-        "better": 15.0,
-        "vincitu": 14.5
-      },
-      "2": {
-        "better": 35.0,
-        "vincitu": 42.5
-      }
-    },
-    "DC": {
-      "X2": {
-        "better": 12.0
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "vincitu": 2.01
-      },
-      "NG": {
-        "vincitu": 1.72
-      }
-    }
-  },
-  "11168830": {
-    "1X2": {
-      "1": {
-        "better": 2.05,
-        "vincitu": 2.05
-      },
-      "X": {
-        "better": 2.85,
-        "vincitu": 2.96
-      },
-      "2": {
-        "better": 3.75,
-        "vincitu": 3.94
-      }
-    },
-    "DC": {
-      "1X": {
-        "better": 1.22
-      },
-      "X2": {
-        "better": 1.75
-      },
-      "12": {
-        "better": 1.25
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "vincitu": 2.2
-      },
-      "NG": {
-        "vincitu": 1.6
-      }
-    }
-  },
   "11168826": {
     "1X2": {
       "1": {
-        "better": 2.75,
-        "vincitu": 2.75
+        "better": 1.45,
+        "vincitu": 1.49
       },
       "X": {
-        "better": 2.85,
-        "vincitu": 2.9
+        "better": 3.65,
+        "vincitu": 3.75
       },
       "2": {
-        "better": 2.6,
-        "vincitu": 2.69
+        "better": 7.0,
+        "vincitu": 7.01
       }
     },
     "DC": {
       "1X": {
-        "better": 1.4
+        "better": 1.08
       },
       "X2": {
-        "better": 1.4
+        "better": 2.5
       },
       "12": {
-        "better": 1.3
+        "better": 1.15
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 2.08
+        "vincitu": 1.52
       },
       "NG": {
-        "vincitu": 1.67
+        "vincitu": 2.37
       }
     }
   },
   "11168828": {
     "1X2": {
       "1": {
-        "better": 1.37,
-        "vincitu": 1.4
+        "better": 1.4,
+        "vincitu": 1.44
       },
       "X": {
-        "better": 3.5,
-        "vincitu": 3.58
+        "better": 3.25,
+        "vincitu": 3.36
       },
       "2": {
         "better": 12.0,
@@ -2222,18 +2237,18 @@
         "better": 1.03
       },
       "X2": {
-        "better": 2.85
+        "better": 2.75
       },
       "12": {
-        "better": 1.13
+        "better": 1.15
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 3.84
+        "vincitu": 4.05
       },
       "NG": {
-        "vincitu": 1.22
+        "vincitu": 1.2
       }
     }
   },
@@ -2241,23 +2256,23 @@
     "1X2": {
       "1": {
         "better": 2.85,
-        "vincitu": 2.9
+        "vincitu": 2.85
       },
       "X": {
-        "better": 2.5,
-        "vincitu": 2.51
+        "better": 2.35,
+        "vincitu": 2.39
       },
       "2": {
-        "better": 2.85,
-        "vincitu": 2.97
+        "better": 3.0,
+        "vincitu": 3.21
       }
     },
     "DC": {
       "1X": {
-        "better": 1.35
+        "better": 1.33
       },
       "X2": {
-        "better": 1.37
+        "better": 1.4
       },
       "12": {
         "better": 1.37
@@ -2265,10 +2280,10 @@
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 2.73
+        "vincitu": 2.95
       },
       "NG": {
-        "vincitu": 1.4
+        "vincitu": 1.35
       }
     }
   },
@@ -2276,7 +2291,7 @@
     "1X2": {
       "1": {
         "better": 2.6,
-        "vincitu": 2.66
+        "vincitu": 2.67
       },
       "X": {
         "better": 2.2,
@@ -2284,18 +2299,18 @@
       },
       "2": {
         "better": 3.75,
-        "vincitu": 3.91
+        "vincitu": 3.88
       }
     },
     "DC": {
       "1X": {
-        "better": 1.22
+        "better": 1.25
       },
       "X2": {
         "better": 1.45
       },
       "12": {
-        "better": 1.45
+        "better": 1.4
       }
     },
     "GG/NG": {
@@ -2311,34 +2326,34 @@
     "1X2": {
       "1": {
         "better": 3.65,
-        "vincitu": 3.69
+        "vincitu": 3.74
       },
       "X": {
-        "better": 2.35,
-        "vincitu": 2.38
+        "better": 2.3,
+        "vincitu": 2.33
       },
       "2": {
-        "better": 2.5,
-        "vincitu": 2.57
+        "better": 2.6,
+        "vincitu": 2.61
       }
     },
     "DC": {
       "1X": {
-        "better": 1.5
+        "better": 1.45
       },
       "X2": {
         "better": 1.25
       },
       "12": {
-        "better": 1.37
+        "better": 1.4
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 3.22
+        "vincitu": 3.42
       },
       "NG": {
-        "vincitu": 1.3
+        "vincitu": 1.27
       }
     }
   },
@@ -2348,7 +2363,7 @@
         "better": 65.0
       },
       "2": {
-        "better": 150.0
+        "better": 200.0
       }
     },
     "DC": {
@@ -2358,10 +2373,10 @@
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 1.91
+        "vincitu": 1.97
       },
       "NG": {
-        "vincitu": 1.8
+        "vincitu": 1.75
       }
     }
   },
@@ -2392,11 +2407,11 @@
     "1X2": {
       "X": {
         "better": 20.0,
-        "vincitu": 23.5
+        "vincitu": 24.0
       },
       "2": {
         "better": 50.0,
-        "vincitu": 64.5
+        "vincitu": 67.5
       }
     },
     "DC": {
@@ -2406,10 +2421,10 @@
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 2.2
+        "vincitu": 2.3
       },
       "NG": {
-        "vincitu": 1.6
+        "vincitu": 1.55
       }
     }
   },
@@ -2430,10 +2445,10 @@
     },
     "DC": {
       "X2": {
-        "better": 4.0
+        "better": 4.25
       },
       "12": {
-        "better": 1.04
+        "better": 1.03
       }
     },
     "GG/NG": {
@@ -2449,7 +2464,7 @@
     "1X2": {
       "1": {
         "better": 4.5,
-        "vincitu": 4.55
+        "vincitu": 4.63
       },
       "X": {
         "better": 3.0,
@@ -2457,7 +2472,7 @@
       },
       "2": {
         "better": 1.85,
-        "vincitu": 1.86
+        "vincitu": 1.85
       }
     },
     "DC": {
@@ -2473,10 +2488,10 @@
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 1.4
+        "vincitu": 1.42
       },
       "NG": {
-        "vincitu": 2.73
+        "vincitu": 2.66
       }
     }
   },
@@ -2484,15 +2499,15 @@
     "1X2": {
       "1": {
         "better": 2.35,
-        "vincitu": 2.34
+        "vincitu": 2.37
       },
       "X": {
         "better": 2.35,
-        "vincitu": 2.44
+        "vincitu": 2.39
       },
       "2": {
         "better": 4.0,
-        "vincitu": 4.11
+        "vincitu": 4.17
       }
     },
     "DC": {
@@ -2508,10 +2523,10 @@
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 3.1
+        "vincitu": 3.22
       },
       "NG": {
-        "vincitu": 1.32
+        "vincitu": 1.3
       }
     }
   },
@@ -2519,15 +2534,15 @@
     "1X2": {
       "1": {
         "better": 1.12,
-        "vincitu": 1.12
+        "vincitu": 1.13
       },
       "X": {
         "better": 6.5,
-        "vincitu": 7.02
+        "vincitu": 6.77
       },
       "2": {
         "better": 23.0,
-        "vincitu": 24.0
+        "vincitu": 23.0
       }
     },
     "DC": {
@@ -2542,16 +2557,16 @@
   "11565417": {
     "1X2": {
       "1": {
-        "better": 4.0,
-        "vincitu": 4.17
+        "better": 4.25,
+        "vincitu": 4.24
       },
       "X": {
-        "better": 2.5,
-        "vincitu": 2.49
+        "better": 2.35,
+        "vincitu": 2.39
       },
       "2": {
-        "better": 2.25,
-        "vincitu": 2.28
+        "better": 2.3,
+        "vincitu": 2.35
       }
     },
     "DC": {
@@ -2569,24 +2584,24 @@
   "11572736": {
     "1X2": {
       "1": {
-        "better": 8.0,
-        "vincitu": 8.22
+        "better": 8.5,
+        "vincitu": 8.69
       },
       "X": {
         "better": 3.75,
-        "vincitu": 3.91
+        "vincitu": 3.9
       },
       "2": {
         "better": 1.4,
-        "vincitu": 1.42
+        "vincitu": 1.41
       }
     },
     "DC": {
       "1X": {
-        "better": 2.4
+        "better": 2.5
       },
       "X2": {
-        "better": 1.07
+        "better": 1.05
       },
       "12": {
         "better": 1.18
@@ -2594,35 +2609,35 @@
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 1.6
+        "vincitu": 1.67
       },
       "NG": {
-        "vincitu": 2.2
+        "vincitu": 2.08
       }
     }
   },
   "55548815": {
     "1X2": {
       "1": {
-        "better": 9.75,
-        "sisal": 9.5,
-        "vincitu": 9.5
+        "better": 11.0,
+        "sisal": 10.5,
+        "vincitu": 10.5
       },
       "X": {
-        "better": 5.3,
-        "sisal": 5.2,
-        "vincitu": 5.1
+        "better": 5.5,
+        "sisal": 5.4,
+        "vincitu": 5.2
       },
       "2": {
-        "better": 1.22,
-        "sisal": 1.22,
-        "vincitu": 1.22
+        "better": 1.2,
+        "sisal": 1.2,
+        "vincitu": 1.2
       }
     },
     "DC": {
       "1X": {
-        "better": 3.35,
-        "sisal": 3.25
+        "better": 3.55,
+        "sisal": 3.44
       },
       "12": {
         "better": 1.08,
@@ -2631,47 +2646,70 @@
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 1.3
+        "vincitu": 1.35
       },
       "NG": {
-        "vincitu": 2.9
+        "vincitu": 2.75
       }
     }
   },
-  "54001715": {
+  "55396265": {
     "1X2": {
       "1": {
-        "better": 180.0,
-        "sisal": 100.0
+        "better": 2.25,
+        "sisal": 2.25,
+        "vincitu": 2.25
       },
       "X": {
-        "better": 8.5,
-        "sisal": 100.0
+        "better": 3.05,
+        "sisal": 3.05,
+        "vincitu": 3.0
+      },
+      "2": {
+        "better": 2.95,
+        "sisal": 2.95,
+        "vincitu": 2.9
       }
     },
     "DC": {
       "1X": {
-        "better": 150.0,
-        "sisal": 33.33
+        "better": 1.3,
+        "sisal": 1.27
+      },
+      "X2": {
+        "better": 1.5,
+        "sisal": 1.47
+      },
+      "12": {
+        "better": 1.27,
+        "sisal": 1.26
+      }
+    },
+    "GG/NG": {
+      "GG": {
+        "vincitu": 2.1
+      },
+      "NG": {
+        "vincitu": 1.57
       }
     }
   },
   "11590821": {
     "1X2": {
       "1": {
-        "better": 2.15,
-        "sisal": 2.1,
-        "vincitu": 2.2
+        "better": 2.25,
+        "sisal": 2.2,
+        "vincitu": 2.28
       },
       "X": {
-        "better": 3.25,
-        "sisal": 3.2,
-        "vincitu": 3.21
+        "better": 3.0,
+        "sisal": 3.0,
+        "vincitu": 3.14
       },
       "2": {
         "better": 3.0,
-        "sisal": 3.0,
-        "vincitu": 3.19
+        "sisal": 2.87,
+        "vincitu": 3.09
       }
     },
     "DC": {
@@ -2680,71 +2718,71 @@
         "sisal": 1.25
       },
       "X2": {
-        "better": 1.55,
-        "sisal": 1.52
+        "better": 1.5,
+        "sisal": 1.44
       },
       "12": {
-        "better": 1.27,
-        "sisal": 1.22
+        "better": 1.3,
+        "sisal": 1.23
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 1.15
+        "vincitu": 1.16
       },
       "NG": {
-        "vincitu": 4.75
+        "vincitu": 4.59
       }
     }
   },
   "11650473": {
     "1X2": {
       "1": {
-        "better": 2.6,
-        "vincitu": 2.73
+        "better": 2.75,
+        "vincitu": 2.76
       },
       "X": {
-        "better": 2.4,
-        "vincitu": 2.42
+        "better": 2.35,
+        "vincitu": 2.38
       },
       "2": {
         "better": 3.25,
-        "vincitu": 3.33
+        "vincitu": 3.37
       }
     },
     "DC": {
       "1X": {
-        "better": 1.27
+        "better": 1.25
       },
       "X2": {
         "better": 1.37
       },
       "12": {
-        "better": 1.45
+        "better": 1.5
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 3.22
+        "vincitu": 3.42
       },
       "NG": {
-        "vincitu": 1.3
+        "vincitu": 1.27
       }
     }
   },
   "11650471": {
     "1X2": {
       "1": {
-        "better": 2.6,
-        "vincitu": 2.6
+        "better": 2.5,
+        "vincitu": 2.55
       },
       "X": {
         "better": 2.75,
-        "vincitu": 2.78
+        "vincitu": 2.75
       },
       "2": {
-        "better": 2.85,
-        "vincitu": 2.98
+        "better": 3.0,
+        "vincitu": 3.08
       }
     },
     "DC": {
@@ -2752,7 +2790,7 @@
         "better": 1.35
       },
       "X2": {
-        "better": 1.45
+        "better": 1.5
       },
       "12": {
         "better": 1.37
@@ -2762,21 +2800,21 @@
   "11654657": {
     "1X2": {
       "1": {
-        "better": 15.0,
-        "vincitu": 17.0
+        "better": 17.0,
+        "vincitu": 17.5
       },
       "X": {
-        "better": 7.0,
-        "vincitu": 7.53
+        "better": 7.5,
+        "vincitu": 7.6
       },
       "2": {
-        "better": 1.12,
-        "vincitu": 1.13
+        "better": 1.1,
+        "vincitu": 1.12
       }
     },
     "DC": {
       "1X": {
-        "better": 5.5
+        "better": 6.0
       }
     },
     "GG/NG": {
@@ -2815,26 +2853,26 @@
   "55999997": {
     "1X2": {
       "1": {
-        "better": 6.0,
-        "sisal": 6.0
+        "better": 6.5,
+        "sisal": 6.5
       },
       "X": {
         "better": 4.15,
         "sisal": 4.15
       },
       "2": {
-        "better": 1.42,
-        "sisal": 1.42
+        "better": 1.4,
+        "sisal": 1.4
       }
     },
     "DC": {
       "1X": {
-        "better": 2.45,
-        "sisal": 2.39
+        "better": 2.55,
+        "sisal": 2.47
       },
       "X2": {
-        "better": 1.06,
-        "sisal": 1.04
+        "better": 1.05,
+        "sisal": 1.03
       },
       "12": {
         "better": 1.15,
@@ -2845,99 +2883,76 @@
   "11661749": {
     "T/T": {
       "1": {
-        "better": 7.25
+        "better": 4.95
       },
       "2": {
-        "better": 1.05
+        "better": 1.12
       }
     }
   },
   "11660163": {
     "T/T": {
       "1": {
-        "better": 8.5
-      },
-      "2": {
-        "better": 1.03
+        "better": 10.0
       }
     }
   },
   "56102967": {
     "T/T": {
       "2": {
-        "better": 20.0,
+        "better": 18.0,
+        "sisal": 16.0,
+        "vincitu": 8.25
+      }
+    },
+    "T/T SET": {
+      "1": {
+        "vincitu": 1.01
+      },
+      "2": {
+        "vincitu": 8.0
+      }
+    }
+  },
+  "56102941": {
+    "T/T": {
+      "2": {
+        "better": 18.5,
         "sisal": 25.0,
         "vincitu": 8.25
       }
     },
     "T/T SET": {
       "2": {
-        "vincitu": 8.25
-      }
-    }
-  },
-  "56102941": {
-    "T/T": {
-      "1": {
-        "better": 1.02,
-        "sisal": 1.01,
-        "vincitu": 1.02
-      },
-      "2": {
-        "better": 10.5,
-        "sisal": 9.0,
-        "vincitu": 7.25
-      }
-    },
-    "T/T SET": {
-      "1": {
-        "vincitu": 1.16
-      },
-      "2": {
-        "vincitu": 3.95
+        "vincitu": 8.0
       }
     }
   },
   "56103047": {
     "T/T": {
       "1": {
-        "better": 2.9,
-        "sisal": 2.5,
-        "vincitu": 2.8
+        "better": 2.4,
+        "sisal": 1.9,
+        "vincitu": 2.55
       },
       "2": {
-        "better": 1.32,
-        "sisal": 1.42,
-        "vincitu": 1.3
-      }
-    },
-    "T/T SET": {
-      "1": {
-        "vincitu": 8.25
+        "better": 1.47,
+        "sisal": 1.7,
+        "vincitu": 1.37
       }
     }
   },
   "56103079": {
     "T/T": {
       "1": {
-        "better": 1.27
+        "better": 1.25,
+        "sisal": 1.38,
+        "vincitu": 1.25
       },
       "2": {
-        "better": 3.25
-      }
-    }
-  },
-  "56103045": {
-    "T/T": {
-      "1": {
-        "better": 1.22,
-        "sisal": 1.18,
-        "vincitu": 1.2
-      },
-      "2": {
-        "better": 3.55,
-        "sisal": 3.75,
-        "vincitu": 3.4
+        "better": 3.3,
+        "sisal": 2.6,
+        "vincitu": 3.15
       }
     },
     "T/T SET": {
@@ -2949,97 +2964,75 @@
       }
     }
   },
-  "56131595": {
+  "56103045": {
     "T/T": {
       "1": {
-        "better": 9.75,
-        "vincitu": 8.25
+        "better": 1.08,
+        "sisal": 1.04,
+        "vincitu": 1.07
+      },
+      "2": {
+        "better": 5.6,
+        "sisal": 7.0,
+        "vincitu": 5.3
+      }
+    },
+    "T/T SET": {
+      "1": {
+        "vincitu": 1.22
+      },
+      "2": {
+        "vincitu": 3.25
       }
     }
   },
   "56104759": {
     "T/T": {
       "1": {
-        "better": 7.5,
-        "vincitu": 5.8
+        "better": 9.5,
+        "vincitu": 7.0
       },
       "2": {
-        "better": 1.06,
-        "vincitu": 1.05
+        "better": 1.03,
+        "vincitu": 1.03
       }
     },
     "T/T SET": {
       "1": {
-        "vincitu": 2.7
+        "vincitu": 4.15
       },
       "2": {
-        "vincitu": 1.35
-      }
-    }
-  },
-  "56104775": {
-    "T/T": {
-      "1": {
-        "better": 1.02,
-        "sisal": 1.01,
-        "vincitu": 1.02
-      },
-      "2": {
-        "better": 9.75,
-        "sisal": 9.0,
-        "vincitu": 7.25
-      }
-    },
-    "T/T SET": {
-      "1": {
-        "vincitu": 1.1
-      },
-      "2": {
-        "vincitu": 4.6
+        "vincitu": 1.14
       }
     }
   },
   "56104779": {
     "T/T": {
       "1": {
-        "better": 1.47,
-        "sisal": 1.45
+        "better": 1.5,
+        "sisal": 1.45,
+        "vincitu": 1.47
       },
       "2": {
-        "better": 2.35,
-        "sisal": 2.4
-      }
-    }
-  },
-  "51549653": {
-    "T/T": {
-      "1": {
-        "better": 3.4,
-        "sisal": 3.4
-      },
-      "2": {
-        "better": 1.27,
-        "sisal": 1.27
+        "better": 2.3,
+        "sisal": 2.4,
+        "vincitu": 2.3
       }
     },
-    "P/D": {
-      "P": {
-        "sisal": 1.9
+    "T/T SET": {
+      "1": {
+        "vincitu": 1.5
       },
-      "D": {
-        "sisal": 1.8
+      "2": {
+        "vincitu": 2.25
       }
     }
   },
   "51549659": {
     "T/T": {
-      "1": {
-        "better": 1.06,
-        "sisal": 1.06
-      },
       "2": {
-        "better": 7.25,
-        "sisal": 7.25
+        "better": 12.0,
+        "sisal": 12.0
       }
     },
     "P/D": {
@@ -3054,32 +3047,32 @@
   "51549661": {
     "T/T": {
       "1": {
-        "better": 1.3,
-        "sisal": 1.3
+        "better": 1.85,
+        "sisal": 1.85
       },
       "2": {
-        "better": 3.2,
-        "sisal": 3.2
+        "better": 1.85,
+        "sisal": 1.85
       }
     },
     "P/D": {
       "P": {
-        "sisal": 1.85
+        "sisal": 1.9
       },
       "D": {
-        "sisal": 1.85
+        "sisal": 1.8
       }
     }
   },
   "51549655": {
     "T/T": {
       "1": {
-        "better": 6.0,
-        "sisal": 6.0
+        "better": 10.5,
+        "sisal": 9.0
       },
       "2": {
-        "better": 1.09,
-        "sisal": 1.09
+        "better": 1.01,
+        "sisal": 1.01
       }
     },
     "P/D": {
@@ -3094,12 +3087,12 @@
   "51549657": {
     "T/T": {
       "1": {
-        "better": 2.0,
-        "sisal": 2.0
+        "better": 2.35,
+        "sisal": 2.25
       },
       "2": {
-        "better": 1.75,
-        "sisal": 1.75
+        "better": 1.52,
+        "sisal": 1.57
       }
     },
     "P/D": {
@@ -3115,148 +3108,36 @@
     "T/T": {
       "2": {
         "better": 12.5,
-        "vincitu": 9.0
-      }
-    },
-    "1X2": {
-      "X": {
-        "vincitu": 17.0
-      },
-      "2": {
-        "vincitu": 12.0
-      }
-    }
-  },
-  "51357421": {
-    "T/T": {
-      "1": {
-        "better": 9.0,
-        "sisal": 9.0
-      },
-      "2": {
-        "better": 1.03,
-        "sisal": 1.03
-      }
-    },
-    "P/D": {
-      "P": {
-        "sisal": 1.85
-      },
-      "D": {
-        "sisal": 1.85
+        "vincitu": 51.0
       }
     }
   },
   "55594597": {
     "T/T": {
       "1": {
-        "better": 1.08,
-        "sisal": 1.1
+        "better": 1.05
       },
       "2": {
-        "better": 6.5,
-        "sisal": 5.9
-      }
-    },
-    "P/D": {
-      "P": {
-        "sisal": 1.85
-      },
-      "D": {
-        "sisal": 1.85
-      }
-    }
-  },
-  "55594577": {
-    "T/T": {
-      "1": {
-        "better": 1.01,
-        "sisal": 1.01
-      },
-      "2": {
-        "better": 11.0,
-        "sisal": 11.1
-      }
-    },
-    "P/D": {
-      "P": {
-        "sisal": 1.82
-      },
-      "D": {
-        "sisal": 1.88
-      }
-    }
-  },
-  "11327555": {
-    "T/T": {
-      "2": {
-        "better": 8.5,
-        "vincitu": 101.0
-      }
-    },
-    "P/D": {
-      "P": {
-        "sisal": 1.82
-      },
-      "D": {
-        "sisal": 1.82
+        "better": 8.0
       }
     }
   },
   "51608593": {
     "T/T": {
-      "1": {
-        "better": 1.06
-      },
       "2": {
-        "better": 6.0
-      }
-    }
-  },
-  "54170749": {
-    "T/T": {
-      "1": {
-        "better": 3.0,
-        "sisal": 3.05,
-        "vincitu": 2.9
-      },
-      "2": {
-        "better": 1.3,
-        "sisal": 1.3,
-        "vincitu": 1.27
-      }
-    },
-    "P/D": {
-      "P": {
-        "sisal": 1.85
-      },
-      "D": {
-        "sisal": 1.8
-      }
-    },
-    "1X2": {
-      "1": {
-        "vincitu": 3.65
-      },
-      "X": {
-        "vincitu": 8.75
-      },
-      "2": {
-        "vincitu": 1.32
+        "better": 9.0
       }
     }
   },
   "11370098": {
     "T/T": {
-      "1": {
-        "better": 1.02,
-        "sisal": 1.02,
-        "vincitu": 1.02
-      },
       "2": {
-        "better": 7.5,
-        "sisal": 8.4,
-        "vincitu": 8.35
+        "better": 8.5,
+        "sisal": 9.1,
+        "vincitu": 9.0
+      },
+      "1": {
+        "sisal": 1.01
       }
     },
     "P/D": {
@@ -3269,13 +3150,13 @@
     },
     "1X2": {
       "1": {
-        "vincitu": 1.04
+        "vincitu": 1.02
       },
       "X": {
         "vincitu": 14.0
       },
       "2": {
-        "vincitu": 9.5
+        "vincitu": 11.5
       }
     }
   },
@@ -3283,8 +3164,7 @@
     "T/T": {
       "2": {
         "better": 8.5,
-        "sisal": 25.0,
-        "vincitu": 51.0
+        "vincitu": 101.0
       }
     },
     "P/D": {
@@ -3299,61 +3179,58 @@
   "11370100": {
     "T/T": {
       "1": {
-        "better": 8.5,
-        "sisal": 9.1,
-        "vincitu": 9.0
+        "better": 2.45,
+        "sisal": 2.47,
+        "vincitu": 2.5
       },
       "2": {
-        "sisal": 1.01
+        "better": 1.42,
+        "sisal": 1.44,
+        "vincitu": 1.43
       }
     },
     "P/D": {
       "P": {
-        "sisal": 1.82
+        "sisal": 1.86
       },
       "D": {
-        "sisal": 1.82
+        "sisal": 1.78
       }
     },
     "1X2": {
       "1": {
-        "vincitu": 11.0
+        "vincitu": 2.8
       },
       "X": {
-        "vincitu": 16.0
+        "vincitu": 8.0
+      },
+      "2": {
+        "vincitu": 1.52
       }
     }
   },
   "54598139": {
     "T/T": {
       "2": {
-        "better": 8.75
-      }
-    }
-  },
-  "11411423": {
-    "T/T": {
-      "2": {
-        "better": 8.5
+        "better": 9.0
       }
     }
   },
   "11411427": {
     "T/T": {
+      "1": {
+        "better": 1.03
+      },
       "2": {
-        "better": 8.5
+        "better": 7.0
       }
     }
   },
   "55710573": {
     "T/T": {
-      "1": {
-        "better": 1.01,
-        "sisal": 1.01
-      },
       "2": {
-        "better": 8.5,
-        "sisal": 9.25
+        "better": 9.0,
+        "sisal": 9.75
       }
     },
     "P/D": {
@@ -3368,55 +3245,12 @@
   "11651953": {
     "T/T": {
       "1": {
-        "better": 1.45
-      },
-      "2": {
-        "better": 2.55
-      }
-    }
-  },
-  "11651952": {
-    "T/T": {
-      "1": {
-        "better": 1.5,
-        "vincitu": 1.48
-      },
-      "2": {
-        "better": 2.4,
-        "vincitu": 2.35
-      }
-    },
-    "1X2": {
-      "1": {
-        "vincitu": 1.52
-      },
-      "X": {
-        "vincitu": 12.0
-      },
-      "2": {
-        "vincitu": 2.5
-      }
-    }
-  },
-  "55835169": {
-    "T/T": {
-      "1": {
-        "better": 1.35,
-        "sisal": 1.35,
+        "better": 1.37,
         "vincitu": 1.35
       },
       "2": {
-        "better": 2.75,
-        "sisal": 2.8,
-        "vincitu": 2.7
-      }
-    },
-    "P/D": {
-      "P": {
-        "sisal": 1.85
-      },
-      "D": {
-        "sisal": 1.8
+        "better": 2.85,
+        "vincitu": 2.78
       }
     },
     "1X2": {
@@ -3427,77 +3261,44 @@
         "vincitu": 13.0
       },
       "2": {
-        "vincitu": 3.05
+        "vincitu": 2.9
       }
     }
   },
-  "11374743": {
+  "11651952": {
     "T/T": {
       "1": {
-        "better": 4.0,
-        "vincitu": 3.95
+        "better": 1.45,
+        "vincitu": 1.43
       },
       "2": {
-        "better": 1.2,
+        "better": 2.55,
+        "vincitu": 2.5
+      }
+    },
+    "1X2": {
+      "1": {
+        "vincitu": 1.48
+      },
+      "X": {
+        "vincitu": 11.0
+      },
+      "2": {
+        "vincitu": 2.7
+      }
+    }
+  },
+  "55835169": {
+    "T/T": {
+      "1": {
+        "better": 1.18,
+        "sisal": 1.18,
         "vincitu": 1.18
-      }
-    },
-    "1X2": {
-      "1": {
-        "vincitu": 4.25
-      },
-      "X": {
-        "vincitu": 13.0
       },
       "2": {
-        "vincitu": 1.2
-      }
-    }
-  },
-  "55780087": {
-    "T/T": {
-      "1": {
-        "better": 1.02,
-        "sisal": 1.02,
-        "vincitu": 1.02
-      },
-      "2": {
-        "better": 7.75,
-        "sisal": 8.5,
-        "vincitu": 7.0
-      }
-    },
-    "P/D": {
-      "P": {
-        "sisal": 1.8
-      },
-      "D": {
-        "sisal": 1.8
-      }
-    },
-    "1X2": {
-      "1": {
-        "vincitu": 1.02
-      },
-      "X": {
-        "vincitu": 20.0
-      },
-      "2": {
-        "vincitu": 9.75
-      }
-    }
-  },
-  "55713457": {
-    "T/T": {
-      "1": {
-        "better": 4.8,
-        "sisal": 5.4,
-        "vincitu": 4.65
-      },
-      "2": {
-        "better": 1.1,
-        "sisal": 1.09,
-        "vincitu": 1.1
+        "better": 3.8,
+        "sisal": 3.9,
+        "vincitu": 3.7
       }
     },
     "P/D": {
@@ -3510,95 +3311,189 @@
     },
     "1X2": {
       "1": {
-        "vincitu": 5.4
+        "vincitu": 1.22
       },
       "X": {
-        "vincitu": 17.0
+        "vincitu": 14.5
       },
       "2": {
-        "vincitu": 1.14
+        "vincitu": 4.3
+      }
+    }
+  },
+  "11374743": {
+    "T/T": {
+      "1": {
+        "better": 3.2,
+        "vincitu": 3.2
+      },
+      "2": {
+        "better": 1.3,
+        "vincitu": 1.27
+      }
+    },
+    "1X2": {
+      "1": {
+        "vincitu": 3.4
+      },
+      "X": {
+        "vincitu": 11.0
+      },
+      "2": {
+        "vincitu": 1.32
+      }
+    }
+  },
+  "55780087": {
+    "T/T": {
+      "2": {
+        "better": 9.0,
+        "sisal": 9.75,
+        "vincitu": 7.5
+      }
+    },
+    "P/D": {
+      "P": {
+        "sisal": 1.8
+      },
+      "D": {
+        "sisal": 1.8
+      }
+    },
+    "1X2": {
+      "X": {
+        "vincitu": 18.5
+      },
+      "2": {
+        "vincitu": 12.5
+      }
+    }
+  },
+  "55713457": {
+    "T/T": {
+      "1": {
+        "better": 4.45,
+        "sisal": 4.55,
+        "vincitu": 4.2
+      },
+      "2": {
+        "better": 1.12,
+        "sisal": 1.14,
+        "vincitu": 1.12
+      }
+    },
+    "P/D": {
+      "P": {
+        "sisal": 1.85
+      },
+      "D": {
+        "sisal": 1.8
+      }
+    },
+    "1X2": {
+      "1": {
+        "vincitu": 4.85
+      },
+      "X": {
+        "vincitu": 15.0
+      },
+      "2": {
+        "vincitu": 1.16
+      }
+    }
+  },
+  "11618688": {
+    "T/T": {
+      "1": {
+        "sisal": 1.06,
+        "vincitu": 1.05
+      },
+      "2": {
+        "sisal": 7.3,
+        "vincitu": 6.75
+      }
+    },
+    "P/D": {
+      "P": {
+        "sisal": 1.85
+      },
+      "D": {
+        "sisal": 1.85
+      }
+    },
+    "1X2": {
+      "1": {
+        "vincitu": 1.06
+      },
+      "X": {
+        "vincitu": 14.0
+      },
+      "2": {
+        "vincitu": 7.75
       }
     }
   },
   "55576201": {
     "1X2": {
       "1": {
-        "sisal": 3.2
+        "sisal": 4.5
       },
       "X": {
-        "sisal": 1.83
+        "sisal": 1.4
       },
       "2": {
-        "sisal": 3.8
+        "sisal": 5.0
       }
     },
     "DC": {
       "1X": {
-        "sisal": 1.15
+        "sisal": 1.05
       },
       "X2": {
-        "sisal": 1.22
+        "sisal": 1.08
       },
       "12": {
-        "sisal": 1.7
+        "sisal": 2.31
       }
     }
   },
   "55576209": {
     "1X2": {
-      "1": {
-        "sisal": 1.01
-      },
       "X": {
-        "sisal": 10.0
+        "sisal": 12.0
       },
       "2": {
-        "sisal": 26.0
+        "sisal": 23.0
       }
     },
     "DC": {
       "X2": {
-        "sisal": 6.73
+        "sisal": 7.3
       }
     }
   },
-  "51585339": {
-    "T/T": {
-      "2": {
-        "sisal": 25.0
-      }
-    },
-    "P/D": {
-      "P": {
-        "sisal": 1.8
-      },
-      "D": {
-        "sisal": 1.84
-      }
-    }
-  },
-  "51585395": {
+  "51549653": {
     "T/T": {
       "1": {
-        "sisal": 1.01
+        "sisal": 5.0
       },
       "2": {
-        "sisal": 9.1
+        "sisal": 1.12
       }
     },
     "P/D": {
       "P": {
-        "sisal": 1.8
+        "sisal": 1.9
       },
       "D": {
-        "sisal": 1.84
+        "sisal": 1.8
       }
     }
   },
   "52044991": {
     "T/T": {
       "2": {
-        "sisal": 9.75
+        "sisal": 10.0
       }
     },
     "P/D": {
@@ -3613,10 +3508,10 @@
   "52933343": {
     "T/T": {
       "1": {
-        "sisal": 4.0
+        "sisal": 3.2
       },
       "2": {
-        "sisal": 1.18
+        "sisal": 1.27
       }
     },
     "P/D": {
@@ -3634,42 +3529,42 @@
         "sisal": 4.0
       },
       "X": {
-        "sisal": 2.37
+        "sisal": 2.3
       },
       "2": {
-        "sisal": 2.2
+        "sisal": 2.25
       }
     },
     "DC": {
       "1X": {
-        "sisal": 1.46
+        "sisal": 1.43
       },
       "X2": {
         "sisal": 1.12
       },
       "12": {
-        "sisal": 1.39
+        "sisal": 1.41
       }
     }
   },
   "55132627": {
     "1X2": {
       "1": {
-        "sisal": 7.5
+        "sisal": 8.0
       },
       "X": {
         "sisal": 3.6
       },
       "2": {
-        "sisal": 1.4
+        "sisal": 1.36
       }
     },
     "DC": {
       "1X": {
-        "sisal": 2.37
+        "sisal": 2.42
       },
       "12": {
-        "sisal": 1.16
+        "sisal": 1.14
       }
     }
   },
@@ -3690,12 +3585,9 @@
   },
   "11620902": {
     "T/T": {
-      "1": {
-        "sisal": 1.01
-      },
       "2": {
-        "sisal": 9.1,
-        "vincitu": 9.0
+        "sisal": 25.0,
+        "vincitu": 51.0
       }
     },
     "P/D": {
@@ -3707,24 +3599,21 @@
       }
     },
     "1X2": {
-      "1": {
-        "vincitu": 1.03
-      },
       "X": {
         "vincitu": 15.0
       },
       "2": {
-        "vincitu": 10.0
+        "vincitu": 14.0
       }
     }
   },
   "55576271": {
     "1X2": {
       "1": {
-        "sisal": 2.4
+        "sisal": 2.5
       },
       "X": {
-        "sisal": 3.0
+        "sisal": 2.8
       },
       "2": {
         "sisal": 2.62
@@ -3732,92 +3621,149 @@
     },
     "DC": {
       "1X": {
-        "sisal": 1.31
+        "sisal": 1.3
       },
       "X2": {
-        "sisal": 1.37
+        "sisal": 1.33
       },
       "12": {
-        "sisal": 1.23
+        "sisal": 1.26
       }
     }
   },
   "55576225": {
     "1X2": {
       "1": {
-        "sisal": 3.8
+        "sisal": 26.0
       },
       "X": {
-        "sisal": 1.8
+        "sisal": 4.5
       },
       "2": {
-        "sisal": 3.2
+        "sisal": 1.14
       }
     },
     "DC": {
       "1X": {
-        "sisal": 1.2
-      },
-      "X2": {
-        "sisal": 1.13
+        "sisal": 3.69
       },
       "12": {
-        "sisal": 1.7
+        "sisal": 1.08
       }
     }
   },
   "55576197": {
     "1X2": {
       "1": {
-        "sisal": 1.16
+        "sisal": 1.1
       },
       "X": {
-        "sisal": 4.5
+        "sisal": 5.5
       },
       "2": {
-        "sisal": 17.0
+        "sisal": 26.0
       }
     },
     "DC": {
       "X2": {
-        "sisal": 3.43
+        "sisal": 4.34
       },
       "12": {
-        "sisal": 1.07
+        "sisal": 1.04
       }
     }
   },
   "55576221": {
     "1X2": {
       "1": {
-        "sisal": 1.8
+        "sisal": 1.22
       },
       "X": {
-        "sisal": 3.2
+        "sisal": 4.5
       },
       "2": {
-        "sisal": 3.75
+        "sisal": 10.0
       }
     },
     "DC": {
-      "1X": {
-        "sisal": 1.13
-      },
       "X2": {
-        "sisal": 1.69
+        "sisal": 3.01
       },
       "12": {
-        "sisal": 1.2
+        "sisal": 1.07
       }
     }
   },
   "55576241": {
     "1X2": {
       "1": {
-        "sisal": 2.87
+        "sisal": 19.0
       },
       "X": {
+        "sisal": 4.0
+      },
+      "2": {
+        "sisal": 1.2
+      }
+    },
+    "DC": {
+      "1X": {
+        "sisal": 3.19
+      },
+      "12": {
+        "sisal": 1.11
+      }
+    }
+  },
+  "55576245": {
+    "1X2": {
+      "1": {
+        "sisal": 7.0
+      },
+      "X": {
+        "sisal": 3.6
+      },
+      "2": {
+        "sisal": 1.4
+      }
+    },
+    "DC": {
+      "1X": {
+        "sisal": 2.32
+      },
+      "12": {
+        "sisal": 1.15
+      }
+    }
+  },
+  "55576273": {
+    "1X2": {
+      "1": {
+        "sisal": 1.11
+      },
+      "X": {
+        "sisal": 6.5
+      },
+      "2": {
+        "sisal": 13.0
+      }
+    },
+    "DC": {
+      "X2": {
+        "sisal": 4.15
+      },
+      "12": {
+        "sisal": 1.01
+      }
+    }
+  },
+  "55576279": {
+    "1X2": {
+      "1": {
         "sisal": 1.9
+      },
+      "X": {
+        "sisal": 2.87
       },
       "2": {
         "sisal": 4.0
@@ -3828,277 +3774,144 @@
         "sisal": 1.13
       },
       "X2": {
-        "sisal": 1.27
-      },
-      "12": {
         "sisal": 1.64
-      }
-    }
-  },
-  "55576245": {
-    "1X2": {
-      "1": {
-        "sisal": 6.0
-      },
-      "X": {
-        "sisal": 3.75
-      },
-      "2": {
-        "sisal": 1.44
-      }
-    },
-    "DC": {
-      "1X": {
-        "sisal": 2.25
-      },
-      "X2": {
-        "sisal": 1.02
       },
       "12": {
-        "sisal": 1.14
-      }
-    }
-  },
-  "55576273": {
-    "1X2": {
-      "1": {
-        "sisal": 1.57
-      },
-      "X": {
-        "sisal": 3.6
-      },
-      "2": {
-        "sisal": 4.5
-      }
-    },
-    "DC": {
-      "1X": {
-        "sisal": 1.08
-      },
-      "X2": {
-        "sisal": 1.96
-      },
-      "12": {
-        "sisal": 1.15
-      }
-    }
-  },
-  "55576279": {
-    "1X2": {
-      "1": {
-        "sisal": 1.83
-      },
-      "X": {
-        "sisal": 3.0
-      },
-      "2": {
-        "sisal": 4.0
-      }
-    },
-    "DC": {
-      "1X": {
-        "sisal": 1.12
-      },
-      "X2": {
-        "sisal": 1.68
-      },
-      "12": {
-        "sisal": 1.24
-      }
-    }
-  },
-  "55396265": {
-    "1X2": {
-      "1": {
-        "vincitu": 2.25
-      },
-      "X": {
-        "vincitu": 3.1
-      },
-      "2": {
-        "vincitu": 2.8
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "vincitu": 2.0
-      },
-      "NG": {
-        "vincitu": 1.65
+        "sisal": 1.27
       }
     }
   },
   "11589015": {
     "1X2": {
       "1": {
-        "vincitu": 3.94
+        "vincitu": 3.64
       },
       "X": {
-        "vincitu": 2.43
+        "vincitu": 2.4
       },
       "2": {
-        "vincitu": 2.41
+        "vincitu": 2.57
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 3.1
+        "vincitu": 3.22
       },
       "NG": {
-        "vincitu": 1.32
+        "vincitu": 1.3
       }
     }
   },
   "11589020": {
     "1X2": {
       "1": {
-        "vincitu": 1.72
+        "vincitu": 1.77
       },
       "X": {
-        "vincitu": 2.88
+        "vincitu": 2.76
       },
       "2": {
-        "vincitu": 6.67
+        "vincitu": 6.49
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 3.1
+        "vincitu": 3.22
       },
       "NG": {
-        "vincitu": 1.32
-      }
-    }
-  },
-  "55973893": {
-    "1X2": {
-      "1": {
-        "vincitu": 1.27
-      },
-      "X": {
-        "vincitu": 4.25
-      },
-      "2": {
-        "vincitu": 9.75
-      }
-    },
-    "GG/NG": {
-      "GG": {
-        "vincitu": 1.7
-      },
-      "NG": {
-        "vincitu": 1.9
+        "vincitu": 1.3
       }
     }
   },
   "11590587": {
     "1X2": {
       "1": {
-        "vincitu": 7.36
+        "vincitu": 7.39
       },
       "X": {
-        "vincitu": 3.13
+        "vincitu": 3.0
       },
       "2": {
-        "vincitu": 1.6
-      }
-    }
-  },
-  "11492285": {
-    "GG/NG": {
-      "GG": {
-        "vincitu": 10.04
-      },
-      "NG": {
-        "vincitu": 1.02
+        "vincitu": 1.64
       }
     }
   },
   "11591114": {
     "1X2": {
       "1": {
-        "vincitu": 8.13
+        "vincitu": 17.5
       },
       "X": {
-        "vincitu": 4.24
+        "vincitu": 7.81
       },
       "2": {
-        "vincitu": 1.33
+        "vincitu": 1.08
       }
     },
     "GG/NG": {
       "GG": {
-        "vincitu": 1.5
+        "vincitu": 1.52
       },
       "NG": {
-        "vincitu": 2.31
-      }
-    }
-  },
-  "11267342": {
-    "T/T": {
-      "1": {
-        "vincitu": 7.75
-      },
-      "2": {
-        "vincitu": 1.03
-      }
-    },
-    "1X2": {
-      "1": {
-        "vincitu": 9.0
-      },
-      "X": {
-        "vincitu": 14.0
-      },
-      "2": {
-        "vincitu": 1.04
-      }
-    }
-  },
-  "11251112": {
-    "T/T": {
-      "1": {
-        "vincitu": 3.25
-      },
-      "2": {
-        "vincitu": 1.3
-      }
-    },
-    "1X2": {
-      "1": {
-        "vincitu": 3.7
-      },
-      "X": {
-        "vincitu": 8.5
-      },
-      "2": {
-        "vincitu": 1.35
+        "vincitu": 2.26
       }
     }
   },
   "11251111": {
     "T/T": {
       "1": {
-        "vincitu": 6.5
+        "vincitu": 20.0
       },
       "2": {
-        "vincitu": 1.09
+        "vincitu": 1.02
       }
     },
     "1X2": {
       "1": {
-        "vincitu": 7.0
+        "vincitu": 14.0
       },
       "X": {
-        "vincitu": 13.0
-      },
-      "2": {
-        "vincitu": 1.1
+        "vincitu": 17.0
       }
     }
   },
   "11251110": {
+    "T/T": {
+      "1": {
+        "vincitu": 2.1
+      },
+      "2": {
+        "vincitu": 1.7
+      }
+    },
+    "1X2": {
+      "1": {
+        "vincitu": 2.25
+      },
+      "X": {
+        "vincitu": 8.75
+      },
+      "2": {
+        "vincitu": 1.78
+      }
+    }
+  },
+  "11251109": {
+    "T/T": {
+      "2": {
+        "vincitu": 30.0
+      }
+    },
+    "1X2": {
+      "X": {
+        "vincitu": 19.0
+      },
+      "2": {
+        "vincitu": 14.0
+      }
+    }
+  },
+  "11251108": {
     "T/T": {
       "1": {
         "vincitu": 1.95
@@ -4112,102 +3925,48 @@
         "vincitu": 2.05
       },
       "X": {
-        "vincitu": 10.0
+        "vincitu": 10.5
       },
       "2": {
         "vincitu": 1.85
       }
     }
   },
-  "11251109": {
-    "T/T": {
-      "1": {
-        "vincitu": 1.08
-      },
-      "2": {
-        "vincitu": 7.0
-      }
-    },
-    "1X2": {
-      "1": {
-        "vincitu": 1.07
-      },
-      "X": {
-        "vincitu": 16.0
-      },
-      "2": {
-        "vincitu": 7.75
-      }
-    }
-  },
-  "11251108": {
-    "T/T": {
-      "1": {
-        "vincitu": 1.3
-      },
-      "2": {
-        "vincitu": 3.25
-      }
-    },
-    "1X2": {
-      "1": {
-        "vincitu": 1.32
-      },
-      "X": {
-        "vincitu": 13.0
-      },
-      "2": {
-        "vincitu": 3.5
-      }
-    }
-  },
   "11618686": {
     "T/T": {
       "2": {
-        "vincitu": 9.0
-      }
-    },
-    "1X2": {
-      "X": {
-        "vincitu": 15.0
-      },
-      "2": {
-        "vincitu": 13.0
-      }
-    }
-  },
-  "11618688": {
-    "T/T": {
-      "1": {
-        "vincitu": 1.11
-      },
-      "2": {
-        "vincitu": 5.0
-      }
-    },
-    "1X2": {
-      "1": {
-        "vincitu": 1.13
-      },
-      "X": {
-        "vincitu": 14.0
-      },
-      "2": {
-        "vincitu": 5.5
-      }
-    }
-  },
-  "11601101": {
-    "T/T": {
-      "1": {
         "vincitu": 101.0
       }
     }
   },
-  "11601102": {
+  "54170749": {
     "T/T": {
       "1": {
-        "vincitu": 101.0
+        "vincitu": 1.12
+      },
+      "2": {
+        "vincitu": 4.15
+      }
+    },
+    "1X2": {
+      "1": {
+        "vincitu": 1.18
+      },
+      "X": {
+        "vincitu": 8.25
+      },
+      "2": {
+        "vincitu": 5.6
+      }
+    }
+  },
+  "56043639": {
+    "T/T": {
+      "1": {
+        "vincitu": 8.75
+      },
+      "2": {
+        "vincitu": 1.03
       }
     }
   }

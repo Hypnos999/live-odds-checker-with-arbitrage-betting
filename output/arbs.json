@@ -1,49 +1,65 @@
 [
   {
-    "bet_radar_id": "51549657",
-    "cycle": 0,
-    "probability": 0.9878048780487805,
+    "bet_radar_id": "56103047",
+    "cycle": 5,
+    "probability": 0.9803921568627452,
     "sportbooks": [
-      "sisal",
-      "better"
+      "vincitu",
+      "sisal"
     ],
     "staus": true,
-    "score": 1.1219512195121952,
+    "score": 1.1960784313725483,
     "info": {
       "better": {
-        "sport": "basket",
-        "name": "panathinaikos - barcellona",
-        "minute": "3&deg; Q",
-        "score": "55-61"
+        "sport": "tennis",
+        "name": "salazar, amador - villalon valdes, nicolas",
+        "minute": "3&deg; set",
+        "score": "40-0"
       },
       "sisal": {
-        "sport": "basket",
-        "name": "Panathinaikos - Barcellona",
-        "start": "2024-12-03T19:15:00.000Z",
-        "period": "3\u00b0 Quarto",
+        "sport": "tennis",
+        "name": "Salazar, Amador - Villalon Valdes, Nicolas",
+        "start": "2024-12-03T16:25:00.000Z",
+        "period": "Iniziata",
         "score": [
-          "55 - 63"
+          "7 - 6",
+          "0 - 6",
+          "0 - 0",
+          "40 - 0"
+        ]
+      },
+      "vincitu": {
+        "sport": "tennis",
+        "name": "amador salazar - nicolas villalon valdes",
+        "start": "03/12/24 19:30",
+        "tournament": "itf cile",
+        "period": "3",
+        "minute": "0",
+        "score": [
+          "7-6",
+          "0-6",
+          "0-0"
         ]
       }
     },
     "bets": [
       {
-        "odd": 2.05,
-        "sportbook": "sisal",
-        "stake": 50,
-        "win": 102.49999999999999,
+        "odd": 2.55,
+        "sportbook": "vincitu",
+        "stake": 40,
+        "win": 102.0,
         "bet_type": "T/T",
         "outcome": "1",
-        "bet_radar_id": "51549657"
+        "bet_radar_id": "56103047"
       },
       {
-        "odd": 2.0,
-        "sportbook": "better",
-        "stake": 50,
-        "win": 100.0,
+        "odd": 1.7,
+        "sportbook": "sisal",
+        "stake": 60,
+        "win": 102.0,
         "bet_type": "T/T",
         "outcome": "2",
-        "bet_radar_id": "51549657"
+        "bet_radar_id": "56103047"
       }
     ]
   }
