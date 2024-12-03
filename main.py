@@ -1,7 +1,7 @@
-from scraping.utils import manage_start, manage_prep, manage_scrape, manage_parse
-from arbitrage.event import Event
-from arbitrage.arb import Arb
-from config import Config
+from scripts.scraping.utils import manage_start, manage_prep, manage_scrape, manage_parse
+from scripts.arbitrage.event import Event
+from scripts.arbitrage.arb import Arb
+from scripts.config import Config
 
 import time
 import json

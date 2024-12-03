@@ -1,5 +1,5 @@
 import httpx
-from scraping.scraper import Scraper
+from scripts.scraping.scraper import Scraper
 import asyncio
 try:
     import uvloop

@@ -1,4 +1,4 @@
-from scraping.scraper import Scraper as Scraper
+from scripts.scraping.scraper import Scraper as Scraper
 
 def parse (
     scraper: Scraper,

@@ -1,5 +1,5 @@
 import itertools
-from arbitrage.event import Event
+from scripts.arbitrage.event import Event
 
 class Arb():
     def __init__(
