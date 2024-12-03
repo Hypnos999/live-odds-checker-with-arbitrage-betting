@@ -25,9 +25,9 @@ class Scraper:
         self.error = False  
         
         if provider == 'none':
-            module = importlib.import_module(f'scraping.scrapers.{name}')
+            module = importlib.import_module(f'scripts.scraping.scrapers.{name}')
         else:
-            module = importlib.import_module(f'scraping.scrapers.{provider}')
+            module = importlib.import_module(f'scripts.scraping.scrapers.{provider}')
         
         self.parse_func = getattr(module, 'parse')
         
