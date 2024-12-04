@@ -36,19 +36,6 @@ def parse (
                         for i in range(len(outcomes))
                     } 
                     
-                ## add identifier
-                for bet_type in odds:
-                    for outcome in odds[bet_type]:
-                        odds[bet_type][outcome] = [
-                            odds[bet_type][outcome], 
-                            {
-                                "url": f"https://www.eurobet.it/it/scommesse-live/#!{event_obj['breadCrumbInfo']['fullUrl']}",
-                                "bet_type": bet_type,
-                                "outcome": outcome,
-                                "sport": sport_obj['discipline']
-                            }
-                        ]
-                
                 info = {
                     scraper.get_name(): {
                         'name': event_obj['eventInfo']['eventDescription'].lower(),

@@ -108,13 +108,16 @@ class Scraper:
 
         # create odds
         output = {}
-
-        for bet_type in odds:
-            for outcome in odds[bet_type]:
-                if odds[bet_type][outcome] <= 1: continue
-                if bet_type not in output: output[bet_type] = {}
-                output[bet_type][outcome] = odds[bet_type][outcome]
-
+        
+        
+        try:
+            for bet_type in odds:
+                for outcome in odds[bet_type]:
+                    if odds[bet_type][outcome] <= 1: continue
+                    if bet_type not in output: output[bet_type] = {}
+                    output[bet_type][outcome] = odds[bet_type][outcome]
+        except:
+            self.logger.info('')
         if len(output) == 0: 
             if bet_radar_id in events: events.pop(bet_radar_id)
             return events

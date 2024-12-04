@@ -1,65 +1,65 @@
 [
   {
-    "bet_radar_id": "56103047",
-    "cycle": 5,
-    "probability": 0.9803921568627452,
+    "bet_radar_id": "50747901",
+    "cycle": 1,
+    "probability": 0.5790179319591084,
     "sportbooks": [
-      "vincitu",
-      "sisal"
+      "sisal",
+      "allinbet"
     ],
     "staus": true,
-    "score": 1.1960784313725483,
+    "score": 6.2098206804089155,
     "info": {
-      "better": {
-        "sport": "tennis",
-        "name": "salazar, amador - villalon valdes, nicolas",
-        "minute": "3&deg; set",
-        "score": "40-0"
+      "allinbet": {
+        "name": "Pfk Botev Plovdiv Ii - Minior Pernik",
+        "sport": "football",
+        "start": "20241204 13:00:00",
+        "period": "2\u00b0 Tempo",
+        "time": "65",
+        "score": [
+          "1T#0 - 0",
+          "2T#0 - 0",
+          "OT#"
+        ]
+      },
+      "playmatika": {
+        "sport": "football",
+        "name": "Pfk Botev Plovdiv II-Minior Pernik"
       },
       "sisal": {
-        "sport": "tennis",
-        "name": "Salazar, Amador - Villalon Valdes, Nicolas",
-        "start": "2024-12-03T16:25:00.000Z",
-        "period": "Iniziata",
+        "sport": "football",
+        "name": "Pfk Botev Plovdiv II - Minior Pernik",
+        "start": "2024-12-04T12:00:00.000Z",
+        "period": "2\u00b0 Tempo",
         "score": [
-          "7 - 6",
-          "0 - 6",
-          "0 - 0",
-          "40 - 0"
+          "0 - 0"
         ]
       },
-      "vincitu": {
-        "sport": "tennis",
-        "name": "amador salazar - nicolas villalon valdes",
-        "start": "03/12/24 19:30",
-        "tournament": "itf cile",
-        "period": "3",
-        "minute": "0",
-        "score": [
-          "7-6",
-          "0-6",
-          "0-0"
-        ]
+      "eurobet": {
+        "name": "pfk botev plovdiv ii - minior pernik",
+        "sport": "football",
+        "minute": "65'",
+        "score": "0 - 0"
       }
     },
     "bets": [
       {
-        "odd": 2.55,
-        "sportbook": "vincitu",
-        "stake": 40,
-        "win": 102.0,
-        "bet_type": "T/T",
-        "outcome": "1",
-        "bet_radar_id": "56103047"
+        "odd": 3.51,
+        "sportbook": "sisal",
+        "stake": 50,
+        "win": 175.5,
+        "bet_type": "DC",
+        "outcome": "1X",
+        "bet_radar_id": "50747901"
       },
       {
-        "odd": 1.7,
-        "sportbook": "sisal",
-        "stake": 60,
-        "win": 102.0,
-        "bet_type": "T/T",
+        "odd": 3.4,
+        "sportbook": "allinbet",
+        "stake": 50,
+        "win": 170.0,
+        "bet_type": "1X2",
         "outcome": "2",
-        "bet_radar_id": "56103047"
+        "bet_radar_id": "50747901"
       }
     ]
   }
