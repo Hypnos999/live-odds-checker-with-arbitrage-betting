@@ -1,6 +1,6 @@
-2024-12-04 14:25:26,097: Started application with uvloop
-2024-12-04 14:25:26,098: Loaded needed files and cleaned logs
-2024-12-04 14:25:26,099: Config: 
+2024-12-04 14:46:12,200: Started application with asyncio
+2024-12-04 14:46:12,201: Loaded needed files and cleaned logs
+2024-12-04 14:46:12,201: Config: 
 {
   "data_path": "files/data.json",
   "arbs_path": "output/arbs.json",
@@ -26,13 +26,13 @@
   "sleep_after_run": 5
 }
 
-2024-12-04 14:25:26,102: Created scrapers for: allinbet, better, sisal, eurobet, vincitu, playmatika
-2024-12-04 14:25:26,102: Starting main loop, press CTRL + C to exit
-2024-12-04 14:25:26,102: 
-2024-12-04 14:25:26,102: Iteration n.0
-2024-12-04 14:25:26,949: Scraping and parsing done in 0.8471s
-2024-12-04 14:25:26,976: Found: n.118 events, n.0 arbs
-2024-12-04 14:25:31,976: 
-2024-12-04 14:25:31,977: Iteration n.1
-2024-12-04 14:25:32,844: Scraping and parsing done in 0.8674s
-2024-12-04 14:25:32,872: Found: n.118 events, n.1 arbs
+2024-12-04 14:46:12,203: Created scrapers for: allinbet, better, sisal, eurobet, vincitu, playmatika
+2024-12-04 14:46:12,203: Starting main loop, press CTRL + C to exit
+2024-12-04 14:46:12,203: 
+2024-12-04 14:46:12,203: Iteration n.0
+2024-12-04 14:46:12,944: Scraping and parsing done in 0.7408s
+2024-12-04 14:46:12,976: Found: n.116 events, n.0 arbs
+2024-12-04 14:46:17,977: 
+2024-12-04 14:46:17,977: Iteration n.1
+2024-12-04 14:46:18,863: Scraping and parsing done in 0.886s
+2024-12-04 14:46:18,899: Found: n.115 events, n.0 arbs

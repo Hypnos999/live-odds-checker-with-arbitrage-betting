@@ -1,4 +1,1188 @@
 {
+  "55805967": {
+    "allinbet": {
+      "name": "Reggina 1914 - Enna Calcio Scsd",
+      "sport": "football",
+      "start": "20241204 14:30:00",
+      "period": "1\u00b0 Tempo",
+      "time": "14",
+      "score": [
+        "1T#0 - 1",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Reggina 1914-Enna Calcio Scsd"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Reggina - Enna Calcio Scsd",
+      "start": "2024-12-04T13:30:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "0 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "reggina - enna",
+      "sport": "football",
+      "minute": "14'",
+      "score": "0 - 1"
+    }
+  },
+  "55805965": {
+    "allinbet": {
+      "name": "Scafatese - Asd Martina Calcio 1947",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "1\u00b0 Tempo",
+      "time": "43",
+      "score": [
+        "1T#0 - 1",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "scafatese - martina",
+      "minute": "44&deg;",
+      "score": "0-1"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Scafatese-ASD Martina Calcio 1947"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Scafatese - Martina Franca",
+      "start": "2024-12-04T13:00:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "0 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "scafatese - martina franca",
+      "sport": "football",
+      "minute": "43'",
+      "score": "0 - 1"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "scafatese - asd martina calcio 1947",
+      "start": "04/12/24 14:00",
+      "tournament": "italia - coppa iv divisione",
+      "period": "1",
+      "minute": "43",
+      "score": [
+        "0-1"
+      ]
+    }
+  },
+  "55993985": {
+    "allinbet": {
+      "name": "Gsd Castelfidardo - Ravenna Fc",
+      "sport": "football",
+      "start": "20241204 14:30:00",
+      "period": "1\u00b0 Tempo",
+      "time": "16",
+      "score": [
+        "1T#0 - 0",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "eurobet": {
+      "name": "castelfidardo - ravenna",
+      "sport": "football",
+      "minute": "16'",
+      "score": "0 - 0"
+    }
+  },
+  "55805961": {
+    "allinbet": {
+      "name": "Us Follonica Gavorrano - Livorno",
+      "sport": "football",
+      "start": "20241204 14:30:00",
+      "period": "1\u00b0 Tempo",
+      "time": "13",
+      "score": [
+        "1T#0 - 0",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "us follonica gavorrano - livorno",
+      "minute": "14&deg;",
+      "score": "0-0"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "US Follonica Gavorrano-Livorno"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "US Follonica Gavorrano - Livorno   ",
+      "start": "2024-12-04T13:30:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "0 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "follonica gavorrano - livorno",
+      "sport": "football",
+      "minute": "13'",
+      "score": "0 - 0"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "us follonica gavorrano - livorno",
+      "start": "04/12/24 14:30",
+      "tournament": "italia - coppa iv divisione",
+      "period": "1",
+      "minute": "13",
+      "score": [
+        "0-0"
+      ]
+    }
+  },
+  "55805955": {
+    "allinbet": {
+      "name": "Ac Saluzzo Calcio - Usd Lavagnese",
+      "sport": "football",
+      "start": "20241204 14:30:00",
+      "period": "1\u00b0 Tempo",
+      "time": "13",
+      "score": [
+        "1T#0 - 0",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "AC Saluzzo Calcio-Lavagnese"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "AC Saluzzo Calcio - Lavagnese",
+      "start": "2024-12-04T13:30:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "0 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "saluzzo - lavagnese",
+      "sport": "football",
+      "minute": "13'",
+      "score": "0 - 0"
+    }
+  },
+  "55133415": {
+    "allinbet": {
+      "name": "Empoli Fc - Udinese Calcio",
+      "sport": "football",
+      "start": "20241204 13:00:00",
+      "period": "2\u00b0 Tempo",
+      "time": "89",
+      "score": [
+        "1T#1 - 0",
+        "2T#1 - 0",
+        "OT#"
+      ]
+    },
+    "eurobet": {
+      "name": "empoli y - udinese y",
+      "sport": "football",
+      "minute": "89'",
+      "score": "2 - 0"
+    }
+  },
+  "51776857": {
+    "allinbet": {
+      "name": "Santa Clara - Portimonense",
+      "sport": "football",
+      "start": "20241204 13:00:00",
+      "period": "2\u00b0 Tempo",
+      "time": "83",
+      "score": [
+        "1T#0 - 0",
+        "2T#0 - 1",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "santa clara u23 - portimonense u23",
+      "minute": "83&deg;",
+      "score": "0-1"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Santa Clara U23 - Portimonense U23",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "0 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "santa clara - portimonense u23",
+      "sport": "football",
+      "minute": "82'",
+      "score": "0 - 1"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "santa clara u23 - portimonense",
+      "start": "04/12/24 13:00",
+      "tournament": "portogallo - campionato u23",
+      "period": "2",
+      "minute": "82",
+      "score": [
+        "0-0",
+        "0-1"
+      ]
+    }
+  },
+  "52648227": {
+    "allinbet": {
+      "name": "Lee Man Fc - Bg Tampines Rovers",
+      "sport": "football",
+      "start": "20241204 13:00:00",
+      "period": "2\u00b0 Tempo",
+      "time": "88",
+      "score": [
+        "1T#0 - 0",
+        "2T#0 - 0",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "lee man fc - tampines rovers",
+      "minute": "89&deg;",
+      "score": "0-0"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Lee Man FC-Tampines Rovers FC"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Lee Man Warriors FC - Tampines Rovers",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "0 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "lee man fc - bg tampines rovers",
+      "sport": "football",
+      "minute": "88'",
+      "score": "0 - 0"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "lee man fc - bg tampines rovers",
+      "start": "04/12/24 13:00",
+      "tournament": "afc cup",
+      "period": "2",
+      "minute": "88",
+      "score": [
+        "0-0",
+        "0-0"
+      ]
+    }
+  },
+  "52647647": {
+    "allinbet": {
+      "name": "Shanghai Shenhua - Ulsan Hd Fc",
+      "sport": "football",
+      "start": "20241204 13:00:00",
+      "period": "2\u00b0 Tempo",
+      "time": "87",
+      "score": [
+        "1T#1 - 0",
+        "2T#0 - 2",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "shanghai shenhua - ulsan hd fc",
+      "minute": "88&deg;",
+      "score": "1-2"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Shanghai Shenhua - Ulsan Hyundai",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "1 - 2"
+      ]
+    },
+    "eurobet": {
+      "name": "shanghai shenhua - ulsan hyundai",
+      "sport": "football",
+      "minute": "87'",
+      "score": "1 - 2"
+    }
+  },
+  "51712157": {
+    "allinbet": {
+      "name": "Abha Club - Al Safa Sc (sa)",
+      "sport": "football",
+      "start": "20241204 13:30:00",
+      "period": "2\u00b0 Tempo",
+      "time": "55",
+      "score": [
+        "1T#0 - 0",
+        "2T#0 - 0",
+        "OT#"
+      ]
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Abha Club-Al Safa"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Abha - Al Safa (Ksa)",
+      "start": "2024-12-04T12:30:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "0 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "abha club - al safa sc (sa)",
+      "sport": "football",
+      "minute": "55'",
+      "score": "0 - 0"
+    }
+  },
+  "55254883": {
+    "allinbet": {
+      "name": "Kapaz - Imisli Fk",
+      "sport": "football",
+      "start": "20241204 13:00:00",
+      "period": "2\u00b0 Tempo",
+      "time": "87",
+      "score": [
+        "1T#0 - 0",
+        "2T#1 - 0",
+        "OT#"
+      ]
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Kapaz-Imisli FK"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Kapaz - Mil-Mugan FK",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "1 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "kapaz - imisli fk",
+      "sport": "football",
+      "minute": "87'",
+      "score": "1 - 0"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "kapaz - imisli fk",
+      "start": "04/12/24 13:00",
+      "tournament": "coppa azerbajian",
+      "period": "2",
+      "minute": "87",
+      "score": [
+        "0-0",
+        "1-0"
+      ]
+    }
+  },
+  "55254881": {
+    "allinbet": {
+      "name": "Gabala Fk - Qarabag Fk",
+      "sport": "football",
+      "start": "20241204 13:00:00",
+      "period": "2\u00b0 Tempo",
+      "time": "87",
+      "score": [
+        "1T#0 - 1",
+        "2T#0 - 0",
+        "OT#"
+      ]
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Gabala-Qarabag"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Gabala - Qarabag",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "0 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "gabala - qarabag",
+      "sport": "football",
+      "minute": "87'",
+      "score": "0 - 1"
+    }
+  },
+  "50747903": {
+    "allinbet": {
+      "name": "Fc Strumska Slava Radomir - Pfc Belasitsa Petrich",
+      "sport": "football",
+      "start": "20241204 13:00:00",
+      "period": "2\u00b0 Tempo",
+      "time": "89",
+      "score": [
+        "1T#0 - 1",
+        "2T#0 - 0",
+        "OT#"
+      ]
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "FC Strumska Slava Radomir-PFC Belasitsa Petrich"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Strumska Slava - PFC Belasitsa Petrich",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "0 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "strumska slava - pfc belasitsa petrich",
+      "sport": "football",
+      "minute": "89'",
+      "score": "0 - 1"
+    }
+  },
+  "50747893": {
+    "allinbet": {
+      "name": "Fk Cska 1948 Ii - Ofc Nesebar",
+      "sport": "football",
+      "start": "20241204 13:00:00",
+      "period": "2\u00b0 Tempo",
+      "time": "87",
+      "score": [
+        "1T#1 - 1",
+        "2T#1 - 1",
+        "OT#"
+      ]
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "FK CSKA 1948 II-OFC Nesebar"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "FK CSKA 1948 II - PFC Nesebar",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "2 - 2"
+      ]
+    },
+    "eurobet": {
+      "name": "fk cska 1948 ii - nesebar",
+      "sport": "football",
+      "minute": "88'",
+      "score": "2 - 2"
+    }
+  },
+  "50747901": {
+    "allinbet": {
+      "name": "Pfk Botev Plovdiv Ii - Minior Pernik",
+      "sport": "football",
+      "start": "20241204 13:00:00",
+      "period": "2\u00b0 Tempo",
+      "time": "86",
+      "score": [
+        "1T#0 - 0",
+        "2T#0 - 1",
+        "OT#"
+      ]
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Pfk Botev Plovdiv II-Minior Pernik"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Pfk Botev Plovdiv II - Minior Pernik",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "0 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "pfk botev plovdiv ii - minior pernik",
+      "sport": "football",
+      "minute": "86'",
+      "score": "0 - 1"
+    }
+  },
+  "53793041": {
+    "allinbet": {
+      "name": "Ethiopian Coffee Sc - Arba Minch Ketema",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "1\u00b0 Tempo",
+      "time": "47",
+      "score": [
+        "1T#0 - 0",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "ethiopian coffee sc - arba minch kenema",
+      "minute": "48&deg;",
+      "score": "0-0"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Ethiopia Bunna SC - Arba Minch Kenema",
+      "start": "2024-12-04T13:00:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "0 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "ethiopian coffee sc - arba minch ketema",
+      "sport": "football",
+      "minute": "47'",
+      "score": "0 - 0"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "ethiopian coffee sc - arba minch ketema",
+      "start": "04/12/24 14:00",
+      "tournament": "etiopia premier league",
+      "period": "1",
+      "minute": "45",
+      "score": [
+        "0-0"
+      ]
+    }
+  },
+  "53392543": {
+    "allinbet": {
+      "name": "Al Wehdat B - Al Sarhan",
+      "sport": "football",
+      "start": "20241204 13:00:00",
+      "period": "2\u00b0 Tempo",
+      "time": "88",
+      "score": [
+        "1T#0 - 1",
+        "2T#1 - 1",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "al wehdat b - al sarhan",
+      "minute": "89&deg;",
+      "score": "1-2"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "AL Wehdat B - Sama Al Sarhan",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "1 - 2"
+      ]
+    },
+    "eurobet": {
+      "name": "al wehdat b - al sarhan",
+      "sport": "football",
+      "minute": "88'",
+      "score": "1 - 2"
+    }
+  },
+  "54182375": {
+    "allinbet": {
+      "name": "Paok Salonicco - Ao Egaleo 1931 Pae",
+      "sport": "football",
+      "start": "20241204 14:30:00",
+      "period": "1\u00b0 Tempo",
+      "time": "16",
+      "score": [
+        "1T#2 - 0",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "paok salonicco - ao egaleo 1931 pae",
+      "minute": "17&deg;",
+      "score": "2-0"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "PAOK Salonicco - Egaleo Athen",
+      "start": "2024-12-04T13:30:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "2 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "paok salonicco - ao egaleo 1931 pae",
+      "sport": "football",
+      "minute": "16'",
+      "score": "2 - 0"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "paok salonicco - ao egaleo 1931 pae",
+      "start": "04/12/24 14:30",
+      "tournament": "coppa di grecia",
+      "period": "1",
+      "minute": "16",
+      "score": [
+        "2-0"
+      ]
+    }
+  },
+  "55525237": {
+    "allinbet": {
+      "name": "Aris Avatou - Po Alexandroupolis",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "1\u00b0 Tempo",
+      "time": "45",
+      "score": [
+        "1T#0 - 0",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "aris avatou - po alexandroupolis",
+      "minute": "46&deg;",
+      "score": "0-0"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Aris Avatou-Po Alexandroupolis"
+    },
+    "eurobet": {
+      "name": "aris avatou - po alexandroupolis",
+      "sport": "football",
+      "minute": "45'",
+      "score": "0 - 0"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "aris avatou - po alexandroupolis",
+      "start": "04/12/24 14:00",
+      "tournament": "grecia gamma etniki",
+      "period": "1",
+      "minute": "45",
+      "score": [
+        "0-0"
+      ]
+    }
+  },
+  "55733323": {
+    "allinbet": {
+      "name": "Panerythraikos - Fostiras Fc",
+      "sport": "football",
+      "start": "20241204 13:30:00",
+      "period": "2\u00b0 Tempo",
+      "time": "51",
+      "score": [
+        "1T#0 - 0",
+        "2T#0 - 0",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "panerythraikos - fostiras fc",
+      "minute": "52&deg;",
+      "score": "0-0"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Panerythraikos-Fostiras"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Panerythraikos - Fostiras FC",
+      "start": "2024-12-04T12:30:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "0 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "panerythraikos - fostiras fc",
+      "sport": "football",
+      "minute": "51'",
+      "score": "0 - 0"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "panerythraikos  -  fostiras fc",
+      "start": "04/12/24 13:30",
+      "tournament": "grecia - coppa iii divisione",
+      "period": "2",
+      "minute": "51",
+      "score": [
+        "0-0",
+        "0-0"
+      ]
+    }
+  },
+  "56113321": {
+    "allinbet": {
+      "name": "Fc Talanta - Gor Mahia Fc",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "1\u00b0 Tempo",
+      "time": "46",
+      "score": [
+        "1T#1 - 3",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "fc talanta - gor mahia fc",
+      "minute": "47&deg;",
+      "score": "1-3"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "FC Talanta - Gor Mahia FC",
+      "start": "2024-12-04T13:00:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "1 - 3"
+      ]
+    },
+    "eurobet": {
+      "name": "fc talanta - gor mahia fc",
+      "sport": "football",
+      "minute": "46'",
+      "score": "1 - 3"
+    }
+  },
+  "56145739": {
+    "allinbet": {
+      "name": "Invincible Eleven Fc - Global Pharma Fc",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "Intervallo",
+      "time": "45",
+      "score": [
+        "1T#0 - 0",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "invincible eleven fc - global pharma fc",
+      "minute": "45&deg;",
+      "score": "0-0"
+    },
+    "eurobet": {
+      "name": "invincible eleven fc - global pharma fc",
+      "sport": "football",
+      "minute": "45'",
+      "score": "0 - 0"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "invincible eleven fc  -  global pharma fc",
+      "start": "04/12/24 14:00",
+      "tournament": "liberia - i divisione",
+      "period": "0",
+      "minute": "45",
+      "score": [
+        "0-0"
+      ]
+    }
+  },
+  "55774061": {
+    "allinbet": {
+      "name": "Penang Fa - Pdrm Fa",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "1\u00b0 Tempo",
+      "time": "46",
+      "score": [
+        "1T#1 - 0",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Penang - Pdrm",
+      "start": "2024-12-04T13:00:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "1 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "penang fa - pdrm fa",
+      "sport": "football",
+      "minute": "45'",
+      "score": "1 - 0"
+    }
+  },
+  "55938725": {
+    "allinbet": {
+      "name": "Novi Pazar - Radnicki Kragujevac",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "Intervallo",
+      "time": "45",
+      "score": [
+        "1T#1 - 0",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "novi pazar - radnicki kragujevac",
+      "minute": "45&deg;",
+      "score": "1-0"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Novi Pazar-Radnicki Kragujevac"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "FK Novi Pazar - Radnicki",
+      "start": "2024-12-04T13:00:00.000Z",
+      "period": "Intervallo",
+      "score": [
+        "1 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "novi pazar - radnicki kragujevac",
+      "sport": "football",
+      "minute": "45'",
+      "score": "1 - 0"
+    }
+  },
+  "55938723": {
+    "allinbet": {
+      "name": "Fk Mladost Lucani - Fk Imt Novi Beograd",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "1\u00b0 Tempo",
+      "time": "44",
+      "score": [
+        "1T#1 - 1",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "fk mladost lucani - fk imt novi belgrade",
+      "minute": "44&deg;",
+      "score": "1-1"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "FK Mladost Lucani-FK IMT Novi Beograd"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "FK Mladost Lucani - FK IMT",
+      "start": "2024-12-04T13:00:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "1 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "fk mladost lucani - fk imt novi beograd",
+      "sport": "football",
+      "minute": "44'",
+      "score": "1 - 1"
+    }
+  },
+  "56104151": {
+    "allinbet": {
+      "name": "Jbm Fc - Dube Continental Fc",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "1\u00b0 Tempo",
+      "time": "42",
+      "score": [
+        "1T#0 - 1",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "jbm fc - dube continental fc",
+      "minute": "43&deg;",
+      "score": "0-1"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Jbm FC-Dube Continental FC"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Jbm FC - Dube Continental",
+      "start": "2024-12-04T13:00:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "0 - 1"
+      ]
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "jbm fc  -  dube continental fc",
+      "start": "04/12/24 14:00",
+      "tournament": "sudafrica - iii divisione",
+      "period": "1",
+      "minute": "42",
+      "score": [
+        "0-1"
+      ]
+    }
+  },
+  "55344157": {
+    "allinbet": {
+      "name": "Karsiyaka - Mke Ankaragucu",
+      "sport": "football",
+      "start": "20241204 13:30:00",
+      "period": "2\u00b0 Tempo",
+      "time": "59",
+      "score": [
+        "1T#0 - 1",
+        "2T#0 - 0",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "karsiyaka - mke ankaragucu",
+      "minute": "60&deg;",
+      "score": "0-1"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Karsiyaka - Ankaragucu",
+      "start": "2024-12-04T12:30:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "0 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "karsiyaka - mke ankaragucu",
+      "sport": "football",
+      "minute": "59'",
+      "score": "0 - 1"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "karsiyaka - mke ankaragucu",
+      "start": "04/12/24 13:30",
+      "tournament": "coppa di turchia",
+      "period": "2",
+      "minute": "59",
+      "score": [
+        "0-1",
+        "0-0"
+      ]
+    }
+  },
+  "55703529": {
+    "allinbet": {
+      "name": "Fc Oleksandriya - Fc Dynamo Kyiv",
+      "sport": "football",
+      "start": "20241204 14:30:00",
+      "period": "1\u00b0 Tempo",
+      "time": "14",
+      "score": [
+        "1T#0 - 0",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "fc oleksandriya - dynamo kiev",
+      "minute": "14&deg;",
+      "score": "0-0"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Oleksandriya - FC Dynamo Kiev",
+      "start": "2024-12-04T13:30:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "0 - 0"
+      ]
+    },
+    "eurobet": {
+      "name": "fc oleksandriya - fc dynamo kyiv",
+      "sport": "football",
+      "minute": "13'",
+      "score": "0 - 0"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "fc oleksandriya - fc dynamo kyiv",
+      "start": "04/12/24 14:30",
+      "tournament": "ucraina",
+      "period": "1",
+      "minute": "13",
+      "score": [
+        "0-0"
+      ]
+    }
+  },
+  "54057195": {
+    "allinbet": {
+      "name": "Uganda Police Fc - Wakiso Giants Fc",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "1\u00b0 Tempo",
+      "time": "46",
+      "score": [
+        "1T#2 - 1",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "uganda police fc - wakiso giants fc",
+      "minute": "47&deg;",
+      "score": "2-1"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Uganda Police FC-Wakiso Giants FC"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Police FC - Wakiso Giants Fc",
+      "start": "2024-12-04T13:00:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "2 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "uganda police fc - wakiso giants fc",
+      "sport": "football",
+      "minute": "46'",
+      "score": "2 - 1"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "uganda police fc - wakiso giants fc",
+      "start": "04/12/24 14:00",
+      "tournament": "uganda super league",
+      "period": "1",
+      "minute": "45",
+      "score": [
+        "2-1"
+      ]
+    }
+  },
+  "54057197": {
+    "allinbet": {
+      "name": "Bul Fc - Updf Fc",
+      "sport": "football",
+      "start": "20241204 14:00:00",
+      "period": "1\u00b0 Tempo",
+      "time": "45",
+      "score": [
+        "1T#0 - 1",
+        "2T#",
+        "OT#"
+      ]
+    },
+    "better": {
+      "sport": "football",
+      "name": "bul fc - updf fc",
+      "minute": "47&deg;",
+      "score": "0-1"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Bul FC-Updf FC"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "Bul FC - UPDF FC",
+      "start": "2024-12-04T13:00:00.000Z",
+      "period": "1\u00b0 Tempo",
+      "score": [
+        "0 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "bul fc - updf fc",
+      "sport": "football",
+      "minute": "46'",
+      "score": "0 - 1"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "bul fc - updf fc",
+      "start": "04/12/24 14:00",
+      "tournament": "uganda super league",
+      "period": "1",
+      "minute": "45",
+      "score": [
+        "0-1"
+      ]
+    }
+  },
   "56132499": {
     "allinbet": {
       "name": "Zamora  Bastian - Dedura-palomero  Diego",
@@ -8,7 +1192,7 @@
       "time": "0",
       "score": [
         "G#0:0",
-        "1S#3 - 2",
+        "1S#5 - 6",
         "2S#",
         "3S#",
         "4S#",
@@ -33,7 +1217,7 @@
       "period": "1",
       "minute": "0",
       "score": [
-        "3-2"
+        "5-6"
       ]
     }
   },
@@ -42,12 +1226,12 @@
       "name": "Mikulskyte  Justina - Ovcharenko  Ekaterina",
       "sport": "tennis",
       "start": "20241204 13:45:00",
-      "period": "1\u00b0 Set",
+      "period": "2\u00b0 Set",
       "time": "0",
       "score": [
         "G#0:0",
-        "1S#1 - 2",
-        "2S#",
+        "1S#6 - 3",
+        "2S#0 - 0",
         "3S#",
         "4S#",
         "5S#"
@@ -56,7 +1240,7 @@
     "better": {
       "sport": "tennis",
       "name": "mikulskyte, justina - ovcharenko, ekaterina",
-      "minute": "1&deg; set",
+      "minute": "2&deg; set",
       "score": "0-0"
     },
     "playmatika": {
@@ -69,7 +1253,8 @@
       "start": "2024-12-04T12:45:00.000Z",
       "period": "Iniziata",
       "score": [
-        "1 - 2",
+        "6 - 3",
+        "0 - 0",
         "0 - 0"
       ]
     },
@@ -78,1056 +1263,103 @@
       "name": "justina mikulskyte - ekaterina ovcharenko",
       "start": "04/12/24 13:45",
       "tournament": "itf italia",
-      "period": "1",
+      "period": "2",
       "minute": "0",
       "score": [
-        "1-2"
+        "6-3",
+        "0-0"
       ]
     }
   },
-  "55805965": {
-    "allinbet": {
-      "name": "Scafatese - Asd Martina Calcio 1947",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "23",
-      "score": [
-        "1T#0 - 0",
-        "2T#",
-        "OT#"
-      ]
-    },
+  "11637127": {
     "better": {
       "sport": "football",
-      "name": "scafatese - martina franca",
-      "minute": "23&deg;",
+      "name": "a.c.s.d. saluzzo - lavagnese",
+      "minute": "13&deg;",
       "score": "0-0"
+    }
+  },
+  "55805959": {
+    "better": {
+      "sport": "football",
+      "name": "cjarlins muzane - dolomiti bellunesi",
+      "minute": "16&deg;",
+      "score": "1-0"
     },
     "playmatika": {
       "sport": "football",
-      "name": "Scafatese-ASD Martina Calcio 1947"
+      "name": "Asd Cjarlins Muzane-Dolomiti Bellunesi"
     },
     "sisal": {
       "sport": "football",
-      "name": "Scafatese - Martina Franca",
-      "start": "2024-12-04T13:00:00.000Z",
+      "name": "Cjarlins Muzane - Dolomiti Bellunesi",
+      "start": "2024-12-04T13:30:00.000Z",
       "period": "1\u00b0 Tempo",
       "score": [
-        "0 - 0"
+        "1 - 0"
       ]
     },
     "eurobet": {
-      "name": "scafatese - martina franca",
+      "name": "cjarlins muzane - \ndolomiti bellunesi",
       "sport": "football",
-      "minute": "22'",
-      "score": "0 - 0"
+      "minute": "15'",
+      "score": "1 - 0"
     },
     "vincitu": {
       "sport": "football",
-      "name": "scafatese - asd martina calcio 1947",
-      "start": "04/12/24 14:00",
+      "name": "asd cjarlins muzane - dolomiti bellunesi",
+      "start": "04/12/24 14:30",
       "tournament": "italia - coppa iv divisione",
       "period": "1",
-      "minute": "22",
-      "score": [
-        "0-0"
-      ]
-    }
-  },
-  "55133415": {
-    "allinbet": {
-      "name": "Empoli Fc - Udinese Calcio",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "68",
-      "score": [
-        "1T#1 - 0",
-        "2T#0 - 0",
-        "OT#"
-      ]
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Empoli FC U20 - Udinese Calcio U20",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "1 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "empoli y - udinese y",
-      "sport": "football",
-      "minute": "68'",
-      "score": "1 - 0"
-    }
-  },
-  "51872913": {
-    "allinbet": {
-      "name": "Peterborough United - Sheffield Wednesday",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "64",
-      "score": [
-        "1T#0 - 3",
-        "2T#1 - 0",
-        "OT#"
-      ]
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Peterborough United U23 - Sheffield Wed",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "1 - 3"
-      ]
-    },
-    "eurobet": {
-      "name": "peterborough united - sheffield wednesday",
-      "sport": "football",
-      "minute": "65'",
-      "score": "1 - 3"
-    }
-  },
-  "51776857": {
-    "allinbet": {
-      "name": "Santa Clara - Portimonense",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "62",
-      "score": [
-        "1T#0 - 0",
-        "2T#0 - 0",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "santa clara u23 - portimonense u23",
-      "minute": "62&deg;",
-      "score": "0-0"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Santa Clara U23 - Portimonense U23",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "0 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "santa clara - portimonense u23",
-      "sport": "football",
-      "minute": "62'",
-      "score": "0 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "santa clara u23 - portimonense",
-      "start": "04/12/24 13:00",
-      "tournament": "portogallo - campionato u23",
-      "period": "2",
-      "minute": "61",
-      "score": [
-        "0-0",
-        "0-0"
-      ]
-    }
-  },
-  "52648227": {
-    "allinbet": {
-      "name": "Lee Man Fc - Bg Tampines Rovers",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "67",
-      "score": [
-        "1T#0 - 0",
-        "2T#0 - 0",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "lee man fc - tampines rovers",
-      "minute": "68&deg;",
-      "score": "0-0"
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Lee Man FC-Tampines Rovers FC"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Lee Man Warriors FC - Tampines Rovers",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "0 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "lee man fc - bg tampines rovers",
-      "sport": "football",
-      "minute": "67'",
-      "score": "0 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "lee man fc - bg tampines rovers",
-      "start": "04/12/24 13:00",
-      "tournament": "afc cup",
-      "period": "2",
-      "minute": "67",
-      "score": [
-        "0-0",
-        "0-0"
-      ]
-    }
-  },
-  "52648225": {
-    "allinbet": {
-      "name": "Bangkok United Fc - Nam Dinh",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "66",
-      "score": [
-        "1T#2 - 1",
-        "2T#0 - 0",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "bangkok united - nam dinh",
-      "minute": "66&deg;",
-      "score": "2-1"
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Bangkok Utd-Nam Dinh"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Bangkok United - M. Nam Dinh",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "2 - 1"
-      ]
-    },
-    "eurobet": {
-      "name": "bangkok united fc - nam dinh",
-      "sport": "football",
-      "minute": "66'",
-      "score": "2 - 1"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "bangkok united fc - nam dinh",
-      "start": "04/12/24 13:00",
-      "tournament": "afc cup",
-      "period": "2",
-      "minute": "65",
-      "score": [
-        "2-1",
-        "0-0"
-      ]
-    }
-  },
-  "52647647": {
-    "allinbet": {
-      "name": "Shanghai Shenhua - Ulsan Hd Fc",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "66",
-      "score": [
-        "1T#1 - 0",
-        "2T#0 - 2",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "shanghai shenhua - ulsan hd fc",
-      "minute": "67&deg;",
-      "score": "1-2"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Shanghai Shenhua - Ulsan Hyundai",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "1 - 2"
-      ]
-    }
-  },
-  "51712157": {
-    "allinbet": {
-      "name": "Abha Club - Al Safa Sc (sa)",
-      "sport": "football",
-      "start": "20241204 13:30:00",
-      "period": "Intervallo",
-      "time": "45",
-      "score": [
-        "1T#0 - 0",
-        "2T#",
-        "OT#"
-      ]
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Abha Club-Al Safa"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Abha - Al Safa (Ksa)",
-      "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
-      "score": [
-        "0 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "abha club - al safa sc (sa)",
-      "sport": "football",
-      "minute": "49'",
-      "score": "0 - 0"
-    }
-  },
-  "56046571": {
-    "allinbet": {
-      "name": "Al Jeel - Arar",
-      "sport": "football",
-      "start": "20241204 12:55:00",
-      "period": "2\u00b0 Tempo",
-      "time": "69",
-      "score": [
-        "1T#0 - 0",
-        "2T#1 - 0",
-        "OT#"
-      ]
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Al Jeel - Arar",
-      "start": "2024-12-04T11:55:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "1 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "al jeel - arar",
-      "sport": "football",
-      "minute": "68'",
-      "score": "1 - 0"
-    }
-  },
-  "55254883": {
-    "allinbet": {
-      "name": "Kapaz - Imisli Fk",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "66",
-      "score": [
-        "1T#0 - 0",
-        "2T#0 - 0",
-        "OT#"
-      ]
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Kapaz-Imisli FK"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Kapaz - Mil-Mugan FK",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "0 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "kapaz - imisli fk",
-      "sport": "football",
-      "minute": "66'",
-      "score": "0 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "kapaz - imisli fk",
-      "start": "04/12/24 13:00",
-      "tournament": "coppa azerbajian",
-      "period": "2",
-      "minute": "66",
-      "score": [
-        "0-0",
-        "0-0"
-      ]
-    }
-  },
-  "55254881": {
-    "allinbet": {
-      "name": "Gabala Fk - Qarabag Fk",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "66",
-      "score": [
-        "1T#0 - 1",
-        "2T#0 - 0",
-        "OT#"
-      ]
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Gabala-Qarabag"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Gabala - Qarabag",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "0 - 1"
-      ]
-    },
-    "eurobet": {
-      "name": "gabala - qarabag",
-      "sport": "football",
-      "minute": "66'",
-      "score": "0 - 1"
-    }
-  },
-  "51859139": {
-    "allinbet": {
-      "name": "Fk Sloga Doboj - Fk Zeljeznicar Sarajevo",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "66",
-      "score": [
-        "1T#2 - 0",
-        "2T#2 - 0",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "fk sloga doboj - fk zeljeznicar sarajevo",
-      "minute": "66&deg;",
-      "score": "4-0"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "FK Sloga Doboj - Zeljeznicar",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "4 - 0"
-      ]
-    }
-  },
-  "50747901": {
-    "allinbet": {
-      "name": "Pfk Botev Plovdiv Ii - Minior Pernik",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "65",
-      "score": [
-        "1T#0 - 0",
-        "2T#0 - 0",
-        "OT#"
-      ]
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Pfk Botev Plovdiv II-Minior Pernik"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Pfk Botev Plovdiv II - Minior Pernik",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "0 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "pfk botev plovdiv ii - minior pernik",
-      "sport": "football",
-      "minute": "65'",
-      "score": "0 - 0"
-    }
-  },
-  "50747903": {
-    "allinbet": {
-      "name": "Fc Strumska Slava Radomir - Pfc Belasitsa Petrich",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "68",
-      "score": [
-        "1T#0 - 1",
-        "2T#0 - 0",
-        "OT#"
-      ]
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "FC Strumska Slava Radomir-PFC Belasitsa Petrich"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Strumska Slava - PFC Belasitsa Petrich",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "0 - 1"
-      ]
-    },
-    "eurobet": {
-      "name": "strumska slava - pfc belasitsa petrich",
-      "sport": "football",
-      "minute": "69'",
-      "score": "0 - 1"
-    }
-  },
-  "50747893": {
-    "allinbet": {
-      "name": "Fk Cska 1948 Ii - Ofc Nesebar",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "67",
-      "score": [
-        "1T#1 - 1",
-        "2T#0 - 0",
-        "OT#"
-      ]
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "FK CSKA 1948 II-OFC Nesebar"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "FK CSKA 1948 II - PFC Nesebar",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "1 - 1"
-      ]
-    },
-    "eurobet": {
-      "name": "fk cska 1948 ii - nesebar",
-      "sport": "football",
-      "minute": "67'",
-      "score": "1 - 1"
-    }
-  },
-  "53793041": {
-    "allinbet": {
-      "name": "Ethiopian Coffee Sc - Arba Minch Ketema",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "26",
-      "score": [
-        "1T#0 - 0",
-        "2T#",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "ethiopian coffee sc - arba minch kenema",
-      "minute": "27&deg;",
-      "score": "0-0"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Ethiopia Bunna SC - Arba Minch Kenema",
-      "start": "2024-12-04T13:00:00.000Z",
-      "period": "1\u00b0 Tempo",
-      "score": [
-        "0 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "ethiopian coffee sc - arba minch ketema",
-      "sport": "football",
-      "minute": "26'",
-      "score": "0 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "ethiopian coffee sc - arba minch ketema",
-      "start": "04/12/24 14:00",
-      "tournament": "etiopia premier league",
-      "period": "1",
-      "minute": "26",
-      "score": [
-        "0-0"
-      ]
-    }
-  },
-  "53392543": {
-    "allinbet": {
-      "name": "Al Wehdat B - Al Sarhan",
-      "sport": "football",
-      "start": "20241204 13:00:00",
-      "period": "2\u00b0 Tempo",
-      "time": "68",
-      "score": [
-        "1T#0 - 1",
-        "2T#1 - 0",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "al wehdat b - al sarhan",
-      "minute": "68&deg;",
-      "score": "1-1"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "AL Wehdat B - Sama Al Sarhan",
-      "start": "2024-12-04T12:00:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "1 - 1"
-      ]
-    },
-    "eurobet": {
-      "name": "al wehdat b - al sarhan",
-      "sport": "football",
-      "minute": "67'",
-      "score": "1 - 1"
-    }
-  },
-  "55525237": {
-    "allinbet": {
-      "name": "Aris Avatou - Po Alexandroupolis",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "24",
-      "score": [
-        "1T#0 - 0",
-        "2T#",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "aris avatou - po alexandroupolis",
-      "minute": "25&deg;",
-      "score": "0-0"
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Aris Avatou-Po Alexandroupolis"
-    },
-    "eurobet": {
-      "name": "aris avatou - po alexandroupolis",
-      "sport": "football",
-      "minute": "24'",
-      "score": "0 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "aris avatou - po alexandroupolis",
-      "start": "04/12/24 14:00",
-      "tournament": "grecia gamma etniki",
-      "period": "1",
-      "minute": "24",
-      "score": [
-        "0-0"
-      ]
-    }
-  },
-  "56113321": {
-    "allinbet": {
-      "name": "Fc Talanta - Gor Mahia Fc",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "26",
-      "score": [
-        "1T#1 - 1",
-        "2T#",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "fc talanta - gor mahia fc",
-      "minute": "26&deg;",
-      "score": "1-1"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "FC Talanta - Gor Mahia FC",
-      "start": "2024-12-04T13:00:00.000Z",
-      "period": "1\u00b0 Tempo",
-      "score": [
-        "1 - 1"
-      ]
-    },
-    "eurobet": {
-      "name": "fc talanta - gor mahia fc",
-      "sport": "football",
-      "minute": "26'",
-      "score": "1 - 1"
-    }
-  },
-  "56145739": {
-    "allinbet": {
-      "name": "Invincible Eleven Fc - Global Pharma Fc",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "27",
-      "score": [
-        "1T#0 - 0",
-        "2T#",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "invincible eleven fc - global pharma fc",
-      "minute": "28&deg;",
-      "score": "0-0"
-    },
-    "eurobet": {
-      "name": "invincible eleven fc - global pharma fc",
-      "sport": "football",
-      "minute": "26'",
-      "score": "0 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "invincible eleven fc  -  global pharma fc",
-      "start": "04/12/24 14:00",
-      "tournament": "liberia - i divisione",
-      "period": "1",
-      "minute": "27",
-      "score": [
-        "0-0"
-      ]
-    }
-  },
-  "55774061": {
-    "allinbet": {
-      "name": "Penang Fa - Pdrm Fa",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "25",
-      "score": [
-        "1T#0 - 0",
-        "2T#",
-        "OT#"
-      ]
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Penang - Pdrm",
-      "start": "2024-12-04T13:00:00.000Z",
-      "period": "1\u00b0 Tempo",
-      "score": [
-        "0 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "penang fa - pdrm fa",
-      "sport": "football",
-      "minute": "25'",
-      "score": "0 - 0"
-    }
-  },
-  "55938725": {
-    "allinbet": {
-      "name": "Novi Pazar - Radnicki Kragujevac",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "25",
-      "score": [
-        "1T#1 - 0",
-        "2T#",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "novi pazar - radnicki kragujevac",
-      "minute": "26&deg;",
-      "score": "1-0"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "FK Novi Pazar - Radnicki",
-      "start": "2024-12-04T13:00:00.000Z",
-      "period": "1\u00b0 Tempo",
-      "score": [
-        "1 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "novi pazar - radnicki kragujevac",
-      "sport": "football",
-      "minute": "25'",
-      "score": "1 - 0"
-    }
-  },
-  "55938723": {
-    "allinbet": {
-      "name": "Fk Mladost Lucani - Fk Imt Novi Beograd",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "23",
-      "score": [
-        "1T#0 - 1",
-        "2T#",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "fk mladost lucani - fk imt novi belgrade",
-      "minute": "24&deg;",
-      "score": "0-1"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "FK Mladost Lucani - FK IMT",
-      "start": "2024-12-04T13:00:00.000Z",
-      "period": "1\u00b0 Tempo",
-      "score": [
-        "0 - 1"
-      ]
-    },
-    "eurobet": {
-      "name": "fk mladost lucani - fk imt novi beograd",
-      "sport": "football",
-      "minute": "22'",
-      "score": "0 - 1"
-    }
-  },
-  "56104151": {
-    "allinbet": {
-      "name": "Jbm Fc - Dube Continental Fc",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "22",
-      "score": [
-        "1T#0 - 1",
-        "2T#",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "jbm fc - dube continental fc",
-      "minute": "22&deg;",
-      "score": "0-1"
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Jbm FC-Dube Continental FC"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Jbm FC - Dube Continental",
-      "start": "2024-12-04T13:00:00.000Z",
-      "period": "1\u00b0 Tempo",
-      "score": [
-        "0 - 1"
-      ]
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "jbm fc  -  dube continental fc",
-      "start": "04/12/24 14:00",
-      "tournament": "sudafrica - iii divisione",
-      "period": "1",
-      "minute": "21",
-      "score": [
-        "0-1"
-      ]
-    }
-  },
-  "55344157": {
-    "allinbet": {
-      "name": "Karsiyaka - Mke Ankaragucu",
-      "sport": "football",
-      "start": "20241204 13:30:00",
-      "period": "Intervallo",
-      "time": "45",
-      "score": [
-        "1T#0 - 1",
-        "2T#0 - 0",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "karsiyaka - mke ankaragucu",
-      "minute": "45&deg;",
-      "score": "0-1"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Karsiyaka - Ankaragucu",
-      "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
-      "score": [
-        "0 - 1"
-      ]
-    },
-    "eurobet": {
-      "name": "karsiyaka - mke ankaragucu",
-      "sport": "football",
-      "minute": "46'",
-      "score": "0 - 1"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "karsiyaka - mke ankaragucu",
-      "start": "04/12/24 13:30",
-      "tournament": "coppa di turchia",
-      "period": "0",
-      "minute": "45",
-      "score": [
-        "0-1"
-      ]
-    }
-  },
-  "54057195": {
-    "allinbet": {
-      "name": "Uganda Police Fc - Wakiso Giants Fc",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "25",
-      "score": [
-        "1T#1 - 0",
-        "2T#",
-        "OT#"
-      ]
-    },
-    "better": {
-      "sport": "football",
-      "name": "uganda police fc - wakiso giants fc",
-      "minute": "26&deg;",
-      "score": "1-0"
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Uganda Police FC-Wakiso Giants FC"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Police FC - Wakiso Giants Fc",
-      "start": "2024-12-04T13:00:00.000Z",
-      "period": "1\u00b0 Tempo",
-      "score": [
-        "1 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "uganda police fc - wakiso giants fc",
-      "sport": "football",
-      "minute": "25'",
-      "score": "1 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "uganda police fc - wakiso giants fc",
-      "start": "04/12/24 14:00",
-      "tournament": "uganda super league",
-      "period": "1",
-      "minute": "25",
+      "minute": "15",
       "score": [
         "1-0"
       ]
     }
   },
-  "54057197": {
-    "allinbet": {
-      "name": "Bul Fc - Updf Fc",
-      "sport": "football",
-      "start": "20241204 14:00:00",
-      "period": "1\u00b0 Tempo",
-      "time": "24",
-      "score": [
-        "1T#0 - 0",
-        "2T#",
-        "OT#"
-      ]
-    },
+  "55805963": {
     "better": {
       "sport": "football",
-      "name": "bul fc - updf fc",
-      "minute": "26&deg;",
+      "name": "guidonia montecelio 1937 fc - l'aquila",
+      "minute": "18&deg;",
       "score": "0-0"
     },
     "playmatika": {
       "sport": "football",
-      "name": "Bul FC-Updf FC"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Bul FC - UPDF FC",
-      "start": "2024-12-04T13:00:00.000Z",
-      "period": "1\u00b0 Tempo",
-      "score": [
-        "0 - 0"
-      ]
+      "name": "Guidonia Montecelio 1937 FC-L Aquila Calcio 1927"
     },
     "eurobet": {
-      "name": "bul fc - updf fc",
+      "name": "monterosi - l'aquila",
       "sport": "football",
-      "minute": "25'",
+      "minute": "17'",
       "score": "0 - 0"
     },
     "vincitu": {
       "sport": "football",
-      "name": "bul fc - updf fc",
-      "start": "04/12/24 14:00",
-      "tournament": "uganda super league",
+      "name": "guidonia montecelio 1937 fc - l\u2019aquila calcio 1927",
+      "start": "04/12/24 14:30",
+      "tournament": "italia - coppa iv divisione",
       "period": "1",
-      "minute": "25",
+      "minute": "17",
       "score": [
         "0-0"
       ]
+    }
+  },
+  "11637133": {
+    "better": {
+      "sport": "football",
+      "name": "reggina - enna calcio",
+      "minute": "14&deg;",
+      "score": "0-1"
     }
   },
   "11581581": {
     "better": {
       "sport": "football",
       "name": "empoli fc u20 u19 - udinese u20 u19",
-      "minute": "68&deg;",
-      "score": "1-0"
+      "minute": "89&deg;",
+      "score": "2-0"
     },
     "vincitu": {
       "sport": "football",
@@ -1135,9 +1367,9 @@
       "start": "04/12/24 13:00",
       "tournament": "coppa italia primavera",
       "period": "2",
-      "minute": "68",
+      "minute": "89",
       "score": [
-        "1-0"
+        "2-0"
       ]
     }
   },
@@ -1145,18 +1377,18 @@
     "better": {
       "sport": "football",
       "name": "al tai - al batin",
-      "minute": "50&deg;",
-      "score": "3-0"
+      "minute": "64&deg;",
+      "score": "4-0"
     },
     "vincitu": {
       "sport": "football",
       "name": "al-tai fc - al baten",
       "start": "04/12/24 13:20",
       "tournament": "arabia saudita 1a divisione",
-      "period": "0",
-      "minute": "50",
+      "period": "2",
+      "minute": "64",
       "score": [
-        "3-0"
+        "4-0"
       ]
     }
   },
@@ -1164,7 +1396,7 @@
     "better": {
       "sport": "football",
       "name": "abha club - al safa (sa)",
-      "minute": "49&deg;",
+      "minute": "55&deg;",
       "score": "0-0"
     },
     "vincitu": {
@@ -1172,8 +1404,8 @@
       "name": "abha - al-safa",
       "start": "04/12/24 13:30",
       "tournament": "arabia saudita 1a divisione",
-      "period": "0",
-      "minute": "49",
+      "period": "2",
+      "minute": "55",
       "score": [
         "0-0"
       ]
@@ -1183,8 +1415,8 @@
     "better": {
       "sport": "football",
       "name": "al jeel - arar fc",
-      "minute": "68&deg;",
-      "score": "1-0"
+      "minute": "89&deg;",
+      "score": "2-0"
     },
     "vincitu": {
       "sport": "football",
@@ -1192,9 +1424,9 @@
       "start": "04/12/24 12:55",
       "tournament": "arabia saudita 2a divisione",
       "period": "2",
-      "minute": "68",
+      "minute": "89",
       "score": [
-        "1-0"
+        "2-0"
       ]
     }
   },
@@ -1202,7 +1434,7 @@
     "better": {
       "sport": "football",
       "name": "gabala fk - qarabag",
-      "minute": "66&deg;",
+      "minute": "87&deg;",
       "score": "0-1"
     }
   },
@@ -1210,15 +1442,15 @@
     "better": {
       "sport": "football",
       "name": "kapaz - imisli futbol klubu",
-      "minute": "66&deg;",
-      "score": "0-0"
+      "minute": "87&deg;",
+      "score": "1-0"
     }
   },
   "56103479": {
     "better": {
       "sport": "football",
       "name": "niva dolbizno - naftan navapolack",
-      "minute": "67&deg;",
+      "minute": "88&deg;",
       "score": "1-3"
     },
     "sisal": {
@@ -1230,22 +1462,33 @@
         "1 - 3"
       ]
     },
-    "eurobet": {
-      "name": "niva dolbizno - naftan navapolack",
-      "sport": "football",
-      "minute": "66'",
-      "score": "1 - 3"
-    },
     "vincitu": {
       "sport": "football",
       "name": "niva dolbizno - naftan navapolack",
       "start": "04/12/24 13:00",
       "tournament": "bielorrussia premier league",
       "period": "2",
-      "minute": "66",
+      "minute": "87",
       "score": [
         "1-2",
         "0-1"
+      ]
+    }
+  },
+  "51859139": {
+    "better": {
+      "sport": "football",
+      "name": "fk sloga doboj - fk zeljeznicar sarajevo",
+      "minute": "87&deg;",
+      "score": "4-2"
+    },
+    "sisal": {
+      "sport": "football",
+      "name": "FK Sloga Doboj - Zeljeznicar",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "4 - 2"
       ]
     }
   },
@@ -1253,8 +1496,8 @@
     "better": {
       "sport": "football",
       "name": "fc arda kardzhali - ludogorets razgrad",
-      "minute": "24&deg;",
-      "score": "0-1"
+      "minute": "45&deg;",
+      "score": "0-2"
     },
     "sisal": {
       "sport": "football",
@@ -1262,21 +1505,21 @@
       "start": "2024-12-04T13:00:00.000Z",
       "period": "1\u00b0 Tempo",
       "score": [
-        "0 - 1"
+        "0 - 2"
       ]
     },
     "eurobet": {
       "name": "fc arda kardzhali - ludogorets razgrad",
       "sport": "football",
-      "minute": "23'",
-      "score": "0 - 1"
+      "minute": "45'",
+      "score": "0 - 2"
     }
   },
   "11132873": {
     "better": {
       "sport": "football",
       "name": "fc strumska slava radomir - pfc belasitsa petrich",
-      "minute": "68&deg;",
+      "minute": "88&deg;",
       "score": "0-1"
     },
     "vincitu": {
@@ -1285,7 +1528,7 @@
       "start": "04/12/24 13:00",
       "tournament": "serie b bulgara",
       "period": "2",
-      "minute": "68",
+      "minute": "88",
       "score": [
         "0-1"
       ]
@@ -1295,8 +1538,8 @@
     "better": {
       "sport": "football",
       "name": "fk cska 1948 ii - pfc nesebar",
-      "minute": "66&deg;",
-      "score": "1-1"
+      "minute": "87&deg;",
+      "score": "2-2"
     },
     "vincitu": {
       "sport": "football",
@@ -1304,9 +1547,9 @@
       "start": "04/12/24 13:00",
       "tournament": "serie b bulgara",
       "period": "2",
-      "minute": "66",
+      "minute": "87",
       "score": [
-        "1-1"
+        "2-2"
       ]
     }
   },
@@ -1314,8 +1557,8 @@
     "better": {
       "sport": "football",
       "name": "litex lovech - cska sofia ii",
-      "minute": "66&deg;",
-      "score": "1-1"
+      "minute": "87&deg;",
+      "score": "1-2"
     },
     "vincitu": {
       "sport": "football",
@@ -1323,9 +1566,9 @@
       "start": "04/12/24 13:00",
       "tournament": "serie b bulgara",
       "period": "2",
-      "minute": "66",
+      "minute": "87",
       "score": [
-        "1-1"
+        "1-2"
       ]
     }
   },
@@ -1333,8 +1576,8 @@
     "better": {
       "sport": "football",
       "name": "pfk botev plovdiv ii - minior pernik",
-      "minute": "65&deg;",
-      "score": "0-0"
+      "minute": "86&deg;",
+      "score": "0-1"
     },
     "vincitu": {
       "sport": "football",
@@ -1342,9 +1585,9 @@
       "start": "04/12/24 13:00",
       "tournament": "serie b bulgara",
       "period": "2",
-      "minute": "65",
+      "minute": "86",
       "score": [
-        "0-0"
+        "0-1"
       ]
     }
   },
@@ -1363,7 +1606,7 @@
       "sport": "football",
       "name": "Aljazeera Matrouh - Al Olympi",
       "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
+      "period": "2\u00b0 Tempo",
       "score": [
         "1 - 1"
       ]
@@ -1373,7 +1616,7 @@
       "name": "aljazeera matrouh - al olympi",
       "start": "04/12/24 13:30",
       "tournament": "egitto 2a divisione",
-      "period": "0",
+      "period": "2",
       "minute": "50",
       "score": [
         "1-1"
@@ -1384,7 +1627,7 @@
     "better": {
       "sport": "football",
       "name": "horse owners club - damanhur",
-      "minute": "47&deg;",
+      "minute": "49&deg;",
       "score": "1-1"
     },
     "playmatika": {
@@ -1395,7 +1638,7 @@
       "sport": "football",
       "name": "Horse Owners Club - Damanhur",
       "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
+      "period": "2\u00b0 Tempo",
       "score": [
         "1 - 1"
       ]
@@ -1405,8 +1648,8 @@
       "name": "horse owners club - damanhur",
       "start": "04/12/24 13:30",
       "tournament": "egitto 2a divisione",
-      "period": "0",
-      "minute": "47",
+      "period": "2",
+      "minute": "49",
       "score": [
         "1-1"
       ]
@@ -1416,7 +1659,7 @@
     "better": {
       "sport": "football",
       "name": "markaz shabab koom hamada - al-hammam",
-      "minute": "46&deg;",
+      "minute": "50&deg;",
       "score": "0-0"
     },
     "playmatika": {
@@ -1427,7 +1670,7 @@
       "sport": "football",
       "name": "Markaz Shabab Koom Hamada - Al-Hammam",
       "start": "2024-12-04T12:30:00.000Z",
-      "period": "1\u00b0 Tempo",
+      "period": "Intervallo",
       "score": [
         "0 - 0"
       ]
@@ -1437,8 +1680,8 @@
       "name": "markaz shabab koom hamada - al-hammam",
       "start": "04/12/24 13:30",
       "tournament": "egitto 2a divisione",
-      "period": "1",
-      "minute": "46",
+      "period": "0",
+      "minute": "50",
       "score": [
         "0-0"
       ]
@@ -1448,7 +1691,7 @@
     "better": {
       "sport": "football",
       "name": "pioneers fc - damietta",
-      "minute": "48&deg;",
+      "minute": "49&deg;",
       "score": "0-1"
     },
     "playmatika": {
@@ -1459,7 +1702,7 @@
       "sport": "football",
       "name": "Chico SC - Ghazl Damietta",
       "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
+      "period": "2\u00b0 Tempo",
       "score": [
         "0 - 1"
       ]
@@ -1469,8 +1712,8 @@
       "name": "pioneers fc - damietta",
       "start": "04/12/24 13:30",
       "tournament": "egitto 2a divisione",
-      "period": "0",
-      "minute": "48",
+      "period": "2",
+      "minute": "49",
       "score": [
         "0-1"
       ]
@@ -1480,7 +1723,7 @@
     "better": {
       "sport": "football",
       "name": "sed elmahla - biyala sc",
-      "minute": "50&deg;",
+      "minute": "51&deg;",
       "score": "1-0"
     },
     "playmatika": {
@@ -1491,7 +1734,7 @@
       "sport": "football",
       "name": "Sed Elmahla - Biyala",
       "start": "2024-12-04T12:30:00.000Z",
-      "period": "1\u00b0 Tempo",
+      "period": "Intervallo",
       "score": [
         "1 - 0"
       ]
@@ -1501,39 +1744,10 @@
       "name": "sed elmahla - biyala sc",
       "start": "04/12/24 13:30",
       "tournament": "egitto 2a divisione",
-      "period": "1",
-      "minute": "50",
+      "period": "0",
+      "minute": "51",
       "score": [
         "1-0"
-      ]
-    }
-  },
-  "55399637": {
-    "better": {
-      "sport": "football",
-      "name": "paop neas amisou - apollon 1960 krya vrysi fc",
-      "minute": "24&deg;",
-      "score": "0-0"
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Paop Neas Amisou-Apollon 1960 Krya Vrysi FC"
-    },
-    "eurobet": {
-      "name": "paop neas amisou - apollon 1960 krya vrysi fc",
-      "sport": "football",
-      "minute": "23'",
-      "score": "0 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "paop neas amisou  -  apollon 1960 krya vrysi fc",
-      "start": "04/12/24 14:00",
-      "tournament": "grecia gamma etniki",
-      "period": "1",
-      "minute": "23",
-      "score": [
-        "0-0"
       ]
     }
   },
@@ -1541,8 +1755,8 @@
     "better": {
       "sport": "football",
       "name": "aot alimos - ifaistos peristeriou",
-      "minute": "17&deg;",
-      "score": "0-0"
+      "minute": "38&deg;",
+      "score": "0-1"
     },
     "playmatika": {
       "sport": "football",
@@ -1554,14 +1768,14 @@
       "start": "2024-12-04T13:00:00.000Z",
       "period": "1\u00b0 Tempo",
       "score": [
-        "0 - 0"
+        "0 - 1"
       ]
     },
     "eurobet": {
       "name": "trahones - ifaistos peristeriou",
       "sport": "football",
-      "minute": "16'",
-      "score": "0 - 0"
+      "minute": "37'",
+      "score": "0 - 1"
     },
     "vincitu": {
       "sport": "football",
@@ -1569,9 +1783,9 @@
       "start": "04/12/24 14:00",
       "tournament": "grecia - coppa iii divisione",
       "period": "1",
-      "minute": "16",
+      "minute": "37",
       "score": [
-        "0-0"
+        "0-1"
       ]
     }
   },
@@ -1579,7 +1793,7 @@
     "better": {
       "sport": "football",
       "name": "ajax tavrou - fc sourmena",
-      "minute": "45&deg;",
+      "minute": "57&deg;",
       "score": "1-0"
     },
     "playmatika": {
@@ -1590,7 +1804,7 @@
       "sport": "football",
       "name": "Ajax Tavrou - FC Sourmena",
       "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
+      "period": "2\u00b0 Tempo",
       "score": [
         "1 - 0"
       ]
@@ -1598,7 +1812,7 @@
     "eurobet": {
       "name": "ajax tavrou - fc sourmena",
       "sport": "football",
-      "minute": "Pause",
+      "minute": "56'",
       "score": "1 - 0"
     },
     "vincitu": {
@@ -1606,85 +1820,10 @@
       "name": "ajax tavrou  -  fc sourmena",
       "start": "04/12/24 13:30",
       "tournament": "grecia - coppa iii divisione",
-      "period": "0",
-      "minute": "45",
+      "period": "2",
+      "minute": "56",
       "score": [
-        "1-0"
-      ]
-    }
-  },
-  "55733321": {
-    "better": {
-      "sport": "football",
-      "name": "dafni paleou falirou - pao rouf",
-      "minute": "45&deg;",
-      "score": "0-0"
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Dafni Paleou Falirou-Pao Rouf"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Paleo Faliro - Pao Rouf",
-      "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
-      "score": [
-        "0 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "dafni paleou falirou - pao rouf",
-      "sport": "football",
-      "minute": "Pause",
-      "score": "0 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "dafni paleou falirou  -  pao rouf",
-      "start": "04/12/24 13:30",
-      "tournament": "grecia - coppa iii divisione",
-      "period": "0",
-      "minute": "45",
-      "score": [
-        "0-0"
-      ]
-    }
-  },
-  "55733323": {
-    "better": {
-      "sport": "football",
-      "name": "panerythraikos - fostiras fc",
-      "minute": "45&deg;",
-      "score": "0-0"
-    },
-    "playmatika": {
-      "sport": "football",
-      "name": "Panerythraikos-Fostiras"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Panerythraikos - Fostiras FC",
-      "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
-      "score": [
-        "0 - 0"
-      ]
-    },
-    "eurobet": {
-      "name": "panerythraikos - fostiras fc",
-      "sport": "football",
-      "minute": "Pause",
-      "score": "0 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "panerythraikos  -  fostiras fc",
-      "start": "04/12/24 13:30",
-      "tournament": "grecia - coppa iii divisione",
-      "period": "0",
-      "minute": "45",
-      "score": [
+        "1-0",
         "0-0"
       ]
     }
@@ -1693,7 +1832,7 @@
     "better": {
       "sport": "football",
       "name": "patra 2005 a.e. - dafni patron",
-      "minute": "18&deg;",
+      "minute": "39&deg;",
       "score": "0-0"
     },
     "playmatika": {
@@ -1712,7 +1851,7 @@
     "eurobet": {
       "name": "patra 2005 a.e. - dafni patron",
       "sport": "football",
-      "minute": "17'",
+      "minute": "38'",
       "score": "0 - 0"
     },
     "vincitu": {
@@ -1721,7 +1860,7 @@
       "start": "04/12/24 14:00",
       "tournament": "grecia - coppa iii divisione",
       "period": "1",
-      "minute": "17",
+      "minute": "37",
       "score": [
         "0-0"
       ]
@@ -1731,8 +1870,8 @@
     "better": {
       "sport": "football",
       "name": "triglia rafina - ao dionisou",
-      "minute": "45&deg;",
-      "score": "3-1"
+      "minute": "51&deg;",
+      "score": "3-2"
     },
     "playmatika": {
       "sport": "football",
@@ -1742,26 +1881,27 @@
       "sport": "football",
       "name": "Triglia Rafina - Ao Dionisou",
       "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
+      "period": "2\u00b0 Tempo",
       "score": [
-        "3 - 1"
+        "3 - 2"
       ]
     },
     "eurobet": {
       "name": "triglia rafina - ao dionisou",
       "sport": "football",
-      "minute": "Pause",
-      "score": "3 - 1"
+      "minute": "50'",
+      "score": "3 - 2"
     },
     "vincitu": {
       "sport": "football",
       "name": "triglia rafina  -  ao dionisou",
       "start": "04/12/24 13:30",
       "tournament": "grecia - coppa iii divisione",
-      "period": "0",
-      "minute": "45",
+      "period": "2",
+      "minute": "50",
       "score": [
-        "3-1"
+        "3-1",
+        "0-1"
       ]
     }
   },
@@ -1769,7 +1909,7 @@
     "better": {
       "sport": "football",
       "name": "big bullets - karonga united fc",
-      "minute": "45&deg;",
+      "minute": "53&deg;",
       "score": "1-1"
     },
     "playmatika": {
@@ -1780,7 +1920,7 @@
       "sport": "football",
       "name": "Big Bullets - Karonga United",
       "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
+      "period": "2\u00b0 Tempo",
       "score": [
         "1 - 1"
       ]
@@ -1790,10 +1930,11 @@
       "name": "big bullets - karonga united fc",
       "start": "04/12/24 13:30",
       "tournament": "malawi super league",
-      "period": "0",
-      "minute": "45",
+      "period": "2",
+      "minute": "52",
       "score": [
-        "1-1"
+        "1-1",
+        "0-0"
       ]
     }
   },
@@ -1801,7 +1942,7 @@
     "better": {
       "sport": "football",
       "name": "chitipa united - moyale barracks",
-      "minute": "45&deg;",
+      "minute": "54&deg;",
       "score": "1-0"
     },
     "playmatika": {
@@ -1812,7 +1953,7 @@
       "sport": "football",
       "name": "Chitipa United - Moyale Barracks",
       "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
+      "period": "2\u00b0 Tempo",
       "score": [
         "1 - 0"
       ]
@@ -1822,10 +1963,11 @@
       "name": "chitipa united - moyale barracks",
       "start": "04/12/24 13:30",
       "tournament": "malawi super league",
-      "period": "0",
-      "minute": "45",
+      "period": "2",
+      "minute": "53",
       "score": [
-        "1-0"
+        "1-0",
+        "0-0"
       ]
     }
   },
@@ -1833,8 +1975,8 @@
     "better": {
       "sport": "football",
       "name": "pulau pinang - pdrm fa",
-      "minute": "25&deg;",
-      "score": "0-0"
+      "minute": "45&deg;",
+      "score": "1-0"
     },
     "vincitu": {
       "sport": "football",
@@ -1842,9 +1984,9 @@
       "start": "04/12/24 14:00",
       "tournament": "tm super league malaysia",
       "period": "1",
-      "minute": "25",
+      "minute": "45",
       "score": [
-        "0-0"
+        "1-0"
       ]
     }
   },
@@ -1852,7 +1994,7 @@
     "better": {
       "sport": "football",
       "name": "apr fc - police fc rwanda",
-      "minute": "25&deg;",
+      "minute": "46&deg;",
       "score": "1-1"
     }
   },
@@ -1860,8 +2002,12 @@
     "better": {
       "sport": "football",
       "name": "tsc backa topola u19 - fk imt u19",
-      "minute": "55&deg;",
-      "score": "0-1"
+      "minute": "76&deg;",
+      "score": "2-1"
+    },
+    "playmatika": {
+      "sport": "football",
+      "name": "Tsc Backa Topola U19-FK IMT U19"
     },
     "sisal": {
       "sport": "football",
@@ -1869,14 +2015,14 @@
       "start": "2024-12-04T12:00:00.000Z",
       "period": "2\u00b0 Tempo",
       "score": [
-        "0 - 1"
+        "2 - 1"
       ]
     },
     "eurobet": {
       "name": "tsc backa topola - fk imt",
       "sport": "football",
-      "minute": "54'",
-      "score": "0 - 1"
+      "minute": "75'",
+      "score": "2 - 1"
     },
     "vincitu": {
       "sport": "football",
@@ -1884,46 +2030,10 @@
       "start": "04/12/24 13:00",
       "tournament": "serbia - campionato u19",
       "period": "2",
-      "minute": "54",
+      "minute": "75",
       "score": [
         "0-0",
-        "0-1"
-      ]
-    }
-  },
-  "55835791": {
-    "better": {
-      "sport": "football",
-      "name": "gremio fb porto alegrense rs u20 - ec vitoria ba u20",
-      "minute": "80&deg;",
-      "score": "3-1"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Gremio RS U20 - EC Vitoria BA U20",
-      "start": "2024-12-04T11:45:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "3 - 1"
-      ]
-    }
-  },
-  "11288569": {
-    "better": {
-      "sport": "football",
-      "name": "peterborough united u21 - sheffield wednesday u21",
-      "minute": "64&deg;",
-      "score": "1-3"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "peterborough united - sheffield wednesday",
-      "start": "04/12/24 13:00",
-      "tournament": "inghilterra - professional league",
-      "period": "2",
-      "minute": "64",
-      "score": [
-        "1-3"
+        "2-1"
       ]
     }
   },
@@ -1931,14 +2041,14 @@
     "better": {
       "sport": "football",
       "name": "negelle arsi - yeka",
-      "minute": "27&deg;",
+      "minute": "45&deg;",
       "score": "0-0"
     },
     "sisal": {
       "sport": "football",
       "name": "Negelle Arsi - Yeka",
       "start": "2024-12-04T13:00:00.000Z",
-      "period": "1\u00b0 Tempo",
+      "period": "Intervallo",
       "score": [
         "0 - 0"
       ]
@@ -1948,8 +2058,8 @@
     "better": {
       "sport": "football",
       "name": "sheger ketema - injibara ketema",
-      "minute": "62&deg;",
-      "score": "2-0"
+      "minute": "83&deg;",
+      "score": "3-0"
     },
     "sisal": {
       "sport": "football",
@@ -1957,7 +2067,7 @@
       "start": "2024-12-04T12:00:00.000Z",
       "period": "2\u00b0 Tempo",
       "score": [
-        "2 - 0"
+        "3 - 0"
       ]
     }
   },
@@ -1965,7 +2075,7 @@
     "better": {
       "sport": "football",
       "name": "chipukizi fc - mafunzo\u00a0fc",
-      "minute": "17&deg;",
+      "minute": "38&deg;",
       "score": "0-0"
     }
   },
@@ -1973,25 +2083,16 @@
     "better": {
       "sport": "football",
       "name": "crownity north district u22 - hong kong rangers fc u22",
-      "minute": "46&deg;",
-      "score": "0-2"
-    },
-    "sisal": {
-      "sport": "football",
-      "name": "Crownity North District U22 - Hong Kong Rangers FC U22",
-      "start": "2024-12-04T12:30:00.000Z",
-      "period": "Intervallo",
-      "score": [
-        "0 - 2"
-      ]
+      "minute": "58&deg;",
+      "score": "0-3"
     }
   },
-  "11667537": {
+  "11660153": {
     "better": {
       "sport": "tennis",
-      "name": "jacquemot, elsa - mansouri, yasmin",
-      "minute": "3&deg; set",
-      "score": "0-0"
+      "name": "salkova, d - monnet, c",
+      "minute": "1&deg; set",
+      "score": "30-0"
     }
   },
   "56105055": {
@@ -1999,7 +2100,7 @@
       "sport": "tennis",
       "name": "saraiva dos santos p a / zuniga garcia b - gaedechens m / padilla silva g",
       "minute": "1&deg; set",
-      "score": "15-40"
+      "score": "0-15"
     },
     "playmatika": {
       "sport": "tennis",
@@ -2011,8 +2112,8 @@
       "start": "2024-12-04T13:00:00.000Z",
       "period": "Iniziata",
       "score": [
-        "2 - 2",
-        "15 - 40"
+        "5 - 4",
+        "0 - 15"
       ]
     },
     "vincitu": {
@@ -2023,7 +2124,7 @@
       "period": "1",
       "minute": "0",
       "score": [
-        "2-2"
+        "5-4"
       ]
     }
   },
@@ -2032,7 +2133,7 @@
       "sport": "tennis",
       "name": "arutiunian, erik - cias, pawel",
       "minute": "2&deg; set",
-      "score": "40-30"
+      "score": "0-0"
     },
     "playmatika": {
       "sport": "tennis",
@@ -2045,8 +2146,8 @@
       "period": "Iniziata",
       "score": [
         "6 - 3",
-        "3 - 1",
-        "40 - 30"
+        "4 - 5",
+        "0 - 0"
       ]
     },
     "vincitu": {
@@ -2058,8 +2159,16 @@
       "minute": "0",
       "score": [
         "6-3",
-        "3-1"
+        "4-5"
       ]
+    }
+  },
+  "56151795": {
+    "better": {
+      "sport": "tennis",
+      "name": "kroslak, jakub - shaw, michael",
+      "minute": " ",
+      "score": "0-0"
     }
   },
   "56131487": {
@@ -2067,7 +2176,7 @@
       "sport": "tennis",
       "name": "pinera celorio, paola - hageman, madelief",
       "minute": "2&deg; set",
-      "score": "0-15"
+      "score": "40-40"
     },
     "playmatika": {
       "sport": "tennis",
@@ -2080,8 +2189,8 @@
       "period": "Iniziata",
       "score": [
         "6 - 2",
-        "3 - 3",
-        "0 - 15"
+        "5 - 3",
+        "40 - 40"
       ]
     },
     "vincitu": {
@@ -2093,82 +2202,94 @@
       "minute": "0",
       "score": [
         "6-2",
-        "3-3"
-      ]
-    }
-  },
-  "56105049": {
-    "better": {
-      "sport": "tennis",
-      "name": "kashyap, tanisha - sandberg, vivien",
-      "minute": "2&deg; set",
-      "score": "40-40"
-    },
-    "vincitu": {
-      "sport": "tennis",
-      "name": "tanisha kashyap - vivien sandberg",
-      "start": "04/12/24 12:15",
-      "tournament": "itf sudafrica",
-      "period": "2",
-      "minute": "0",
-      "score": [
-        "6-3",
         "5-3"
       ]
     }
   },
-  "53799783": {
+  "56105029": {
+    "better": {
+      "sport": "tennis",
+      "name": "vasilyeva, alexandra - tsygourova, katerina",
+      "minute": "2&deg; set",
+      "score": "0-0"
+    },
+    "playmatika": {
+      "sport": "tennis",
+      "name": "Vasilyeva, Alexandra-Tsygourova, Katerina Live"
+    },
+    "sisal": {
+      "sport": "tennis",
+      "name": "Vasilyeva, Alexandra - Tsygourova, Katerina",
+      "start": "2024-12-04T12:25:00.000Z",
+      "period": "Iniziata",
+      "score": [
+        "6 - 3",
+        "0 - 0",
+        "0 - 0"
+      ]
+    },
+    "vincitu": {
+      "sport": "tennis",
+      "name": "alexandra vasilyeva - katerina tsygourova",
+      "start": "04/12/24 13:25",
+      "tournament": "itf spagna",
+      "period": "2",
+      "minute": "0",
+      "score": [
+        "6-3",
+        "0-0"
+      ]
+    }
+  },
+  "56105079": {
+    "better": {
+      "sport": "tennis",
+      "name": "van vuuren a / vosloo a - danilova o / van der walt a",
+      "minute": " ",
+      "score": "0-0"
+    },
+    "playmatika": {
+      "sport": "tennis",
+      "name": "van Vuuren A / Vosloo A-Danilova O / van Der Walt  Live"
+    },
+    "sisal": {
+      "sport": "tennis",
+      "name": "van Vuuren A / Vosloo A - Danilova O / van Der Walt A",
+      "start": "2024-12-04T13:15:00.000Z"
+    }
+  },
+  "52878031": {
     "better": {
       "sport": "basket",
-      "name": "tianjin pioneers - shandong kirin",
-      "minute": "4&deg; Q",
-      "score": "94-90"
+      "name": "fenerbahce koleji - cagdas bodrum spor",
+      "minute": "1&deg; Q",
+      "score": "17-9"
     },
     "sisal": {
       "sport": "basket",
-      "name": "Tianjin Rong Gang - Shandong Kirin",
-      "start": "2024-12-04T11:35:00.000Z",
-      "period": "4\u00b0 Quarto",
+      "name": "Fenerbahce Koleji - Cagdas Bodrum Spor",
+      "start": "2024-12-04T13:30:00.000Z",
+      "period": "1\u00b0 Quarto",
       "score": [
-        "94 - 90"
+        "17 - 9"
       ]
     },
     "eurobet": {
-      "name": "tianjin pioneers - shandong kirin",
+      "name": "fenerbahce koleji - cagdas bodrum spor",
       "sport": "basket",
-      "minute": "Q4",
-      "score": "94 - 90"
-    }
-  },
-  "55707143": {
-    "better": {
-      "sport": "basket",
-      "name": "rain or shine elasto painters - hong kong eastern long lions",
-      "minute": "4&deg; Q",
-      "score": "78-68"
+      "minute": "Q1",
+      "score": "17 - 9"
     },
-    "sisal": {
+    "vincitu": {
       "sport": "basket",
-      "name": "Rain Or Shine Elasto - Hong Kong Eastern Long Lions",
-      "start": "2024-12-04T11:30:00.000Z",
-      "period": "4\u00b0 Quarto",
+      "name": "fenerbahce koleji - cagdas bodrum spor",
+      "start": "04/12/24 14:30",
+      "tournament": "turchia - ii divisione",
+      "period": "1",
+      "minute": "7",
       "score": [
-        "78 - 68"
+        "17-9"
       ]
-    },
-    "eurobet": {
-      "name": "rain or shine elasto painters - hong kong eastern long lions",
-      "sport": "basket",
-      "minute": "Q4",
-      "score": "78 - 68"
-    }
-  },
-  "56125861": {
-    "better": {
-      "sport": "basket",
-      "name": "golgohar sirjan - palayesh naft abadan u23",
-      "minute": "4&deg; Q",
-      "score": "58-57"
     }
   },
   "50747889": {
@@ -2182,25 +2303,14 @@
       "start": "2024-12-04T12:00:00.000Z",
       "period": "2\u00b0 Tempo",
       "score": [
-        "1 - 1"
+        "1 - 2"
       ]
     },
     "eurobet": {
       "name": "litex lovech - cska sofia ii",
       "sport": "football",
-      "minute": "67'",
-      "score": "1 - 1"
-    }
-  },
-  "55774059": {
-    "sisal": {
-      "sport": "football",
-      "name": "Kuching FA - Sabah",
-      "start": "2024-12-04T11:30:00.000Z",
-      "period": "2\u00b0 Tempo",
-      "score": [
-        "1 - 2"
-      ]
+      "minute": "88'",
+      "score": "1 - 2"
     }
   },
   "51712031": {
@@ -2208,82 +2318,85 @@
       "sport": "football",
       "name": "Al Tai - Al Baten",
       "start": "2024-12-04T12:20:00.000Z",
-      "period": "Intervallo",
+      "period": "2\u00b0 Tempo",
       "score": [
-        "3 - 0"
+        "4 - 0"
       ]
     },
     "eurobet": {
       "name": "al tai - al baten",
       "sport": "football",
-      "minute": "45'",
-      "score": "3 - 0"
+      "minute": "64'",
+      "score": "4 - 0"
     }
   },
-  "53799451": {
+  "51872913": {
     "sisal": {
-      "sport": "basket",
-      "name": "Fujian Quanzhou Bank - Foshan Longlions",
-      "start": "2024-12-04T11:35:00.000Z",
-      "period": "4\u00b0 Quarto",
+      "sport": "football",
+      "name": "Peterborough United U23 - Sheffield Wed",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
       "score": [
-        "92 - 106"
+        "1 - 3"
+      ]
+    },
+    "eurobet": {
+      "name": "peterborough united - sheffield wednesday",
+      "sport": "football",
+      "minute": "86'",
+      "score": "1 - 3"
+    }
+  },
+  "52648225": {
+    "sisal": {
+      "sport": "football",
+      "name": "Bangkok United - M. Nam Dinh",
+      "start": "2024-12-04T12:00:00.000Z",
+      "period": "2\u00b0 Tempo",
+      "score": [
+        "3 - 1"
+      ]
+    },
+    "eurobet": {
+      "name": "bangkok united fc - nam dinh",
+      "sport": "football",
+      "minute": "86'",
+      "score": "3 - 1"
+    },
+    "vincitu": {
+      "sport": "football",
+      "name": "bangkok united fc - nam dinh",
+      "start": "04/12/24 13:00",
+      "tournament": "afc cup",
+      "period": "2",
+      "minute": "86",
+      "score": [
+        "2-1",
+        "1-0"
       ]
     }
   },
-  "56104999": {
-    "sisal": {
-      "sport": "tennis",
-      "name": "Asaba A / Pierre H - Caripi V / Lorusso L",
-      "start": "2024-12-04T11:55:00.000Z",
-      "period": "Iniziata",
-      "score": [
-        "4 - 6",
-        "4 - 6",
-        "0 - 40"
-      ]
-    }
-  },
-  "55924761": {
-    "sisal": {
-      "sport": "tennis",
-      "name": "Salkova, Dominika - Monnet, Carole",
-      "start": "2024-12-04T12:00:00.000Z"
+  "56046571": {
+    "eurobet": {
+      "name": "al jeel - arar",
+      "sport": "football",
+      "minute": "89'",
+      "score": "2 - 0"
     }
   },
   "52561077": {
     "eurobet": {
       "name": "apr fc - police fc rwanda",
       "sport": "football",
-      "minute": "25'",
+      "minute": "45'",
       "score": "1 - 1"
-    }
-  },
-  "56119119": {
-    "eurobet": {
-      "name": "stella rossa y - brodarac y",
-      "sport": "football",
-      "minute": "61'",
-      "score": "6 - 0"
-    },
-    "vincitu": {
-      "sport": "football",
-      "name": "stella rossa - fk brodarac",
-      "start": "04/12/24 13:00",
-      "tournament": "serbia - campionato u19",
-      "period": "2",
-      "minute": "61",
-      "score": [
-        "4-0",
-        "2-0"
-      ]
     }
   },
   "55072901": {
     "eurobet": {
       "name": "domzale y - nk bravo publikum",
       "sport": "football",
-      "minute": "69'",
+      "minute": "89'",
       "score": "1 - 1"
     }
   },
@@ -2294,9 +2407,9 @@
       "start": "04/12/24 14:00",
       "tournament": "bulgaria",
       "period": "1",
-      "minute": "24",
+      "minute": "44",
       "score": [
-        "0-1"
+        "0-2"
       ]
     }
   },
@@ -2307,22 +2420,35 @@
       "start": "04/12/24 14:00",
       "tournament": "coppa serbia",
       "period": "1",
-      "minute": "23",
+      "minute": "44",
       "score": [
-        "0-1"
+        "1-1"
       ]
     }
   },
-  "11647912": {
+  "11649554": {
     "vincitu": {
       "sport": "football",
-      "name": "fk sloga doboj - fk zeljeznicar",
-      "start": "04/12/24 13:00",
-      "tournament": "bosnia premier league",
-      "period": "2",
-      "minute": "65",
+      "name": "fk novi pazar - fk radnicki 1923",
+      "start": "04/12/24 14:00",
+      "tournament": "coppa serbia",
+      "period": "0",
+      "minute": "45",
       "score": [
-        "4-0"
+        "1-0"
+      ]
+    }
+  },
+  "55399637": {
+    "vincitu": {
+      "sport": "football",
+      "name": "paop neas amisou  -  apollon 1960 krya vrysi fc",
+      "start": "04/12/24 14:00",
+      "tournament": "grecia gamma etniki",
+      "period": "1",
+      "minute": "44",
+      "score": [
+        "0-2"
       ]
     }
   },
@@ -2333,9 +2459,9 @@
       "start": "04/12/24 14:00",
       "tournament": "grecia gamma etniki",
       "period": "1",
-      "minute": "23",
+      "minute": "44",
       "score": [
-        "1-0"
+        "2-0"
       ]
     }
   },
@@ -2346,7 +2472,7 @@
       "start": "04/12/24 14:00",
       "tournament": "grecia gamma etniki",
       "period": "1",
-      "minute": "23",
+      "minute": "44",
       "score": [
         "0-0"
       ]
@@ -2359,9 +2485,9 @@
       "start": "04/12/24 13:00",
       "tournament": "giordania divisione 1",
       "period": "2",
-      "minute": "67",
+      "minute": "88",
       "score": [
-        "1-1"
+        "1-2"
       ]
     }
   },
@@ -2372,9 +2498,36 @@
       "start": "04/12/24 14:00",
       "tournament": "kenyan premier league",
       "period": "1",
-      "minute": "25",
+      "minute": "46",
       "score": [
-        "1-1"
+        "1-3"
+      ]
+    }
+  },
+  "55733321": {
+    "vincitu": {
+      "sport": "football",
+      "name": "dafni paleou falirou  -  pao rouf",
+      "start": "04/12/24 13:30",
+      "tournament": "grecia - coppa iii divisione",
+      "period": "2",
+      "minute": "56",
+      "score": [
+        "0-0",
+        "0-1"
+      ]
+    }
+  },
+  "11361862": {
+    "vincitu": {
+      "sport": "football",
+      "name": "shanghai shenhua - ulsan hd fc",
+      "start": "04/12/24 13:00",
+      "tournament": "asia - afc champions league",
+      "period": "2",
+      "minute": "87",
+      "score": [
+        "1-2"
       ]
     }
   },
@@ -2384,75 +2537,12 @@
       "name": "enisey krasnoyarsk - avtodor saratov",
       "start": "04/12/24 13:30",
       "tournament": "vtb league",
-      "period": "0",
-      "minute": "20",
+      "period": "3",
+      "minute": "28",
       "score": [
         "18-26",
-        "17-22"
-      ]
-    }
-  },
-  "11508823": {
-    "vincitu": {
-      "sport": "basket",
-      "name": "fujian sbs xunxing - guangzhou loong lions",
-      "start": "04/12/24 12:35",
-      "tournament": "campionato cina",
-      "period": "4",
-      "minute": "3",
-      "score": [
-        "21-31",
-        "17-32",
-        "25-22",
-        "29-21"
-      ]
-    }
-  },
-  "11508824": {
-    "vincitu": {
-      "sport": "basket",
-      "name": "qingdao eagles - zhejiang guangsha lions",
-      "start": "04/12/24 12:35",
-      "tournament": "campionato cina",
-      "period": "4",
-      "minute": "3",
-      "score": [
-        "18-25",
-        "26-33",
-        "21-23",
-        "22-20"
-      ]
-    }
-  },
-  "11508825": {
-    "vincitu": {
-      "sport": "basket",
-      "name": "tianjin ronggang pioneers - shandong kirin",
-      "start": "04/12/24 12:35",
-      "tournament": "campionato cina",
-      "period": "4",
-      "minute": "7",
-      "score": [
-        "36-28",
-        "35-33",
-        "18-19",
-        "5-10"
-      ]
-    }
-  },
-  "11508826": {
-    "vincitu": {
-      "sport": "basket",
-      "name": "zhejiang golden bulls - jilin northeast tigers",
-      "start": "04/12/24 12:35",
-      "tournament": "campionato cina",
-      "period": "4",
-      "minute": "3",
-      "score": [
-        "34-35",
-        "50-20",
-        "40-30",
-        "25-22"
+        "17-22",
+        "8-14"
       ]
     }
   },
@@ -2462,12 +2552,13 @@
       "name": "xinjiang guanghui flying tigers - ningbo fubon rocket",
       "start": "04/12/24 13:00",
       "tournament": "campionato cina",
-      "period": "3",
-      "minute": "2",
+      "period": "4",
+      "minute": "3",
       "score": [
         "36-31",
         "32-26",
-        "30-32"
+        "33-32",
+        "31-11"
       ]
     }
   },
@@ -2477,10 +2568,11 @@
       "name": "lola de leon - ana cruz",
       "start": "04/12/24 13:50",
       "tournament": "itf brasile",
-      "period": "1",
+      "period": "2",
       "minute": "0",
       "score": [
-        "2-2"
+        "2-6",
+        "0-0"
       ]
     }
   },
@@ -2490,10 +2582,11 @@
       "name": "camila rodero contreras - marie mettraux",
       "start": "04/12/24 14:00",
       "tournament": "itf brasile",
-      "period": "1",
+      "period": "2",
       "minute": "0",
       "score": [
-        "0-4"
+        "0-6",
+        "1-1"
       ]
     }
   },
@@ -2503,10 +2596,11 @@
       "name": "jennifer rosa dourado - raquel ferreira bradbury",
       "start": "04/12/24 14:00",
       "tournament": "itf brasile",
-      "period": "1",
+      "period": "2",
       "minute": "0",
       "score": [
-        "3-1"
+        "6-2",
+        "0-0"
       ]
     }
   },
@@ -2516,10 +2610,11 @@
       "name": "marjorie souza - helena bueno",
       "start": "04/12/24 14:00",
       "tournament": "itf brasile",
-      "period": "1",
+      "period": "2",
       "minute": "0",
       "score": [
-        "2-4"
+        "2-6",
+        "0-1"
       ]
     }
   },
@@ -2532,7 +2627,7 @@
       "period": "1",
       "minute": "0",
       "score": [
-        "0-1"
+        "1-4"
       ]
     }
   },
@@ -2545,22 +2640,7 @@
       "period": "1",
       "minute": "0",
       "score": [
-        "1-1"
-      ]
-    }
-  },
-  "56126259": {
-    "vincitu": {
-      "sport": "tennis",
-      "name": "faris zakaria - vadym ursu",
-      "start": "04/12/24 12:15",
-      "tournament": "itf egitto",
-      "period": "3",
-      "minute": "0",
-      "score": [
-        "2-6",
-        "7-6",
-        "2-4"
+        "4-1"
       ]
     }
   },
@@ -2575,7 +2655,7 @@
       "score": [
         "4-6",
         "6-2",
-        "1-1"
+        "3-4"
       ]
     }
   },
@@ -2589,7 +2669,7 @@
       "minute": "0",
       "score": [
         "4-6",
-        "0-0"
+        "2-2"
       ]
     }
   },
@@ -2599,10 +2679,11 @@
       "name": "david poljak - marek gengel",
       "start": "04/12/24 13:40",
       "tournament": "itf egitto",
-      "period": "1",
+      "period": "2",
       "minute": "0",
       "score": [
-        "4-5"
+        "4-6",
+        "3-3"
       ]
     }
   },
@@ -2615,7 +2696,7 @@
       "period": "1",
       "minute": "0",
       "score": [
-        "3-1"
+        "5-2"
       ]
     }
   },
@@ -2628,7 +2709,7 @@
       "period": "1",
       "minute": "0",
       "score": [
-        "0-1"
+        "2-2"
       ]
     }
   },
@@ -2641,7 +2722,7 @@
       "period": "1",
       "minute": "0",
       "score": [
-        "1-1"
+        "4-2"
       ]
     }
   },
@@ -2656,36 +2737,7 @@
       "score": [
         "4-6",
         "6-4",
-        "3-3"
-      ]
-    }
-  },
-  "56104939": {
-    "vincitu": {
-      "sport": "tennis",
-      "name": "miguel damas - ignacio parisca romera",
-      "start": "04/12/24 12:00",
-      "tournament": "itf spagna",
-      "period": "3",
-      "minute": "0",
-      "score": [
-        "4-6",
-        "6-3",
-        "5-2"
-      ]
-    }
-  },
-  "56104937": {
-    "vincitu": {
-      "sport": "tennis",
-      "name": "meneses perny, asier  -  villar, max",
-      "start": "04/12/24 13:20",
-      "tournament": "itf spagna",
-      "period": "2",
-      "minute": "0",
-      "score": [
-        "3-6",
-        "1-3"
+        "5-5"
       ]
     }
   },
@@ -2699,20 +2751,7 @@
       "minute": "0",
       "score": [
         "6-2",
-        "1-0"
-      ]
-    }
-  },
-  "56105029": {
-    "vincitu": {
-      "sport": "tennis",
-      "name": "alexandra vasilyeva - katerina tsygourova",
-      "start": "04/12/24 13:25",
-      "tournament": "itf spagna",
-      "period": "1",
-      "minute": "0",
-      "score": [
-        "5-2"
+        "4-1"
       ]
     }
   },
@@ -2722,53 +2761,37 @@
       "name": "sylvie zund - lucia natal",
       "start": "04/12/24 13:40",
       "tournament": "itf spagna",
+      "period": "2",
+      "minute": "0",
+      "score": [
+        "6-3",
+        "0-0"
+      ]
+    }
+  },
+  "56104981": {
+    "vincitu": {
+      "sport": "tennis",
+      "name": "palazon a / ros parres l  -  kannan a / roesch c",
+      "start": "04/12/24 14:30",
+      "tournament": "itf spagna",
       "period": "1",
       "minute": "0",
       "score": [
-        "5-2"
+        "1-0"
       ]
     }
   },
-  "56105017": {
+  "56126369": {
     "vincitu": {
       "sport": "tennis",
-      "name": "dominik palan - niels lootsma",
-      "start": "04/12/24 12:20",
-      "tournament": "itf sudafrica",
-      "period": "3",
+      "name": "carles cordoba - maxime chazal",
+      "start": "04/12/24 14:35",
+      "tournament": "itf spagna",
+      "period": "1",
       "minute": "0",
       "score": [
-        "3-6",
-        "6-2",
-        "2-5"
-      ]
-    }
-  },
-  "56105047": {
-    "vincitu": {
-      "sport": "tennis",
-      "name": "elena jamshidi - jessica schilz",
-      "start": "04/12/24 12:45",
-      "tournament": "itf sudafrica",
-      "period": "2",
-      "minute": "0",
-      "score": [
-        "7-6",
-        "4-1"
-      ]
-    }
-  },
-  "56105015": {
-    "vincitu": {
-      "sport": "tennis",
-      "name": "alexey aleshchev - philip henning",
-      "start": "04/12/24 13:05",
-      "tournament": "itf sudafrica",
-      "period": "2",
-      "minute": "0",
-      "score": [
-        "2-6",
-        "3-5"
+        "1-0"
       ]
     }
   },
@@ -2782,22 +2805,46 @@
       "minute": "0",
       "score": [
         "3-6",
+        "3-1"
+      ]
+    }
+  },
+  "56104997": {
+    "vincitu": {
+      "sport": "tennis",
+      "name": "beaven j / mischker f  -  jansen w / kamrowski m",
+      "start": "04/12/24 14:35",
+      "tournament": "itf sudafrica",
+      "period": "1",
+      "minute": "0",
+      "score": [
         "1-0"
       ]
     }
   },
-  "56100319": {
+  "56104993": {
     "vincitu": {
       "sport": "tennis",
-      "name": "jacquemot, elsa  -  mansouri, yasmin",
-      "start": "04/12/24 11:45",
-      "tournament": "challenger francia",
-      "period": "3",
+      "name": "beckley a / van wyk k  -  covato m / volpi g",
+      "start": "04/12/24 14:40",
+      "tournament": "itf sudafrica",
+      "period": "1",
       "minute": "0",
       "score": [
-        "6-3",
-        "4-6",
-        "5-5"
+        "0-0"
+      ]
+    }
+  },
+  "55924761": {
+    "vincitu": {
+      "sport": "tennis",
+      "name": "dominika salkova - carole monnet",
+      "start": "04/12/24 14:40",
+      "tournament": "challenger francia",
+      "period": "1",
+      "minute": "0",
+      "score": [
+        "0-0"
       ]
     }
   }

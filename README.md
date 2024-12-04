@@ -58,7 +58,7 @@ I uploaded both the files in the output folder and the script logs in files/logs
 3. run pip install -r requirements.txt
 4. set script behavior by changing config.py
 5. run python main.py
-
+6. OPTIONAL: if you are on a Linux system install python package uvloop, as it has better performances compared to asyncio
 
 
 ## Disclaimer
